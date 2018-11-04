@@ -1,0 +1,3153 @@
+Hey Whts the model no of ur calculator?
+Thnx
+Hey after running powertop --calibrate
+And can u send the commands to be run after installing tlp?
+After powertops calibrate?
+Ok thnx!
+Oh and how did u change how the icons and all look?
+Ok thnx
+😂
+So basically it's the number of 5's that appear when u find the factors of the number?
+10! Has two zeroes but u can divide 10 by 5 only once...
+???
+Ya no idea
+Whts the ans?
+Oh ans is on top
+Wth?
+Wait lemme do in pc
+Nothing else at least in the hematite exp
+There r dll and .o files in python I guess it has something to do with that?(those files r there in the windows version not sure about Linux)
+👍🏻
+Only the first one
+Not sure hv to ask ma'am Tomo
+Not yet
+Did u get tower of Hanoi?
+Chirag told to think in a mathematical way
+I'm still stuck
+And no arrays it seems
+So I'm even more stuck
+👍🏻
+😳😟
+Ask chirag he'll probably hv the link
+The Hindi ones were from code ninja
+how do u choose which disk move will be the most optimal one?
+Base case chirag told...he said it depends on input
+But that'll be human thinking
+Oh
+Ys
+Ya
+Ya
+😂
+I gv up, saw a video from geekforgeeks and the soln is hilarious😂😂😂😂
+Ya I finished keypad
+//m.youtube.com/watch?v=YstLjLCGmgg
+Hey wht did u write for analysis and discussion for first exp?
+Or just send a pic
+Nm I wrote something off
+I left long back
+Crap
+I'm asking chirag if there's another way
+How did u get it??
+Wow Thnx I told chirag he still has to reply
+Ur still there??
+He said the pic is fine
+But
+The college is in kengri it seems and if it's not near peenya we can't go to the college and then go there...I hv to go to the college tomorrow since I hv tht sheet with me
+Ya it's possible I can leave the sheet with sambar after cross checking in the morning
+*sanibar
+The other CR
+Stupid autocorrect
+Nineleaps?
+No wht is it
+Nope
+Whts the former? I don't hv the message
+I'm not coming tomo...not feeling well
+Did u give attendance for comp lab? Even I forgot...can u try asking ma'am to give attendance?
+//m.youtube.com/watch?v=i7sm9dzFtEI
+Got attendance?
+😂😂😂😂
+I don't understand at all😂😂😂
+Dude tomo chem lab rite
+Lol chuck it
+They took it?
+😓
+How do u do the mean value theorem pdf excercises q 2 and 4 on the lmvt part?
+I got 4...I want to cross check the 2nd one
+And the 3rd of rolled theorem
+Ya same
+Ya I still don't get it
+I don't understand the hibt
+In the 3rd of rolled we hv to prove tht the function goes to 0 at some point c
+And at that point slope is x axis
+Parallel to x axis
+Ya
+But how do u prove it?
+How do u just assume stuff like thay
+This is not needed I think
+This part
+Oh ya
+Technically g(0)=g(1) that's all not necessarily 0
+Oh
+OK how do u assume this
+Assume it's rite noe? It's already proved off👍🏻
+Especially the f'(x)=f(x) part
+OK assuming the hint how do u get this? Once u get this u get the ans
+Ok
+How do u do this?
+U should use mesh analysis
+Mesh analysis is used to find loop current whereas kvl is used to find branch current
+There's a duf
+Nope
+Sayan guy doesn't hv?
+Ayiooo
+The shop near college might hv
+Ask shubham where he got his
+After comp u can buy a cheap one
+👍🏻
+?
+OK got same
+Ikr
+Is it like potential across A and B is potential across 12 ohm?
+I=2A?
+The current sources thing
+And will the current source affect the voltage across the 12 ohm resistor?
+OK so how do u find it?
+Source transformation?
+Finding load current
+Using thevenin's theorem
+Then?I'm
+*then
+Current sources are in parallel here
+If they are in series then also add?
+V=10/3
+Oh ya
+Now what?
+Vth is 30?
+Open circuit noe when finding vth
+??
+This step ya
+And rth also
+Forget it it's too Complicated
+I think it's right...u simplify the entire circuit to this and then do everything
+To this to be exact
+And now start applying thevenin's theorem
+Aey the slides in the cd and the slides which he uses r dif
+Till slide 13/15 I think
+?
+Ans Is b
+Idk that's the ans written
+Hey u going tomo?
+Aey tomo business is there
+I don't want to go to college
+U live near ish so it's fine
+Going
+Dude it's waaaay too big
+Somethings wrong with my Ubuntu
+Asked chirag he said malware
+God noes
+Safe resetting -> booting into safe mode and doing something
+To go to safe mode goto grub menu, advanced options and select recovery mode...now waiting for chirag to reply
+Hey how do u access Ubuntu partition from windows? I want to backup atleast my assignment
+Tty thingy I can
+Oh I just copy it from there rite?
+Nm
+Ya
+😅
+Tried it...ended up logging me out for no reasob
+Wth...now everything is fine...I booted into Ubuntu and everything came back
+Idk whts going on
+The change i notice is tht the third party fix which I put for the wifi driver is gone
+I did...thrice
+I did tht but it was like run some dpkg configure command or whtnot...I did that before contacting chirag and the safe mode thingy
+I did it in TTY
+Whts TTY full form?
+Typewriter???
+Woah
+Holy crap
+Hey how do I install gdm themes? I got one nice one from one website called gnome-look.org but it's an archive...no idea wht to do
+Where?
+Remember I told u tht my pc took a long time to reboot? After the whole icon thing tht got fixed for some reason
+Basically wherever u put Ant u should put the theme name rite?
+Ant is a theme right?
+Gdm tgene
+Themr
+Theme
+Ayioo ik
+In this context
+Insect
+😂😂😂
+Seriously?? U still dint get it?
+Ya keep it simple
+Isn't x code the apple thingy?
+But isn't it only for Mac?
+It's there on Linux?
+U hv Mac?
+Oh
+Hackintosh
+Ya tht
+I still dint see it...I don't think I'll attend the session...my grandfather is at the hospital...
+I'll log in to discord to get the attendance points
+Wht string functions u used to check for spam? Actually wht string functions are there in C?
+But how did u find the spam words in the mail?
+There is no direct find function?
+Holy shit
+Holy shit again
+Dint u finish it?
+Wait so u dint finish the entire thing
+I'll go home and check...at grand parents house now
+Hey u hv an office activator?
+Can u send it to me?
+Ok
+Got Matlab R2017a for linux
+Hey whts the ans for the resistance u got for this q?
+Not rx...after simplifying the stuff
+//linuxtor.org/155-mathworks-matlab-r2017a.html
+Link has magnet link
+The word is short circuited
+I used a lot of Star-delta stuff
+Ya
+And in urs, where did the top 12 ohm and top 6 ohm go?
+Nm
+It's Matlab
+Or simulink to be exact
+Ignore the scope and shit
+Like in a normal circuit, where do I place the voltmeter and ammeter so that I can find the load resistance?
+So Thts rite? Wht I did
+The voltage and current measurement thingy are the meters
+It's simplish
+9.16 ohm
+And wht did u use for the graph?
+If u double click scope it'll show u graph
+Desmos?
+Oh
+👍🏻
+Nope...one of the matlab ones is like comp...finding element in an array and gettinh its index
+They haven’t asked for time complexity so don’t scare me...I don’t want to explain tht stuff
+I’ll google some complicated algo and use it😛
+Then how do u find out the time taken by ur method and the find method? Some inbuilt thing is there in Matlab?
+Oh
+Still thts not related to math...it’s more like a comp question
+Wht formula used?
+10+35+20 is not 70
+In the figure 3, u add X and Y to get total voltage?
+Ok thanks
+Wait
+Huh?
+In the figure in the q, there are parts left hanging loose(dont now wht u call them in PCBs) so how to represent them in the diagram
+So don’t draw them in the circuit?
+Ok I’ll crop it off then
+Thanks
+Why would it change?
+How do u calculate it using the Vth^2/4Rl formula? I used urs and I got a different answer
+How?
+U end up simplifying the circuit completely rite?
+Ya I got it using urs but how do u apply thevenin's theorem?
+And u hv to apply thevenin's theorem to find Rx in the first place
+Wait whts the ans? Like power thing is not given in the pic
+U need to reduce the circuit to thevenin's equivalent circuit and the value of Rth u find out is the value of resistance for maximum power transfer...so u kinda need thevenin's theorem
+I'll ask sir wht to do
+Finished everything in electrical apart from the essay q
+All the writing work done
+Yup write essay ask this doubt to sir and update all the index and stuff and electrical over
+Best is to ask sir
+Ya
+Idk can't think anymore
+Thts all...comp did the writing part of 3qs
+U?
+U Finished everything except debates???????
+😱😱😱
+😵
+Wht u finished?
+Tomo chem lab noe?
+Chem or electrical?
+Yaaa I think tomorrow is electrical
+Shit
+I hv to write
+Which experiment we should write?
+😓
+Ignore off...write wht we did
+Dude that'll take time...I think
+Oh ya...the one with the wrong resistor value
+The dude gv us the wrong one
+Tomo experiment is long it seems
+The dude told noe
+Ayioo I'll wrote something...he also said it was fine so leave...In the limitations I'll write something like non availability of required resistors or something
+Oh ya dude how do we fill the table?
+Ya best is to ask sir how to write this thing...u can't fill the table properly only
+We hv three cases of values...and the table only has space for one
+Ya
+So r u writing something?
+The experiment says to vary voltage
+And there's nothing about maximum power transfer theorem...theory or calculations...in the manual
+Actually
+???
+But no values?
+I won't write anything...I'll ask sir wht to do
+Ya noe
+Pakka tomo electrical lab?
+Oi send math
+I dint write any part A's
+Ya
+It's there on the class group
+Dude r u going for the debug thingy?
+OK I'll also come then...tht interview thing is there noe?
+Dude send chem and math
+Wht compare function?
+I wrote how there are many uses and all
+😳
+Not much at all😓😓😰
+Wait u solved it???
+Wth...
+Chem and math?
+Holy shit OK don't forget to send it
+Thnx man
+Math part b first q
+*part
+Velocity at what time?
+Pi?
+Thts a constant
+-3pi/2
+-3xpi/2
+How did u get the 2pi^2 part
+Huh?
+Ya that
+How did u get c=2pi^2?
+I thought u used y=mx+c but I couldn't figure out how u got value of c
+So u found displacement at time t=pi and equated it to 3xpi/2+c?
+Ya
+Idk...wait how the hell did u get the displacement at t=pi? Did u like get the displacement at that time using the distance function in the given in the q?
+Second function is not given
+So u need the function to find the function is wht ur saying
+😳
+U mean 1/2(t^2 + 5tsint)
+...OK I got 2pi^2, but if u look at the graph, when t=pi, the distance isn't 2pi^2, it's around 4.9-5ish
+So Is the graph wrong?
+No like is the equi wrong
+Why is there discrepancy?
+Ya
+Oh
+Crap
+Ok
+Nm
+Shit
+Ya
+😅
+C is y intercept
+Dude can u send the doc file instead of pdf?
+Nm...I found shortcut keys to write eqs do writing it is faster
+How do u insert matrices of any size??
+I needed the doc since I don't noe how to do this...converting from pdf to doc screwed up the formating and I ended up copying some matrix from somewhere and editing the values😂
+Ya but that's only pre-defined sizes
+Like if I want 50x100 or something
+Wait
+OK nm
+It's right
+U went to college?
+Can u send math?
+Ya I got it
+Some stupid thing I thought
+Can u send math?
+Wth u haven't reached yet?
+Ayioo rama
+Also send the comp one...I want to noe how u wrote the references...I don't have any references!
+Or can u refer sites like quora and all?
+U Finished civil?
+😳😳😳
+U r so chill...I'll dying in the essays
+If I chuck doing the spam filter I can kind of relax...I hv civil and essays left but I really want to do spam filter
+Hell no it'll be boring
+im doing ulta
+nope
+only comp debate over
+Have all the essays left except comp essay...finished it just now
+And full civil
+Thts why use paint
+And in the electrical essay...everything is there in the slides only...can we write slides in references?
+Dude how do u return a string in a function?
+Dint start
+spam filter program done!
+Same functionality as urs, only flaw is tht the spam words can't have spaces...they should be only one word
+Checked it?
+How much did u finish in civil?
+I literally dint start...starting tomo morning
+Technically I thought I'll copy from urs😛
+Hey send math and civil
+How much is left for u?
+That's a lot of ram usage
+??
+No like overall
+All assignments
+Shit I have to write algo for the spam filter...😳😱😰
+He solved it?
+Mine?
+Crap I now whts wrong
+I basically check for spam stuff after the user enters mail content...since u added the spam word after entering the mail, when it checked the mail the word dint exist...
+I'll change it wait
+OK I can't do it without objects and classes (or structures)...I fixed the problem but I encountered one where if the same guy sends multiple mails I can't keep track of which mail is sent by which user...the arrays get messed up
+So this is a limitation
+This is the only q where I have proper limitations
+U have waaaaaaaaaaaaaaaaaay too much time on ur hands
+And I'm already sleepy
+U can do it using dictionaries/mappings but objects/structures is better
+Is it possible to make an array of a structure?
+Oh good C is fine regarding that
+Ohhhh
+Damn u can't do this q without structures
+It'll be waaaaaaaaaaaaaaaaaay to complicated
+And hard to understand
+😂😂😂
+Hey send civil and math when ur done
+Holy when will u sleep?
+Thts fine
+Are our ans in math right? How did he solve the rolles theorem part?
+Wth I'll use Newton raphson method👍🏻
+U can use tht
+Oiii, send math and civil
+When did u sleep yesterday?
+Or did u sleep today like 5 in the morning?
+😳😳😳😳😳😵
+I'll die if I sleep then...
+Thanks for the assignments
+Finished chem debate...doing phy debate
+Civil full left
+Math debate
+Comp outputs
+And all the index stuff and name writing things
+👏🏻👏🏻👏🏻
+Oh
+It should be 45.9 for u
+Only have civil and math debate left...u?
+Lucky...
+2 debates and comp spam prog
+I'm hoping to do comp with structures but idk
+Ya I write and think
+Even though u gv me ur assignments I only read them and did everything by myself
+Paint.net
+The first q is messy
+Hey send civil debate
+Thnx
+It isn't urs though...or did u change everything???
+U used this?
+References?
+How the hell did u get them
+Like how did u noe relevant stuff was written in the books?
+Hey for the riemann sum thing, how did u get the graph? Like all the rectangles and all
+Nope
+We are in the cs department right?
+Where?
+Crap
+Ya...
+Does it give graph?
+Oh ya good point
+OK give me a func
+X^4?I'm
+Is fine?
+OK then don't do that and print the rest we'll ask Maam
+Or sir
+Then write that
+Best is to follow the pdf
+Dude do u have the code for the desmos thing?
+In Matlab the y axis labels are not small enough
+I used that I got this graph
+For the 1st q in part b, should we write the code for the graph? The question doesn't say to do so
+Ya only cs pics left and index and stuff
+U?
+Dude I ended up getting a seg fault in my spam prog for some reason
+Nm I fixed it...luckily I sent u the code before trying to fix that problem u found out
+No clue...dint check the code I just rewrote the entire thingy (Ctrl+C and Ctrl+V)
+😂😂😂
+I haven't installed any C stuff on windows...so Idk if it'll run on windows...I use Linux for programs
+Hey did they give papers on Saturday?
+😓
+Is any C compiler there by default in windows?
+Ya
+But God noes if it's as easy to use in Linux
+Like via cmd
+Oh wow one good thing about windows
+Lol nm
+😂😂
+Dude do we hv proctors?
+Wth is tht fact function??😂😂😂
+Wht happened to the whts app group?
+It's not factories?😂😂😂
+*factorial
+U had proctor meeting?
+Wht was it?
+😳😳😳they think Thts high level???
+😳😳😳
+U got apron?
+Input is the stuff the structure contains
+Then an option which writes the current structure data to a file (as a structure using binary files? Idk)
+Then another option which reads the full file and displays the contents of the file
+Oh
+Go to file
+And see if it’s activated
+Crack?
+Like office crack
+Ayioooo
+Send cross over noe? Along with the crack
+And office u got from where?
+Ya it doesn’t
+Crossover doesn’t work
+Send the links where u got cross over and office nor
+*noe
+Wait the link I sent?
+Linuxtor or something
+Office also from there?
+I give up
+No crack for word
+I’m not coming tomo...got fever😭😭😭😭
+I don't get the experiment...most probably we should do it again
+Lol
+Tht experiment is beyond weird
+Wait ur bunking lab????????
+😳😳 how many people came?
+What happened in the meeting?
+The thing he told first?
+👍🏻
+Downside is that I can't run PowerPoint and word at the same time, but that can be fixed easily in the script...I don't syntax tho
+Another downside is that the virtual machine has to be in a saved state...Thts not exactly downside but ya
+But definite downside is that battery will drain faster
+Ya I need to add more ram...and I was thinking to chuck the cd drive and put an ssd with Mac on it...it's possible rite? Will the grub show option for Mac or should I change the boot order whenever I want to log into Mac?
+Another downside is that alt-tabbing becomes weird...when word is focused, it alt-tabs through all the windows stuff, when any Linux app is focused, it alt-tabs through all the Linux appd
+So wait, u can't install Mac os on ssds? Only hdds??
+Win 7 takes very less ram...when running word it took only 600 or so mb
+BSOD?
+I faced purple screen of death...something had happened to my display itself...once I replaced it everything was fine
+Windows and mac
+Github username firekind
+Fractal pattern dp huh?
+Mandelbrot
+Dude for the comp assignment second question b part, the input is just the roll numbers rite?
+Crap structure
+Hell no Thts long
+I used structures 👍🏻
+Understood pointers a bit more
+Used qsort
+Reg number is int
+If I change to str and make some changes in the comparator function for the q sort it'll work
+Nope doing 3rd q of comp now
+In the mailing list thing, should we take the address as an input as well?
+But a mailing list should have the address of the ppl...it's like common sense
+In a way...but house number, which street and all u won't get to noe
+Dint even see the other assignments qs
+U going for any of the events?
+Ur gonna stay till 12 in the morning???
+I'm only going for the python thing
+I dunno image processing and all
+Dude I'll be coming really really late today
+😳😳😳
+how many people came?
+For?
+Ok
+But ask on the group of anyone will come
+Wth lucky
+In 2.7, input() will try to guess the data type of the thing u entered. Not sure how it works in 3
+In 2.7, there's a function called raw_input() which returns string
+Same function as input
+But in 2.7, there's a problem in using input()...say ur program is x=input("blah blah blah")
+U can't
+U hv to use raw_input
+Thts why input() is not that encouraged
+But this problem isn't there in 3.x
+And there is no raw_input in 3.x
+Ya
+😳😳😳
+eval("p")()=p()
+He said it's just single quotes in bash
+Thts all
+😂😂😂
+Wht is new? There’s a q Mark
+Dude, the error thing he taught was for 3vars ...partial diff will be there for that...and the error thing is just an application of the complete derivative of a function of 3 vars
+d(sinx)/dx is cos x
+Idk ur confusing me
+IE11?
+So u can see deleted messages still
+Dude the question itself is mis leading
+U should’ve written abt the risk in answering only 6qs
+Idk how to
+Whts a straw poll in the first place?
+Ik poll but straw poll?
+Before that, how many ppl even answered the poll?
+Lol
+LOL many ppl mute the group and keep...they don’t even see the messages
+Which version of MATLAB will work on 1gb ram?
+GUI
+the person for whom I’m installing has no computer sense
+Windows
+Not Linux
+Dude create a poll and send me the link...I can’t figure out where I see the results
+Hey whts the dif between a broadcast and a group on WhatsApp?
+Chuck it
+When should we give our elec lab manuals?
+Don’t forget to bring the external hard disk with the games tomorrow
+I’ll see
+If u can get the hard disk bring it
+Ok wht all games do u hv?
+Aey I want to choose...I don’t have any specific game that I want...send pic of the folders of the games, the names will be on the folders I’ll see from there
+Ull get the external HDD then?
+👍🏻
+Tomo we’ll sit in the front bench
+😂
+Huh???
+How?????
+Why?
+I’ll install arch on virtual box...want to try out
+👍🏻
+Dude u hv the qs pdf?
+For math
+The practice questions
+Send wht u hv
+Thnx
+Ur own question?
+Why don’t u put the Hamiltonian operator in it? It’ll be much more interesting uk
+The q makes no sense...is eq one and eq two part of the question or is it the answer or something?
+U found out all the derivatives and did it...brute force approach
+Point
+What did I write then?
+😂😂
+Hey what’s chroot environment?
+And when I reboot, I end up going to the uefi shell😓😓😓
+I fixed this
+Ok I’ll try it wait
+I dint do anything with Cory
+Xorg
+//www.tecmint.com/arch-linux-installation-and-configuration-guide/amp/
+Followed instructions on this link
+Ur guide was scary in partitons
+cfdisk is nice👍🏻
+Ya
+😂😂😂😂😂
+Nice dream😂😂😂😂
+But doh what by doh x?
+How do U even do that sum?
+Or is it an implicit function?
+Diff of ln x is 1/x noe?
+So how is doh u/doh x=1/u times 3x^2-3yz?
+Missed voice call
+Then urs is wrong noe?
+But urs is wrong right?
+Maybe u=x^3 + y^3 + z^3 - 3xyz
+Ya then what do I do god noes
+U said u=ln(stuff)
+U definitely did something wrong
+Second last step, how did u take (x+y+z) common?
+Wait
+I dint get anything wth did u do?
+Whts this ?
+Ok but wht did u do about the times u part???
+Dude wht did u do?
+Then?
+I got this but I hv to see how u applied it in the ans
+So u diff 3/(x+y+z) w.r.t x , y and z then added them? But wht happened to the square?
+Ok
+Ohhhh
+Ok I got it
+Thnx
+😅
+Installed arch
+Three times
+And guess wht was the problem with the shutdown thing was
+Do u have a video on installing gnome on arch?
+It just crashed for me
+Installed arch again👍🏻 this is the fourth time😂
+Ok I’ll ask u later
+Can u ans this?
+Ur here to kill ur laptop by capping its RAM and swap for no reason by using a small C program
+Huh?
+Chuck that
+Diff?
+Ok
+Like whts doh z/doh x?
+Ya chuck
+I’m so frikkin stupid
+Like idiot
+I got it...it was so simple😂😂😂
+Just installed it...that to on VM...so it’s slow graphically
+Installing was fun tho
+I’ll pakka fail tomo👍🏻
+I got this
+It rhymes but Syu is like apt-update right?
+👍🏻
+Done
+Lol I hv to start
+So during sem end I’ll remove Ubuntu from my laptop and put arch
+For college work ud prefer arch or Ubuntu?
+Reason?
+Ok thnx for the info
+👍🏻
+Wht did u do?
+Whts this new way of torturing ur laptop that u found?
+😂wht a name
+Send the code noe?
+Logic seems wrong but where is the stack smasher?
+Oh lol
+When i=n-1 in the selection_sort for loop, ur sending i+1 to min function which becomes minIndex and that is returned from min function and passed to swap...but why dint u get seg fault...oh ya it doesn’t go inside the loop in the min function...😂😂😂👌🏻
+If u hv a string in a structure and u give it a value using scanf and all, if u want to change the value of that string u hv to use strcpy() noe?
+-123/10=-12 noe?
+That time -12<10
+Base case is met before num of digits is 1
+So u need abs
+Ya that also will work
+Ya urs it’s fine
+Mine needs abs
+Congrats man👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻
+This won’t work if the input is 0
+0 is one digit long
+No but 0 is 1 digit long...u write 0 on paper and it’s one digit right? Length of “0” is 1 noe?
+...
+0 cannot hv zero digits...zero digits means it’s not a number but 0 is a number
+Dude there’s waaay too much stuff for 25 marks in chem
+6-7 cells, 6/7 metallurgy stuff + corrosion + fuels
+Oh and 2 fuel cells
+😓😓😓😓
+And which slide is overpotential in?
+Is it there for test?
+I thought that when anode large and cathode small, anode acts as a sacrificial electrode and protects the cathode(the metal to be protected)
+Lol very true
+Ya Thts how I got it
+While calculating NCV, it’s GCV-(0.09xH%xlatent heat of steam)
+Ok?
+Ok.
+Ok
+Dude if they give the weight in Newtons then there is no need to multiply it with g noe?
+👍🏻
+I hate myself
+I’m losing 5 marks
+😒😒😒
+The 3rd q
+I got wrong answer somehow
+I got 40 something and 70 something
+Answer is 50 and 80 something
+Ya
+😂
+😭
+U get 25?
+👏🏻👏🏻👏🏻👏🏻
+Ok it’s decided...I’ll put arch on my laptop...I’ll give it around 70 Gn
+*gb
+Right after windows defragments C drive
+Which will take god noes how long
+So I’ll triple boot my pc? Or tri boot?
+Wait a sec...how do I do this?
+Like I already hv grub...so how do I make grub noe that arch is there on the pc so please display it on the grub menu?
+Do I need to run the grub-install command?
+👍🏻
+Im using gparted to free space in my disk
+Which is easy to use
+Once thts done everything  else is same as the virtual box thing
+And less scary
+Finished electrical?
+I’ll do motor sums tomo morn
+Everything else done
+I’m just studying from slides
+Which Shubham sent on group
+And notes I took
+😳😳😳
+Wht derivations?
+They aren’t derivations
+Ik pictures😂
+So u want to give me a heart attack and send me to the hospital
+Ya...25 marks q
+WTH is j tho?
+In the derivations
+Same
+👍🏻
+Windows takes too long to defrag
+Sighhh
+I dint want to lose data and it’s taking too long
+The stupid thing finished now😂😂
+For gparted, I need to download the live version iso and paste it into a usb noe? I don’t need to use rufus rite?
+Damn ya I can do that
+But it would be safer to not boot into anything and then partition the disk
+Better to be safe than sorry
+Moreover since I don’t hv an external hdd
+Ya it should
+I’ll try it tomo
+I do get that pop up, but even when I close WhatsApp I get notifications
+The problem I had before was fixed in a WhatsApp update
+Guess which shirt I’m wearing 🤣🤣🤣
+Full marks👏🏻👏🏻👏🏻
+It’s this
+I was looking into how to fix it when the laptop died
+How do I use AUR? Like want to install the numix-circle-icon-theme and I found an AUR page
+So how do I use it?
+And how do u add repositories in arch?
+Format?
+No no In the Pacman.conf file, whts the way u hv to write the repo?
+Wow thts useful
+Ok
+Woah ok
+I’ll learn slowly
+No no
+I’ll learn how to use arch slowly
+I’ll do arch first
+Since it’s lightweight
+And it’s fast compared to Ubuntu
+I mean fast
+Like really fast
+Why can’t Ubuntu be like that...😭
+True
+Ya and for some reason we learn ideal stuff
+Ikr...it’s like our life was a lie till now
+Stupid ideal gas eq
+Don’t u need the size while using calloc/malloc? Like as an argument...just keep track of it noe??
+So ur saying it only writes the pointer to the file and not the whole structure/array/whatever?
+😂😂😂
+If we use normal arrays it’ll work?
+Oh good
+Use normal arrays then
+😂😂
+Figured out why my battery drains even when pc is off
+I think arch enabled wake-on lan, which basically lets someone switch on a pc if it’s connected to a network
+So that features runs even when the pc is shutdown, and drains the battery
+Turns out stuff was off
+So idk
+Dude there’s a puja at my house
+It’s almost over so wait
+Ok
+Sorry about this
+Got WiFi running on arch👍🏻
+And icons
+Tilix is taking some time...one of the dependencies (gtkd) is taking forever to install
+Hey for PowerTOP In Ubuntu we do
+In my Ubuntu, when I launch terminal it opens tilix...how did u do that?
+Did u edit something
+?
+Managed to fix/suppress the PCIe bus error thing
+Edited the /boot/grub/grub.cfg manually
+In Ubuntu
+Somehow found out where they add the cmd line args
+Which idiot had a such a naming sense? WTH does vmlinuz even mean?
+The narration part
+Kannada Hindi
+Learn Shubham’s
+No I’ll probably read my moms
+I can’t understand his😂
+Learn just in case
+Shubham trans should be easy
+Take print out and keep...u can read it also it’s fine
+Hey I’ll need ur help with zsh and powerline in arch
+I’ll be coming late...still stuck at tin factory
+It’s not nimmis class it’s Chandan’s
+And I’ll kick u if u do that
+He said he might take
+Hopefully not
+Text me which teacher will come
+👍🏻
+What room number?
+C504
+Why r u asking?
+Btw I’ll end up skipping math
+Dying in traffic
+And I hv to come by metro
+Why do u ppl talk and suddenly turn to me and start laughing?
+Oi u tell
+She won’t
+I asked she dint
+That only I did
+Nope
+I have my calc and only one calc...wait I’ll check
+I don’t have it
+Lol what she taught?
+Did she teach properly?
+Chuck it I’ll learn later...I’m dying in assignments
+Did u finish the part b q1 and the car walla? I want to cross check my answer tomo
+Ok I’ll send u the assignment and u send me one
+By afternoon I’ll be able to finish typing the last one of math also
+Dude do u hv the electrical readings?
+Can u send? I want to give my elec lab manual tomo
+I can’t...I won’t finish assignments then
+Full?
+Thanks bro
+Which u have done
+Btw assignments help 🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻
+I’ll help👍🏻
+Which qs?
+Hey for the newton Ralph son q, wht do u mean by explain steps involved in the algorithm
+Matlab code?
+Oh
+So not the codes algo?
+Ok
+Dude did u get the graph for the newton Ralph’s on? I’m getting error
+And when I correct it I get a weird graph
+What do u mean it won’t work?
+And why the hell a contour plot for one variable graph?
+So u got it?
+I’m not giving tomo
+I’ll give it later
+Next week
+Wed
+Idk
+I’ll see
+Did u do elec assignment?
+Any q
+Then business?
+Lol do u think she’ll listen?
+I’ll try don’t expect anything
+Did u atleast do the elec qs?
+Dude which comp lab should we give?
+It was lab 7
+The structures and dynamic memory allocation walla
+Sejal says “on process”
+Idk
+😳😳
+I sent see
+The equation with ^ n and all gives my answer
+I used the columns-adding-to-one walla like the MIT video
+Dude they’re asking after so many years
+So why 1,2 and 3 power?
+They’ve given that n is in terms of years
+In the start of the q
+Huh?
+...
+So pakka n=1,2,3?
+Oi tell
+Oh
+Ya
+The system changes state once every 2 yrs
+Since lease is for 2 yrs
+Crap
+Thanks
+Ya ull noe when ur wrong
+It works best if one doesn’t do assignments last minute tho
+For doing assignment...which only happened in the morning...I watched anime in the afternoon😝😰😵
+Anyways tomo during lunch I’ll need help in doing elec...I dint understand some qs
+Huh?
+It kinda looks the same...it looks like ur desktop
+Icons r nice
+Nice status dude...grouse thoughts r nice
+Is it already released? Or beta?
+Just check whether the answer for the second electrical question which Shubham gave from his pendrive is rite or not?
+Heat loss = That
+Ya
+Ya I’m calculating energy only
+Basically one is i^2Rt and the other is IVT
+5.3k something
+No actual answer is 53xx.xxxx KW and 54xx.xxxx KW that’s a lot of error
+Wait I’ll send the ans after sometime
+Having lunch now
+Actually Samhita hv me the IVT method
+Ya after lunch
+Dude wht do u mean by secondary power factor and primary power factor
+And while finding secondary current, should we use kW or kVA?
+so?
+Hell no
+kVA is apparent power
+kW is real power
+Google it
+No check
+Crap now what?
+I only did two questions...
+Confirm what? Math assignment problem or kVA thingy?
+Ok
+Any progress on assignments?
+Btw in the Chem
+The coefficients should be divided rite?
+Or multiplied?
+Coefficient of I is 3
+In the balanced eq
+Then for what do we need to divide the coefficient?
+For something we should do the division thing
+So for diff rate eq and not the r= normal eq
+And did u figure out what secondary power factor and all meant?
+Send link for complex analysissss
+I can’t find it on the net
+I did...dint find it
+That too I dint attend those classes😰😓😓
+No i dint attend full complex analysis
+Send link pls🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻
+Crap im not understanding shit...
+Wait pdf is wrong?
+😳😳
+Ok can u send me only that question when u finish math?
+Is that a yes or a no?
+Thanks a lot🙏🏻🙏🏻🙏🏻
+Can u plot complex functions in MATLAB?
+Ok
+And u said something was wrong with my math assignment...what was wrong?
+It’s right only noe?? Forget theory shit I wrote but answers were rite only
+The lease thing I corrected
+I found A^1, A^2 and A^3
+Instead of 2,4,6 powers
+I don’t remember if I even wrote any theory shit😂
+Ohhh
+That
+I chucked it and I wrote the eq which the MIT guy said
+He used this and got A^n*p nought
+The first video we saw
+The young dude not the old guy
+K
+Ya I used this
+👍🏻
+Ayioooooo
+X1=Ax0
+U finished math?
+Hey one more doubt
+In civil
+How do u do the last one? U get some very very big answer
+U still dint finish math?
+Everything else? Other subjects
+Lol ya rite
+And another doubt
+The secondary power factor thingy
+In elec last question
+I got some solution but it doesn’t make sense...wait I’ll send
+Ya it’s not mine...g section someone
+Hey send math once ur done
+I finished one debate
+Send mathhhh
+I’ll be doing business in the evening
+Dude send math...please
+The complex analysis q
+Dude I don’t have time to sit and learn complex analysis...just send me pictures of that answer that’s fine
+Sheesh tell that when u send the pdf
+And how do u plot the level curves in MATLAB?
+Ok
+Thts it???
+I’ll ask you doubt tomo about the u(x,y) thingy
+Thanks👍🏻👍🏻🎊
+And ya I did it according to that pic which I sent
+Centre of mass/gravity did yesterday....inertia walla got some very very very big answer so I dint do it
+Shubham sent his so I’ll see from that
+I finished SVD I wrote some random stuff
+Oh ya what happened to business? I forgot
+Electrical is done btw
+How much u have left?
+Btw a bit of warning, pritams Chem debate first part is not right at all...it’s very vague
+Thts alll😵😵😵😵😵
+Wow ull finish of nicely
+😂😂😂
+Fml?
+WhTs fml?
+I can only think of cvs
+*fbd
+Huh?
+Oh
+Atb👍🏻
+Samhita said that her mom is doing business for her, and when she’s done she’ll send it to me...I’ll send it to u after I get it
+Ya my phones on do not disturb since Friday
+I asked my mom also...she has done stuff on communication and all before so she noes stuff...but she lectured me telling me I should do my assignments😓😓😓
+Bro I requested access
+For the math one which u sent
+Ya u definitely are jobless
+And I wrote “using MATLAB” everywhere for the SVD example
+Like using eig() and all
+Holy shit that’s so frikkin true😂😂😂
+Hey for the electrical third question, what’s the energy wasted u got?
+Well I did ask u that q
+Because Samhitas dad wrote something else
+No
+Cuz joules law of heat states that the amount of energy lost while transmitting blah blah blah = I^2 r t
+Then where do u use i^2 r t?
+Ok
+👍🏻
+How much left?
+Woah talk about really bad luck
+How much left anyway? A lot??
+From whom????
+Oh...ya I’ll send
+Ppt tho u should change stuff
+Ok ok I’m writing it now chill I’ll finish
+Calculatation mistakes?
+I dint take the symmetric axis thing
+Dude what’s wrong just tell
+It takes forever to go through that W
+Q
+Ok Gn then
+Dude instead of sleeping u can draw that poster and keep...and scan it and put it in the assignment once ur son
+*done
+U before learning communication skills and u after learning communication skills
+Lol I’m advertising deb club of our school indirectly😂
+And don’t copy the poster
+Ya
+Dude the last q in math...how did u get ur graph like that????
+😒😒 tell noe
+Can u send the picture of the graph?
+Damn
+Dude the civil first q...is mine rite?
+I doubt any of my civil answers are rite
+Check if u have fine
+*time
+Otherwise leave
+And the moment of inertia q, my answer came in crores...screw it im sleeping
+😂😂😂😂
+Was the way I found the coefficient of friction right?
+Ya I did the whole thing myself
+Oh good
+Even pics of slides r there
+Nope comp left...I’ll do tomo morn
+I think 3
+Ur not coming tomo?
+Oh ok
+😂
+...jobless person
+Ur current situation is due to u overdoing math assignment and horrible luck
+Nope
+Technically from the slides
+Yup
+Asked my mom for tips and all
+Did u sleep?
+😳😳😳
+Business won’t take long
+I did it about 3 hrs...poster ppt everything
+I had just gotten up when u texted me this
+I slept at around 11
+...
+Is he alive??
+Where r u?
+Btw the guy getting electrocuted wasn’t in shawshank redemption, it was in the movie, the green mile
+Huh?
+Dude do we even have a debug session today? There’s nothing posted on the group
+But tomo it’s sports day
+Oh
+😂
+Ya I told her
+U actually went?👏🏻👏🏻👏🏻
+Even g section dint get t-shirts...they don’t even noe about it
+Dude that star delta thing, how do u connect the terminals on the machine thingy?
+Like there r a lot of terminals...how do u connect them?
+Ok not delta
+Star
+No in Tht stupid machine with all the knobs and all
+And the wattmeter should be one-one or one-two?
+Ya I forgot wht injective functions r, u mean one-one?
+And where do we use upf wattmeter and the one-one walla wattmeter?
+Like there r two kinds of wattmeter noe?
+Upf has no one-one thing right?
+One has power factor one doesn’t
+So upf=one-one wattmeter
+?
+Where do we use the normal one?
+Transformers we used the one-one walla for both tests
+Wait I’m confused
+What’s upf?
+Upf is normal one noe,
+*?
+So upf and the one-one wattmeters r different
+Wait a sec...we only measure power using the normal wattmeter in max power transfer
+Everywhere else we use Tht other one
+😂😂
+😂😂😂
+Dude whts the formula for slip in induction motor experiment?
+Ok whts the rated speed of the motor?
+Aey ur dp is normal
+Ya who r u and what did u do to Satyajit?
+Dude I asked Arvind for feedback and he said to meet him near the canteen during short break...do u also want to meet him?
+Oi ask Aditya if he’s coming for that quiz...I asked Farhat Maam if we can register tomo but she said we should do it today it self
+😒
+Yes for what?
+Lazy person
+😒😒😒
+Ik
+Turns out as have EVS exam on that day
+And she hasn’t replied when I said that we hv Evs exam on that day
+She read the message but not replied
+Dude and ask Chirag or someone about the innovation challenge
+No one is answering on the CR group 😒😒😒
+Aey ask Shubham or someone whether we should register for the quiz or what...that Farhat Maam isn’t replying only
+The team sub leader Shubham
+Wht pattern is this? Ur dp?
+Wth...
+Dude see thinmatrix’s channel
+His tutorials for learning, and from the game he’s making, maybe we can get some ideas
+Dude who to choose as third member?
+Huh?
+Oi compare the list with the leaderboard and see if anyone’s there
+Who’s babya deep?
+Chuck third member
+Keep only 2
+Ya but we r deciding based on marks...which is not a good thing
+Ppl who noe stuff?
+Nope
+Lol only Aryan noes something
+If u compare the leaderboard and the marks thing, only his name comes up huh?
+So in the end, him only huh?
+Idk anyone else...
+So wht to do?
+Then chuck...no ones coming to mind
+He said yes
+Now registration
+Is it online or we hv to go to college?
+30
+Fee is 1000 per person?
+Oh
+Then how do we pay? 333 per person?
+I’ll get 1000 u guys pay me later
+Should Aryan also come for registration ?
+When u download and install unity, create an account or whatever(it’ll ask u to when u run it) and I’ll send a link for the project...there’s some “collaboration” thingy which lets multiple ppl (free version = max 3 ppl) to work on a project and upload the changes to cloud
+Did u download already?
+Ikr
+Who’s prabhakar sir and is siraj rival some YouTube guy?
+Dude can u send pics of all the complex analysis notes sir did? Including the questions, so like everything, from beginning of complex to conformal maps
+Ya till conformal
+Like conformal not included
+Open interval
+Ya ull mostly go off WhatsApp when exams r near, so I told u now only when ur free
+Ok
+Holy shit! A really normal dp😱😱😱😱
+Ya I got the mail
+Damn so true😂😂😂😂
+Yup
+Ya
+1.2k wtf...
+When’s the AI thing and AR thing?
+I won’t be there from 20th onwards 😓😓😓😓
+Going to kovalam
+😂😂😂
+AR is on 19th
+Apart from ethical hacking, everything else is on 20th and 21st😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
+How much does it cost?
+Ultra books hv dedicated graphics???
+Ya it does
+It’ll be heavy most likely
+Mine has 940M
+Very hard to trust when they misspell powerful 😂😂😂
+Now who’s studying
+And whts with the dp😂😂😂😂
+Dude send pics of all the complex analysis notes sir did Including the questions, so like everything, from beginning of complex to conformal maps
+Hell frikkin no...I’m starting math today
+I think my boot time is faster with LightDM
+Nope
+Yest I spent full day on the LightDM, splash screen, gdm stuff
+😒😒
+I asked the pic is not mine
+U think I’ll use windows???
+Yup
+Yup
+Ikr wth
+Dude in the pics u sent...where does it start from? Like which is pg 1?
+So it’s backwards?
+Wht intro to complex numbers?
+There’s only CR eq and Tht Milne Thompson method in complex analysis noe? Or did he teach anything else?
+Huh...I thought there was more
+Dude...pics aren’t in order😓😓😓
+This?
+Why e^itheta*f’(z) in the first place?
+No clue
+Thnx
+Thnx
+One more doubt...how do u integrate (1+e^-x)/x?
+This was a q given by sir in class
+Ya I got Tht...just need k
+How do u get k?
+They’ve given length of the curve and x not y and x
+Btw check ur eq...from where x^2 came in the integration? It’s CG not MI
+Oh then fine
+Someone’s forgetting about the amount of work we hv after exams...codechef it seems
+Ya ik
+Take it as reference...we’ll hv to program in whtever language we can
+No ctrl c and ctrl v
+Like for concept and Lagos
+*algos
+Depends on wht engine we’ll end up using
+Yup
+Idk...how do u run other language code from another languages compiler?
+The dude uses lua or something in the book
+Ya like that
+No he talks about lua scripting also...I saw in the index
+I’m wondering how u run python code from the game engine, which uses c# or c++
+Unreal uses c++
+But I think there’s hardware requirements for unreal
+Not sure
+Ikr...
+Someone should kill the judge
+😒😒😒😒
+What???
+Instead of a new laptop buy this for ur desktop
+😂😂😂😂
+Chuck ur i5 and buy that then
+It also costs 70k?
+😂😂😂😂
+Ya best not
+U r doing the innovation challenge stuff rite?
+-_- we don’t hv soo much time uk
+College will start in 10 days or so
+Go read Tht book I sent
+-_-
+It’s not working?
+Oh
+Trees maybe idk
+Try brute force only on array A
+Then multiply the answer u get with K
+Not exactly
+Brute force in the sense try getting all sub arrays and then adding them
+Sub arrays can hv num of elements >= 1
+U did on array B or A?
+Try on A
+Then multiply answer with K
+Like for array A={1,-2,1}, sub array with max sum is {1} multiply that with K u get 2
+True
+There should be an efficient way to find sub arrays instead of the brute force
+//www.geeksforgeeks.org/find-subarray-with-given-sum-in-array-of-integers/
+These ppl used maps
+Time complexity is O(n)
+Similar q btw not same
+I dint understand the logic tho
+It is same
+Thts what I was saying
+U do this and multiply the answer with K
+And tada!
+Do it on A
+Why?
+If u treat A as a circular array and then find the max itll work
+😒😒😒😒
+U used this and circular array idea and still got TLE?
+This is O(n)
+Huh?
+Array B is essentially same as array A
+Instead of using B, treat array A as circular and do it
+Chuck B it’s not needed at all
+This will be confusing to do tho
+Using Tht algo not brute force
+Why 10^10 time?
+raw_input() doesn’t exist in python 3
+Did it finally?
+AC?
+😂😂😂
+Read group messages
+U awake???
+Ya?
+I already did
+Wht did u do??
+Unity is similar btw
+Both r game engines
+U can import Fbx files into blender
+I hv 3ds max...tomo I’ll export the ones into .blend...rite now my windows is updating
+I started updating at 5...it’s still going on😒😒😒😒😒
+It’s working?
+Blender doesn’t hv animation?
+Oh
+Windows is shit slow😒😒😒😒😒
+😒😒😒😒😒😒😒😒
+What repo?
+Unreal doesn’t hv any built in thingy?
+Like how unity had, that collab thing
+Oh
+AI and BCI
+they gv Tht feedback form rite? I filled it that time only
+How the hell do I do that?
+And sync it with what?
+This is windows not Linux
+Software?
+Did any rigging?
+Use rigify which comes with blender...they hv basic rig shapes for quadrupeds which will make things 100 times easier
+Rigging not working...
+Rigged it, while testing shit is happening
+I rotate the tail and instead of the tail end removing the upper body moves for some reason
+I did something is wrong
+Sighhh ya
+Won’t be able to finish it by today...thts for sure
+No I’ll do wolf
+If u get the tiger rite after testing it in pose mode do the others
+//m.youtube.com/watch?v=cGvalWG8HBU
+Try following this method while rigging, it’ll make animating them waaaaay easier
+It’s called an inverse kinematics rig
+Oh and somehow I managed to lose the teeth and tongue😓😓😓😓😓
+Used rigify yest...had more problems actually...this full thing was done manually
+I found a video on how to fix it...but it’s complicated
+The other wolf should be easier
+The IK thing is cool
+The second wolf one is perfect
+Hv to fix the tail thts all
+This wolf model is the same as the second one...the hair stuff is a separate object itself...I guess thts why this one is not working so well but the second simpler wolf is perfect
+Simple wolf rigged👍🏻👍🏻👍🏻
+//www.blenderguru.com/tutorials/introduction-to-rigging
+this guy fixes a similar problem to yours i think...in the vid the skirt(pant whatever) doesnt move so he does some stuff
+im going to follow this when i fix the wolf 1
+Select the tiger model, and under the modifiers tab there will be something called armature...in that select the check box called preserve volume
+Finished deer 2👍🏻👍🏻👍🏻
+I hope what we did is rite😂😂😂😂😂
+It doesn’t fix it...it only somewhat fixes it and prevents some problems
+Use rigifys basic quadruped metarig
+I’m using that only
+Whts this?
+Btw ur using blender rite?
+*parented not patented
+The wolf animal rig had stuff for jaws and eyeballs and all so I dint use it
+Broke? How?
+Thts nice but the bones r moving out of the model itself
+This is envolope?
+Where?
+Goat????
+Fixed it...used the .obj model instead of the .fbx
+Done with deer
+No I never did
+I’m following wht this dude does
+He uses human meta rig but I use quadruped
+He does
+Some old version which only has human meta rig but the steps stay the same
+2.6 blender I think
+I don’t think it will
+U sync I’ll put in in the drive...I dint download Tht GitHub thingy and the first wolf rigging is annoying me
+Aryan should do some of the animations
+Noooo
+The first wolf looks like a wolf, the second one kinda looks like a dog
+Ya
+Ya more or less
+👍🏻
+U rig the best and I’ll finish the wolf
+*bear
+Quad
+Keep it simple
+Wait wht?
+It might be difficult rigging this
+It’s in some weird pose
+U finished bear???
+Use weight paint mode to fix stuff
+Thts how I’m fixing the wolf thingy
+Send vid ?
+Send when u get up then
+Finished rigging the first wolf model, I put it in the drive
+Wht r u gonna do today?
+The rigging?
+Use the links I sent
+This for rigging
+This for IK
+👍🏻
+Only part 1 btw...I dint see part 2 and 3
+The unreal project stuff is on github?
+Not low poly trees?
+Wait
+I’ll do the rigging, I’m used to it now so I’ll be able to finish it faster
+U start with the unreal part
+Like learn how to use unreal
+Ok so bear and tiger left?
+U start with this and AI...we don’t hv much time left
+Terrain let Aryan do
+We can put some add ins later
+Ya 👍🏻
+I’ll install github too
+*extra stuff whatever
+Ok so I’ll finish rigging, u start with unreal and AI
+And Aryan continues with terrain
+I’ll join u with unreal and AI stuff after I finish rigging
+This is rite rite?
+Crap I hv to figure out how to use github now😓😓😓
+😓😓😓😓
+Dude...why the hell is the repo huge??
+Can I upload to the repo? Or do u need to give me permissions and all?
+Add me then
+Like soon pls
+Today atleast
+I can edit the files I download tho rite?
+Download/clone what do u call it
+Oh ok
+Oh the terminologies
+Ok 👍🏻
+But it’s faded so I need permission rite?
+Thts how u use this thing?
+😅
+👍🏻
+Ya it doesn’t
+Ok I hopefully figured this thing out
+Yup it did
+Ikr
+It still is life in blender
+👍🏻👍🏻
+Wait
+Chuck it it’s working
+How big can the repo be? It’s already 700mb
+So technically one can use it as a drive rite?
+Ohhhh
+So why don’t ppl do?
+Oh
+Oh
+Ok ya thts over kill
+Finished just now
+Bear gv me some trouble
+Ya this bear
+It’s called weight painting
+Ya this is waaay better
+The blade looks like paneer
+This is nice
+👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻
+Chuck torch moonlight
+Every night
+I did
+When u texted only
+Why enterprise? Community won’t work??
+Ok👍🏻
+Sheesh I don’t like how unreal looks...unity is a lot more cleaner
+Still...it’s really not nice
+Tht makes things easier
+But we should also come up with something unique
+Innovation
+Ya
+Don’t push 30 gig of useless stuff into the repo!!!
+I don’t want to download all that!
+Wht all did u get? 30 gig is a lot of stuff
+Wth...
+Is it up in repo?
+Can u set it as optional or something?
+Or r u using it in the project?
+Home
+Leaving day after
+U made it?
+Btw our game is first person
+Cuz we need to find a model and make more animations
+We got our mythical animals
+Now if we can extract only the models and make them low poly, change the texture and put it back then all’s good
+Wth...
+No Modern weapons!
+It’ll break any sort of immersion Tht may be there in the game
+Send pic
+It will
+I’ll see wht I can do
+First person is decided tho rite?
+I hv a vague idea on how to do it in unity, so I hv to make it in unreal
+Very vague mind u
+First person will be easier...we’ll only need to animate the hands not the whole body
+Don’t torture u poor laptop
+Seriously
+I won’t be surprised if it explodes
+Dude low poly trees also
+Not like as the style, but keep the polygon count less
+It’ll be faster then
+On ur laptop or desktop?
+Check laptop
+Sejal’s?
+Put it on the debug communication group
+U guys did create Tht group for this
+Idk who’s the J section CR
+Don’t forget electronics manual printout
+😒😒😒
+Stupid Sanobar
+Lwjgl is java
+Light Weight Java Game Library
+Minecraft is written using lwjgl
+For what we’re doing normal java is fine...it renders a bit slowly on Linux(for a shit number of reason, either kernel issue or some driver thing I couldn’t find out exactly) but it runs perfectly in windows
+If I hv time I’ll do the lwjgl stuff
+Most probably u and Aryan will be doing the AI stuff
+Did u learn anything about A*?
+Like what it needs(inputs) and wht it gives out(outputs)?
+I’ll need to noe this actually
+A* algo in context of AI and stuff for the project
+😒😒😒
+According to CR group and past history 11-1 = exhibition and then classes will resume
+Nope if u attend I will literally kill u
+No both classes
+Hey when we were learning C u said something like windows cares or doesn’t care about something...I think the context was pointers...u found out Tht ur code worked in Linux but not windows cuz of some reason...wht was it?
+Some program...not sure which
+There’s a similar problem in the program...error doesn’t occur in java code, but whatever OpenGL stuff it calls
+Works on Ubuntu but not in windows
+Or specifically works on intel but not Nvidia
+//linuxacademy.com/community/posts/show/topic/17005-vnc-viewer-showing-black-screen
+How do I push stuff in Ubuntu?
+Is there a desktop app?
+I found out how to increase font size in eclipse! That too by fluke!😄😄😄😄😄
+Needs fixing? Wht do u mean?
+Ahem...869 lines of hand typed code...excluding the stuff I did yesterday
+Two ppl r still there
+Got collision!!😄😄😄😄😄🎉🎉🎉🎉🎊🎊🎂
+Random typing
+Dude we need to make a nice method of filling that hash map...both of us need it
+Like a hash map where the key is the cell number and the values r the list of entities in Tht cell
+No no
+As in cell number
+It’s an int
+Wht is Cell class Tht u use?
+Ur class? Not inbuilt?
+Wth is i,j,f,g and h?
+We’ll discuss in the class...Tht time explain be the basics of the classes
+Update repo btw
+Which includes reorganisation of the AI package
+Added the map in EntitesMap class
+And and FPS counter
+Game runs at 60 FPS 👍🏻👍🏻👍🏻
+Wth...what does this mean?
+It’s cool tho somehow
+Meaning re
+What does it mean?
+😒😒😒
+That has no relation with DE
+Math has chaos theory 😳😳😳
+How does approximate future and all come with that?
+Still
+Thts my default DP
+Hey send me the charging discharging readings and calculations noe?
+Gimme AI!!!
+Yup
+But don’t tell me Tht the events r next week
+The 24hr hacathon👍🏻👍🏻👍🏻👍🏻
+I’ve gone to one of those in DPS east last year
+Well, it was a total flop tho
+We can use our innovation challenge code and improve on that😎😎😎😎 basically cheat😎😎😎😎
+No not cheating, we’re following one of the paradigms of coding, “never reinvent the wheel” 😎😎😎😎
+AND ILL GET FUCKING LIGHTING TO WORK BY THEN
+Maybe
+Hopefully
+The fest is for all years noe?
+And PG ppl
+?
+Bunking EC to program shaders
+Or atleast make the program use the most basic shader
+Hopefully I’ll finish this
+U can also bunk
+BUT finish the AI thing if ur bunking
+Then do whatever u want
+Plus ull miss Tht annoying test sir said he’ll give
+Priorities
+Hopefully I’ll get proxy somehow
+Ya rite nice bunking 😒
+Crap ya
+Ya duh
+Wht do u expect?
+Ppl r not jobless like u😂😂😂😂
+Dude I can’t push
+Having merge conflict in .gitignore
+No
+*nm
+Used some force option
+Just check if it dint break the repo or something
+👍🏻
+Wtf😂😂😂😂
+Just a substitution 😂😂😂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂
+When I saw Tht e^shit I thought it was wrong
+Totally
+Wth😂😂😂😂😂
+Dude if I hv to ellipses which r defined by there eq, how do I check if they are intersecting?
+Like comp wise
+Mathematically if u can solve them then they r intersecting but if u hv to rite a prog to check if they’re intersecting then what?
+I was thinking of using ellipse eqs...it’ll be easier in detecting and i think also when the object rotates
+Is there an eq for a rectangle?
+Basically my issue is that if the object rotates by like 60 degrees, everything gets screwed up
+Unless the object is symmetrical like a circle
+Eg
+Any amount of rotation actually
+It’s not a major issue but still
+Oh whenever u hv some small free time, think of some nice minimal kind of background pic
+Suitable ones
+Like a minimal dungeon
+Idk chuck minimal then
+It should not look cheap👍🏻
+Ok two separate functions tho
+Huh?
+Oh
+Send me how to create a Pair object with two ints
+Those <> thingies?
+😂😂😂
+Sounds like a hashMap kind of thingy
+Like key - value pair
+Make a list of Tht and u hv a pseudo hashMap thingy
+Ohhhh
+What did u do??!
+It is
+And I had to change the visibility of ur Pair class constructor to public
+It was default
+I’m pulling
+I’m seeing wait
+“The configured merge tool was not found”😂😂😂
+I somehow did
+Clicked pull twice and it worked
+Dude why is everything static?
+It won’t screw stuff up noe?
+Cuz each enemy should be able to calculate their paths to their destination without interfering with each other
+Ok let’s see if it works
+I have to make stuff static now
+U don’t have a Boolean array anymore
+The function which I made?
+I pushed
+Pushing again
+After making stuff static
+Pushed
+Is there a toString function for stack?
+So I can see the coordinates?
+Or I’ll use normal for loop to see what’s in the stack
+What’s in the stack anyway? Pairs noe?
+Nm
+What do u mean when “source of the destination is blocked”?
+Wait
+I had asked u to offset the destination a bit
+So the enemy won’t go crashing into the player
+How do I calculate the offset then?
+I’m also getting “destination is invalid thingies
+When this happens, the stack isn’t updated noe?
+Destination is valid only
+I’ll check the validation code again
+Ok in the mean time I’ll check whether what’s printed is rite or what
+It calculates the path correctly
+But if my enemy starting location is 700 ur code gives arrayIndexOutOfBoundsException
+Fixed this
+Ok I’ll check
+Still outOfBounds
+The invalid dest thing? Ya it was I had flipped the checking conditions by mistake
+Wait I did +2 since I subtracted one in the constructor
+Now I’m getting null pointer somewhere so I’ll check that wait
+Dude
+Ur code is trying to check whether a nonexisting cell is unblocked or not😂😂😂
+No check line 124 of Asearch.java
+The loop conditions if it exists
+Then what should I return if cell doesn’t exist?
+False?
+Basically validate then check
+Dude check ur function call
+I think u flipped x and y
+Cuz validateCell works perfectly now, I checked it also using players coordinates
+U want me to push the stuff which makes an error?
+Ok I pushed it
+So when u run, it’ll give error
+Push ur code
+Line 294
+Check ur code again for any other switches u made by mistake
+Ya the i, j values r causing the problems
+Flip them and see what happens
+The map doesn’t contain a key like that so error
+Oh like that
+Wait I’ll try
+It works
+But wait a sec...if ur codes fine then the map should not been initialised rite wait I’ll check
+As in it doesn’t crash
+Wait
+Dude how do I stop those things from printing?
+Like in ur code
+Where is it?
+No i need to print something else
+So I don’t want this in the way
+Ya I found it
+Dude check that part again in ur code...the error should not come
+Basically x=[0,35]...it’s the number of rows in the thing...when u increment x, row coordinate should change or column coordinate?
+Cuz in tht invalid destination, u had used x in such a way that incrementing it would change the current column
+Ya and in this null pointer exception it changes row
+So somewhere it’s flipped
+Ya
+Damn this is confusing
+How did u take ur x and y as?
+Make sure ur consistent everywhere and cross check it
+Ya
+Then this?
+Changing column is like going left and right
+Then the null pointer thingy way is rite
+Then why do I get destination invalid?
+Nope
+Wait
+validateCell is fine
+So r ur cords
+But still I’m getting destination invalid
+So ur sending me switched cords
+Then I’ll get null pointer
+😂😂😂😂
+Don’t be lazy go check ur code
+Then it won’t work properly it self
+Ur sending me y, x sometimes and x, y sometimes
+Ya and don’t end up switching it in the constructor also
+Even I have to use Pair...it’s useful in someplaces
+Use Pair and push it...I’m sleeping now
+👍🏻👍🏻
+...
+😱😱😱😱😱😱😱
+World is ending!!!!!
+Till 8/9 and all?
+😂😂😂😂
+Good sleep is very imp...I dunno why u guys give me some weird look when i say proper bio stuff, like tht melanin thing today
+Something happened?(if I may ask)
+👍🏻
+Tomo no college btw
+College will be open?
+Oh ya they do hv a hostel there😛
+👍🏻
+Hope everything goes well
+U said u would do everything using Pair
+So waiting for that
+Anyways I doubt I’ll do anything today
+Phy portions r a lot compared to other sub
+Oh good
+Hey can u send the MI of circular disk derivations?
+Aeyyy
+Too lazy to think
+Ya I’m free
+Programming
+Wait when is it?
+^^
+If it’s before assignments then I’ll be doing the assignment and the innovation challenge
+Then no clue
+Haven’t planned anything
+So god noes
+Why?
+Who?
+Lol my mom won’t let
+Goa and all complete no
+Ik, but even then she won’t let
+It’s a mom thing so idk...she told me in the beginning of college only
+Nope that won’t happen
+Sorry bro?
+No like no going on trips and all...she dint let my sis only go, and my sis finished 4 yrs of college
+I’ll ask
+Who four and when?
+And how long
+Btw how the hell r u going to go to goa?
+😂😂😂
+I’ll ask
+K
+That I can’t promise
+Let’s see what happens
+Wait we hv holidays?
+Akaira is for how long?
+I
+*ok
+Dude AI
+Finish the Pair thingy
+Give it by tomo
+The code
+Seriously
+I also need time to do stuff
+I got screwed 👍🏻
+She’s like no going out of station anywhere
+I did
+She was like u dint want to stay in hostel and now u want to go out of station?
+Lol I’ll get kicked out of the house
+Hostel
+Not hotel
+Ya not me...I want nice food and bed and my room
+Sorry bro
+I definitely don’t want to get screwed again
+Atb😂😂😂
+Duh
+Then don’t
+She’ll probably let u do it in like 3/4 ur
+*yr
+Either way, by tomo u hv to finish the AI stuff...and make sure u don’t switch any arguments in the function call or while making a Pair object...like seriously double check everything
+I can’t come🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂
+It’s the only answer I can give
+😭😭😭😭
+^^^???
+U do noe Tht we hv to finish it by Thursday rite?
+And I still hv to link up ur code with mine rite?
+And u do noe we hv assignments also rite?
+Can I hv ur assignments?
+For ref
+I wont make the same mistake again👍🏻
+😅
+So give it by tomo
+The AI stuff
+No try and all give it by tomo
+Oooh btw next Monday which movie?
+Assignment submission day
+No laptop
+Dude...why...ur laptop😪😪
+I would like my laptop to live
+Thts assignment?
+Idk but u can put a 3D plot
+Dude we changed the game theme
+Instead of dungeon crawler it’s some time pass game which u find in phones😂😂😂
+It still fits with what we’ve done till now
+And finish the AI
+got timings for the innovation challenge...looks like we have to bunk lab on thursday
+Finished it ?
+U do know that 8th is the day we hv to present noe?
+And thts like day after tomorrow you know?
+Nope
+No Idk wtf r u talking about?
+Bro VIT dev conference😍😍😍😍😍😍😍😍
+U going?
+😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
+Dude ur ASearch line 294 is causing a lot of problems
+U do ur classes editing
+It’s coming outOfBounds at 37 not 700😒😒😒
+And ur idea of using try catch to catch the null pointer doesn’t work
+Cuz it returns false the areas where the invalid destination thingy was happening now gives source or destination is blocked
+What hmmmmm
+We hv to fix it!
+The final day is day after!
+I’m pushing stuff
+I hope ur trying to fix it😑😑😑
+Pushed
+What?
+So ur not fixing it 😑😑😑
+Idiot
+Ok good u r trying to fix it
+Asshole
+Shut up and go do
+👏🏻👏🏻👏🏻👏🏻
+Now go fix it
+No thank u and ignore them
+of rows is 35
+Figure it out
+Seriously
+Yup
+Do the same thing like the vid
+U get outOfBounds
+U figured it out?
+Try figuring out why it’s 37 instead of 35
+How r u initializing ur array/list?
+Makes sense if the name is cells rather than cell btw...a cell can’t hv more cells in it
+Oh no
+*nm
+Cell is a class
+So this basically is the whole game window rite? With 35 rows and 63 columns
+Now what r the iterating variables value?
+*values
+Is Tht necessary? I mean can’t u just make i go till rows and j go till cols?
+The issue is happening here I think
+Or is it like the iterating variables aren’t in for loops? U increment/decrement them based on the path in current direction ur trying to find out?
+The problems here
+Damn u want to bunk electronics to figure this out?
+Don’t tell anyone else
+We can ask Shubham to write it down
+Sejal also will write it
+We’ll tell him next time
+If he asks
+Tht we had to prepare for the innovation challenge so we couldn’t come for his class
+If he asks, I’ll talk to him
+Otherwise chuck it
+I need attendance
+Eh...taking it literally Tht is one false statement
+I meant it literally
+Like if some one asks u why pencils hv erasers then saying cuz ppl r not perfect is not the right and
+*ans
+I think pencils hv erasers cuz it convenient
+😛😛😛
+But ya I get what it means😝😝😝😝
+My bad🙏🏻🙏🏻🙏🏻🙏🏻
+Nothing
+Cuz of the 😒 emojis
+My what😑
+🖕🏻
+😒😒😒😒
+Screw u
+Train ticket to vellore costs less than an auto ride from byapannahalli to my home😭😭😭😭😭😭
+200 rupees
+To go 5/6 km I think
+Wtf
+Not fair
+Seriously wtfffff
+Idc
+It’s still not fair
+He dint copy anything
+Just plugged it in and checked whether it was there or what
+He only has
+Btw I think I fixed it
+No more null pointers
+No more ArrayIndexOutOfBounds
+No more destination is invalid
+Path calculation seems fine
+Although movement calculation (my thingy not urs) is wrong now...for some reason the enemy circles the player in a very big circle😂😂😂😂
+This is happening cuz the coordinate system I use for rendering stuff on the screen is with 0,0 at lower left...now since the mapping coordinate system is changed, the direction calculation is screwed up😓😓😓😓
+Lol they’ll ask on the group then where’s the rest
+Or they’ll ask me
+U give it to her
+I need to figure this out
+Stupid program
+😞😵🤦🏻‍♂❄😅😳☠☠😭❄❄🙏🏻☠😭❄❄🤦🏻‍♂
+🖕🏻
+Screw u
+The enemies fuse😂😂😂😂
+If u hv multiple enemies, their paths coincide and at the end the position also ends up being same😂😂😂😂
+Fluke features😂😂😂
+U won’t notice only with the lighting on
+Or off
+There’s an issue with the enemies getting stuck in the gate but thts fine
+Yup
+Btw I had to change ur code to
+*too
+Initialisation of arrays
+I flipped first and second
+And it worked
+Pathfinding success👍🏻
+👍🏻
+Shoban has my manual
+One sec wait
+Ya I don’t hv a pic of it
+U finished math?
+And ur part in EC?
+Matlab stuff
+U will give math noe?
+Matlab wallas
+By when?
+Don’t tell Monday
+Ok
+Busy tone
+Screw it
+We’ll give it max by Tuesday
+If they call again to confirm or something tell we’ll give by tue/wed
+Chuck it
+Seriously wth
+Assignments also r there dude
+First of all for a vid I think all three of us should be there
+I called
+He said give by Monday evening
+So morn we hv to make the vid somehow
+The dudes name is Rahul Singh
+He has to give it to VC by Monday evening it seems
+Ya the dude doesn’t hv the authority to do tht
+He sounded like chirag😂😂😂
+Ok doing on Monday and giving the vid on Tuesday morn
+Chuck telling them that we’ll give on Tuesday
+If they ask we’ll say assignments
+Did first
+Dint get the last one
+Shubham did half of last one but the last two qs I also dunno
+Hv to google I guess
+Ya
+Except debate
+It was torture
+K
+My first q part b, they told to do some apartment or academic something survey but I couldn’t find anything, so I managed to do full India household survey😂😂😂😭😭😭
+dont send it to anyone
+seriously
+Can u send math?
+Even u used wolfram😂😂😂
+Well mines completely different
+Nope Tht only is dif
+I got 3 digit ans for hours
+Ya wait I’ll send
+U got 5000 hrs or so
+How?
+Not exactly
+There’s no need for newton rap son
+after 5 days walla
+i sent the assignment see
+theres no e anywhere
+under case ii
+aaah u dint take the (t-120) in the denominator
+i did what u did in the beginning
+see the links i sent on the group
+the question is literally the same
+except the numbers
+Ok wait
+🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂
+Used wolfram to cross check diff eq
+It’s in kgs only noe?
+Holy shot
+*shit
+It’s tons
+Crap
+Crap
+Crap
+But it shouldn’t make any major changes
+Only C will be effected
+I’m doing that now
+tomo
+morn
+hopefully
+Ya I did it
+Btw is multivariate = bivariate?
+Apparently no ones finding bivariate on net
+Wth...too much image stuff in math
+I don’t think so
+79 hrs
+And 658 hrs
+Thank god
+U finished debate?
+ME is torture
+It’s not just 6x
+Look at the link I send idiot
+It’s 6(x-120)
+Wolframs stupid
+I got it properly only
+Btw did EC sir do all Tht alpha and beta stuff for transitors?
+Is the last q in EC use Tht stuff?
+4.2 makes no sense in EC
+I need hint atleast
+Wht do u think I’m doing?
+4.2 done
+Btw if u noticed my EC thing I sent, I finished clamper and zener😛😛😛
+Either way, u should rite the correct specifications
+Like the data sheet stuff
+Ya this is assignment so complete theory
+Shit ya
+I always screw up Vp-p
+Even in lab
+I dint get it
+The last two sub qs
+Then what?
+Like what explanation would u rite?
+From where Ull get this?
+The thingy is a common collector amplifier
+I used wolfram for this
+Like for everything
+I dint see it yet
+U did bivariate?
+Thts all left😱😱😱😱😱
+Debates left
+And ED manual my sis is doing for me
+And EC last q
+And one graph I dint plot in math
+For the pollution q...I forgot off
+Dude bivariate?
+The matlab part
+The program also u dint do?
+🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂
+U and problem in matlab🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂
+Screw u
+Dude make a vid where u explain A* using some screen recording thingy
+Like explain A* with drawing?
+Otherwise show ur face in the vid ur wish
+By today
+Oi idiot
+😒😒😒
+🖕🏻
+Sleep sleep
+🖕🏻
+🖕🏻
+😒😒😒😒
+Take it as wht u want
+😒😒😒😒
+Idiot
+Nithin sir dint get selected
+I’m guessing this is Nithin Sir is not sure
+And his teams ID dint come up
+Parking lot
+Near ola zone
+Dad went to get platform ticket or something
+U came alone?
+Wtf😂😂😂😂😂
+When u take ur laptop to college, remove the part Tht says under innovation center, rishabh said it’ll cause problems
+??
+Somewhat tho
+Oh ok
+I’m going thru it now
+Ya
+There was an easier path finding thingy in Tht book😂😂😂
+No complicated A* stuff 😂😂😂😂
+Somewhat...extend a bounding box in front of the entity...if it collides with something calculate velocity correction and apply
+Ya
+🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻
+Kya lei
+*kru Bhopal
+*bhoot
+Hayee jeeyo
+😍😍😍😍😍
+😘😘😘😘😘
+Lega ?
+By Shyamant
+Wtf is this
+I’m not gay so go away
+🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂
+Missed voice call
+Dude why do u check whether the destination is blocked or not?
+Destination is player noe?
+Not necessary tho rite?
+👍🏻
+Chuck the thing I asked u to do
+Not needed
+👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻
+We should write a paper!
+Dude send welding thing
+Send dude
+Send idiot
+U send
+U write nicely
+🤦🏻‍♂
+Wth??
+They added about 3gb of extra stuff???
+Last time it was 9gb noe?
+Sheesh
+Sad ppl😂😂😂
+😳😳😳😳
+Dude send me the report pattern thing for sociology
+Search and see noe?
+We can use the IISC reports in discussion
+In introduction normal stuff, like what is pollution and intro to Bellandur Lake
+Afaik?
+Then flow won’t be there noe? Like intro should be intro and discussion should hv details
+Hopefully
+We both will do discussion
+Send the report links noe?
+It’s somewhere in the first page of the search results only noe?
+Ya
+So we’ll do how many fire incidents?
+Two major ones is fine...not much is available for the smaller incidents
+And then we hv to read the reports to figure out wht all stuff to put in
+And some random “legit” testimonials talking about how residents life is affected and all
+😂😂😂
+Note quotes
+Then done
+So two incidents and impact with testimonials
+Wth
+Two change?
+2/3 pages can be done with this much I think
+Atleast 3
+Ok all testimonials will be anonymous
+And do some rearranging of words so Tht no plagiarism
+Make it look like we actually went there and talked to ppl 😛😛😛
+So who does what?
+😒😒😒😒
+U do 2018 incident and testimonials
+I’ll do some other major incident and impact
+Since we both 3 so one person 1.5
+Yup
+Like assignment
+Ya seriously...it’s common sense
+Dude wth is Tht constant coefficient thingy??
+One of the methods to solve second order ODE
+Did he do anything like that?
+Tht formula? Where we ended up proving inverse of differentiation is integration
+Damn send notes noe then?
+I don’t hv it
+Crap ya
+...
+He taught it for one day only?
+🤦🏻‍♂
+Nm
+What I did also is rite only noe?
+It’s WHAT
+Read the q properly, there’s no question mark 😂😂😂
+My method
+“What is the name of the fourth son.” No question mark here
+Then good👍🏻
+I posted it on iroids see
+Huh? Not roots of the eq?
+Wait oops
+When u factorise u get roots😅
+Yc?
+Ya even in Tht MIT courseware stuff
+Uk what change of plan
+U write about the incidents and testimonials, I’ll write about detailed cause...I found shit lot of information on iisc
+Too much Chem tho😓
+We’ll change only if u haven’t started yet
+Ok then
+I found too much info
+This would’ve been helpful during the presentations😂😂😂
+Which question? The question I had a doubt in dint hv a 5 anywhere
+How exactly did u get this?
+It’s cos x ik but I thought u had to rite cos x as e^ix-i sin x
+I’m not sure...cuz I asked Sumanth sir also this and even he said take it as real part of e^ix...I dint understand it too much so i did my way
+Btw how do u solve those boundary value problems?
+U can do the second thing he said, using the general formula and integrating and all, tho I think it’ll be complicated
+^^?
+Like substitute the given values noe?
+And substitute in y or yc or yp?
+Which one I’m asking
+Ok
+If they give y’(x) then we hv to differentiate the answer and then substitute???
+If they give y’=0?
+Wht let it be?
+Like in the 6th one
+Send pic of the substitution parts thtll be enough
+Lol it’s sinple😂😂😂
+I thought it’ll be some huge thing to simplify😂😂😂
+😛😛😛
+😂😂😂
+Finished sociology?
+Ya I’m fine
+*done
+1 and little more than half pages I wrote
+Seriously wht sort of autocorrecting is that?
+Yup
+Dude the way u wrote it, it so sounds like we dint go there and talk to ppl
+And not much info about the fire incidents
+MATLAB works on antergos?
+Like the crack
+Arch?
+Ok
+Switching to arch
+Chucking Ubuntu
+No triple booting again, that was a nightmare
+It felt heavy
+Too many unnecessary things were there
+Nope, tried starting dhcpcd since Ethernet wasn’t working then Tht happened
+I hv to hard boot it once Tht happens
+Ya I’ll try in the evening
+It worked before but after I deleted the Ubuntu partition this started happening
+Installing antergos is easier?
+Like gui and all is there?
+Good I think I’ll try Tht mostly
+😫 I’ll need it
+I already deleted my Ubuntu partition
+Now I can’t get grub rite🤦🏻‍♂
+See i arch-chroot first
+Then mount EFI partition to /boot
+Then download and install grub and a bunch of other stuff(pacman)
+Then install grub using grub-install —target=blah blah blah
+Then generate the grub cfg file
+The thing is the first time I did it it dint detect windows
+/boot ends up having an EFI folder with folders such as windows and arch and all
+Oh and now my vmzlinux files r missing too from /boot
+So any idea what I should do?
+Arch
+Whts Tht?
+Oh wow
+U could’ve said it when I tripled booted the damn thing
+I triple booted arch windows and Ubuntu noe?
+Kernel panic
+Architect is not working
+Cannot find disk by label or some random thing
+Tried fixes dint work
+Tried renaming but couldn’t rename in windows...plus the name was rite only
+Ok I give up I’ll put antergos
+Solved the grub issue, but now even Ethernet is not working and I can’t shutdown only🤦🏻‍♂
+Any other arch/antergos like thingy which can be used for college stuff?( like matlab and all)
+Updates and all is there? Or is it like some random rare thingy and not popular enough
+I asked arch based
+^?
+👍🏻
+Is it light weight?
+Or heavy as Ubuntu?
+Antergos vs manjaro based on light weight mess?
+👍🏻
+I HATE MANJARO
+STUPID GRUB NOT SHOWING UP
+SERIOUSLY WHY DOES THIS ALWAYS HAPPEN TO ME
+STUPID GRUB
+SJSHDJAKALDO
+Dude u hv the MATLAB install file?
+For Linux
+Ya I really need it
+I don’t have matlab for Windows
+And assignments r coming up
+I completely forgot
+I’ll take both
+I hv to boot into grub in a very weird way...manually select it in bios
+I mean why?
+Just why???
+😭😭😭😭😭
+Turns out it’s cuz HP hardcodes the system to boot from windows already or something
+I had to press F9 while it booted to go there
+And it’s messy
+I hate how
+*hp
+I fuckin want to kill Realtek
+No Ubuntu is fine
+Culprit is here
+PCIe bus error cause Realtek
+WiFi problems cause Realtek
+Somewhere I read Tht power consumption cause was also Realtek
+So ya
+Urs is not rtl8723be
+This word is my nightmare
+😭😭😭😭
+This shit in the afternoon
+And arch in the morning
+I installed arch like 5/6 times yest
+And Manjaro 4/5 times
+And I only had one usb stick
+So I had to boot into windows to create a gparted live disk, remove all shit, boot back into windows and then create a manjaro/arch live disk and install
+Surprisingly ya
+I had to manually edit stuff too😂😂😂
+And the fix for the manjaro issue is to trick windows into booting manjaros EFI file
+Intelligent device 😂😂😂
+So hv to copy pasting and editing and all in the EFI partition
+Yup
+Backing up windows EFI first tho
+😂😂😂😂
+Turns out if u do this u can’t boot into windows...cuz when u choose windows it’ll link back to the same EFI and load grub again...so hv to edit stuff
+Aey I hv to download that thing and create a bootable drive then do stuff...safer just back it up and if issue comes, renaming will fix it
+What I don’t get it arch was fine with all this...why is manjaro acting so weird??
+😓😓😓
+So how’s it perfect?
+Then whts uv catastrophe?
+Isn’t it when lambda is 0 infinite energy?
+Exactly
+So how is Planck perfect?
+WiFi fix is so simple in manjaro😱😱😱😱
+Nope even easier
+Create a conf file
+Add some options
+Done
+I got shocked
+Like really
+Btw which app?
+Ganna?
+Ohhhh
+Lol thts the main thing😂😂😂
+From which file u run matlab?
+I installed it in /opt/matlab but which file to run?
+Damn...it’s giving license error
+Even after copying the crack
+Nm I copied the server license instead of standalone one 😅
+Nice dp
+Which nebula?
+😂😂😂
+😂😂😂😂😂😂
+I’m asking doubt not for the ans🤦🏻‍♂
+😳😳😳😳
+Dude in the LED blinker circuit, how do u link the frequency of blinking with the resistances and all?
+Is it same as source frequency?
+Nm I somewhat got that q
+Using astable multivibrator only
+How do u plot the stupid q point in multisim?
+Or how do u find it in multisim??
+Ya I did that
+But I got tons of variables
+Which one to choose?
+Dif places on the net say dif things...and DC operating point does not plot the load line
+*DC operation point analysis
+Dint start yet
+Ya I’m doing EC and finishing
+I don’t hv
+Send noe?
+Pdf atleast
+The conversion to second order ODE is that simple?
+Did everything except debate and that justify whether neutron can be diffracted
+U just differentiated the eqs and substituted it noe?
+No other fancy method?
+Ya thts wht it’s simple
+Substituting it is hard?
+Ya
+😳😳😳
+So u wrote all that???
+Or this is with all those steps cut?
+Oh ok
+Thank god
+The q is a homogenous one seriously?
+Why is there h/a in the H(t) solution?
+And how come the roots for both r same?
+The compute population answer is in terms of constants?
+Is it right?
+U said the answer should come in terms of constants
+But ur answer is in terms of constants
+And I dunno if this is right or what
+Cuz why r the constants same in both the eqs?
+Shouldn’t it be like k1,k2,k3 and k4?
+I tried, while getting the homogenous eq for the H part I ended up getting an A in the eq...I couldn’t eliminate it
+the first order eqs?
+3rd order?!
+I meant I got an A after substituting the first order eq in the second order one
+Is my ans right tho?
+Ya i got stuck here
+Got A’s in H eq
+Dude what’s the error function for the last q last part in math?
+Huh? But then how do u justify which is better?
+What did u do?
+Ok I used the function to generate the values of y using x values and subtracted them from the given y values and summed them up
+And I called this error
+Quad fit gv 0 error
+Whereas exp fit gv some -3. Something
+How to put multiple labels😫😫😫😫
+Stupid thing is overwriting
+Dude what’s the ans for b2.1 the justify whether the neutron beam can be diffracted by a Crystal thing?
+How is diffraction related to charge?
+And mass is irrelevant, size matters
+Size of the particle should be comparable with the obstacle
+Wait
+Wavelength should be comparable
+So?
+Ya thts a q
+Reached?
+5 mins
+Hv to put petrol so maybe 10?
+Oops
+Let’s c
+Doubt it tho
+😫😫😫😫
+Where do u download movies from?
+I can’t frikkin use the search bar in yts.am
+Ya this worked
+Says the person who said html is interesting
+U said it
+Look at class group
+No only for technical
+Now look at class group
+Thank u for reminding me😑
+😒😒😒
+Tomo
+I’ll text sir tomo
+Like I want to noe that
+And u think I’ll call😂😂😂
+Nope
+No thanks
+Don’t want fun now
+R u high?
+I think u r
+No
+Ya u definitely r
+No homo!
+😂😂😂😂
+Sumanth Sir.vcf (file attached)
+Finally finished setting up i3 to be usable!
+Although I still need to use the terminal to figure out  battery percentage
+Use i3 it’s brilliant
+Take some time getting used to but u can customise the shit out of it
+SHANKAR SIR (msr).vcf (file attached)
+Some advice for u, don’t do all this love business so early, this time can be used more productively and more fully in many other ways
+Omg🤦🏻‍♂ I don’t even have my phone for the past few days cuz my mom took it of cuz of exams🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂🤦🏻‍♂
+Seriously idiot🤦🏻‍♂
+I got it now
+Ya ya ok ok
+Nice one
+It’s very true when u think about it noe?
+Btw dude all slides r coming for the exam noe?
+Seriously?
+Btw ‘noe’ = ‘know’ not ‘no’
+All slides r coming or what?
+Schrodinger?
+Coming?
+👍🏻
+Thanks man
+Reached college?
+How do u solve the boundary value problem? Like when they give y(something)=something
+This is boundary value problem only noe?
+Ohhh ok I switched it around
+Umm the values r constants not functions
+Ayiooo ok ok they r variables which can mean anything 👍🏻
+Hmm...ya makes sense
+Dude in this q they’ve given only one initial condition...so how do u find C1 and C2?
+Ok 👍🏻
+Variation of parameters on a fourth order differential equation?
+Possible?
+I’m guessing it is, but u can’t use that formula which sir gave...ull have to derive a different one cuz U’ll get a 4x4 matrix rite?
+and 4x4 wronskian
+Or is it dependent on the number of roots u get in the aux eq?
+Like if there r two roots only u can use sir’s formula rite?
+If the aux equation has two roots?
+👍🏻
+😳😳😳
+Is it even a good movie?
+Gimme 😭😭😭😭😭
+Woah
+I dint hv any sticker when I brought my laptop
+Why asking tho?
+Under that system info or whatever in windows I think
+😭😭😭😭😭😭😭 exchange laptops 👍🏻
+Exchange???
+I’ll take ur silence as a yes
+😭😭😭😭
+October?
+If it’s like that or 50 shades hell nothing
+*no
+😂😂😂😂😂
+Hey u want to do some project ?
+Chuck the other guys?
+Ya it’s possible, but finish some amount then come or first come then finish some amount
+I hv to put android studio on manjaro now
+GUI?
+This is a q btw I forgot the question mark
+👍🏻
+API level?
+And github?
+Sure ur using github only?
+I hv no idea abt Android stuff
+That is up to u
+Ya ok
+We’ll still go about how sharma sir said, like make a basic app first then go about the whole thing
+After making the basic app which can talk across two phones, then we can meet up to discuss about the overall structure about the proper app
+Lollipop?
+😭😭😭😭 I only open android studio and 2/3 gb poof 😭😭😭
+What kotlin now?
+*whats
+Language?
+Ok
+Dude u noe how to use raspberry pi with sensors?
+Beginner tips?
+There r other os’s for raspberry
+Dad is using it for his work thing and he’s using Ubuntu mate arm/arch something for raspberry pi
+Like is it possible to get the output directly from the gpio pin? Is there code for that?
+Instead of going to the sensor company website and getting code from there
+But it is possible to access the gpio pins via code
+In raspbian at least
+Arch in the sense not arch Linux, the name had arch and I hv no clue what it means
+Thanks man👍🏻
+i386 is 32 bit I’m sure of that
+Dude any other light Linux os uk?
+Which can run on a core 2 duo
+Basically an ancient laptop
+Without lag
+The ancient laptop in question runs Mac something
+Lubuntu?
+👍🏻
+I got temp sensor working with mate
+Dint hv any problems
+Apart from getting confused with the sensors themselves
+👍🏻
+I can’t come moms not letting
+Sorry bro
+Btw ```su``` doesn’t mean super user it means switch user
+Happy bday dude!
+Hv fun today!
+It is good
+Although more organising could have been done...like in the basics thing why is there plotting? That’s not exactly basic
+And 1.1 should’ve been the loops and 1.2 the graphs
+Like step by step
+True but this is a tutorial rite? So ppl watching it hv no clue what MATLAB is
+So slowly introduce stuff
+Ur intro could’ve used some work
+But other than that everything is pretty good actually
+Seriously tho...I’m was wondering why u jumped first to graphs then started teaching loops 😂😂😂
+I didn’t  go that far
+Weird name
+Huh? Won’t that hang stuff? Like if all threads r used up then nothing is left
+Syntax
+U covered functions?
+How to symbolic expressions
+Explanation of inline functions
+Conversion between the two
+What other features r there?
+Btw I dint ignore u or something since I dint come today
+I would’ve come if I could
+👍🏻👍🏻
+I’ll look into it
+Users on dif network
+How does it work anyway?
+I hv no clue
+what’s node js?
+Compiler?
+Then aren’t u running two servers ?
+Wait no
+So node js acts like a intermediary between the app and the db
+Damn that’s interesting alright
+Although I hate react VR
+For some reason node js reminds me of this
+Hellllllll
+Probably cuz that YouTube guy in VIT recommended learning node js and advised us to us react vr
+Sounds like some car engine😂😂😂
+😂😂😂
+Btw why did u hv difficulty with the pi? Like with the sensors and stuff
+How?
+U get horrible signal with that
+Ya that’s the max
+Uk anything abt yocto?
+*yocto project
+Custom Linux kernel and stuff for embedded systems
+I want ur laptop for that
+Ram😭😭😭
+It builds the kernel and other stuff depending on ur preference
+Building takings waaaaay too much ram and cpu
+Plus I hv to run it on a vm
+The build
+I’m not too sure abt that tho
+We should create a chat system
+Let each chat be an object of sorts...it’ll have an Id and the convos
+But the convos need to be stored in a phone database
+They did mention this before
+Btw ill be going thru android tutorials today so I’ll be able to help in sometime
+Ya
+I think I remember them taking abt sql
+Sql is there in android?
+What I’ll do? I learnt python for like 2 years already
+I also wrote an android ish app in python for my project, but couldn’t build it for android😅
+Stupid thing failed all the time
+This is same as the previous one u sent
+But ya it’s good👍🏻
+Menu reminds me of google maps
+I want to do something fancy tho...I’ll do it after I learn
+The thing with this is that I think loading the previous chats will be little harder...it should be seamless so we should implement chunking  of sorts? Like efficient chunking
+It played on my phone😂😂😂
+Something unique
+And minimal👍🏻
+Dunno if the term is called chunking tho...chunking is there for efficient loading of the game world in games but god noes if it’s the same for apps
+Ya
+And also we should be able to handle situations like 1000000000 users also
+Hmm...on the phone and is it possible on the server? Like if the user deletes the app by mistake all his chats r gone
+Or implement some back up feature?
+Yasssssss
+😂😂😂
+Back up to google drive
+Is it possible?
+Ok ya better storing messages on server will take up a lot of space on the server
+We’ll do this at the last
+Like WhatsApp chat backup
+Generate random number and check if that number is already an id of a chat and if it is, generate again?
+What’s the format of the id?
+Ya let’s finish the basic things first
+But it has to be unique write?
+*right
+Ppls reg num?
+Hmm how abt combing the ppls reg number?
+It’ll be easier and always unique
+Ok something that tells whether it’s a chat between two students, a student and a faculty or whether it’s a chat between two faculty members...then combine the last three numbers of the two ppls registration number
+👍🏻
+Like if it’s between u and me, then <something>159178
+Or <something>159-178
+<something> is something that tells who r the ppl chatting, whether student or factuality
+*faculty
+So a letter maybe
+And the id for both ppl should be same?
+Then one phone should generate the id and send it to the other phone
+*chat_ids
+Each chat is an object
+It’ll be easier to handle
+Oh ya correct
+Then combine the chats and id as an object so manipulation will be easy
+The phone which creates the chat should create the id and send it across to the other phone
+N number of unique palindromes...😳
+👍🏻
+Any good tutorials uk?
+NOOOOOOOOOOOOOOI😭😭😭😭😭😭😭😭😭😭
+That is nice...but canteen ppl will use that?
+Why don’t u just get the value and then manipulate it to create the chat_id?
+Although ya makes sense somewhat
+Another thing is that u have to request the server for the other persons ref number to form the id
+Variables in python aren’t “containers” that store values, they point to the values in memory
+C IS THE STUPIDEST LANGUAGE IN EXISTENCE
+CREATORS OF C ARE LAZY AS HELL
+😳
+How did they get jobs 😳😳😳
+😂😂😂😂
+The workshop was abt basics?
+Ohhhh
+Damn dude nice👍🏻
+Umm...won’t that be headache?
+How r u loading the messages? Like if a convo has like 10000000 messages do u load all of them on the screen?
+Wow
+Ya best don’t
+Ya otherwise RAM will die
+Data are on dif servers?
+Wait make senses...u dint pay for stuff
+I doubt they’ll Give a dedicated server for free
+Mongo ppl
+Like centralising instead of it being distributed
+Server DB is what then?
+I’m pretty sure u need money for that
+“Our server” in the sense?
+Oh like that
+I thought u did something similar to cloud stuff or whatever...like the DB is somewhere else not in ur house
+Getting a lease line for a never changing public ip also required money
+👍🏻
+Oh😂
+He’ll give u a lease line for free?
+Oh
+Ya duh
+That can’t be free
+Btw do u noe whether u can identify a sensor that is connected to a pi via code?
+Good no cheating
+How?
+This pi thing is taking sometime😓
+Ya point
+Ya exactly
+Uart?
+I don’t I ssh
+Ssh
+I use multiple pis so I need to ssh
+Sensors?
+Don’t have so many ports and I don’t want my table to be messy
+Hey how do I use these pins?
+Umm...what’s that?
+My uncle needs some temperature and power consumption monitoring in the server room of his company so me, my dad, and couple of his colleagues a doing some IoT soln to that...end goal is to be able to view the temp,etc(along with some graphs and all showing history) on a web browser on ur phone or something
+There’s also some vpn stuff happening for communication between the pis and the server but my dads handling that
+I’m programming the client and the server stuff
+In python so it’s easy thankfully
+Right now, my server just takes the data and writes it into a file
+What’s a mean stack?
+One way chat
+Oh and I’m using udp not tcp
+Ohkaay I’ll look into that
+Python easy👍🏻
+Wait mean stack is all of these?
+Actually...this maybe useful
+WSS?
+There’s no need for angular tho
+The server os is centOS
+Graphs possible in angular?
+👍🏻 I’ll definitely hv to look into it
+Thanks 👍🏻
+Github.io?
+What’s normal github then?
+Oh wait like a fancy website
+Dif ui compared to normal github
+Seriously, what song is that?
+And it works on iPhone 👍🏻👍🏻👍🏻👍🏻👍🏻
+On up but still
+*obvio
+Wait seriously?
+It works quite well on safari
+Ur phones slow I think then
+Perlinnoisefield and burst paint doesn’t work
+Nothing happens
+Others work nicely
+Wth
+And it looks like hair
+Ya it does resemble it
+Even u started with i3👏🏻👏🏻👏🏻👏🏻
+Ya same here...waaaay too much time
+But it’s amazing once u get used to it
+If u ever find the way to copy and paste from vim to system clipboard, let me noe...google dint help at allllll
+I’m using terminator
+No yanking normally copys to vim’s buffer...google says to copy to system clipboard, vim should hv the +clipboard functionality (which default vim on arch doesn’t hv...u have to install gvim) and do “+y...”+y never worked
+Ya but it’s too big for me
+100+ mb
+That or figure out how to “+y
+Once u start with i3 u use a lot of vim
+Atleast for me
+No using mouse
+It’s kinda useless in i3 unless ur using gui apps
+No like the whole idea behind i3 is to not use the mouse so much
+???
+Lol why?
+No fix?
+😂😂😂
+Hey for that android app, ur using client-server architecture noe? Not peer to peer
+Ok
+And when u were programming the client server part, did u come across a problem where stuff sent by multiple send calls ended up combining somehow and they get received by one receiving call?
+Lol I’m using simple socket programming😂😂😂
+Mine isn’t a chat app, data is sent only when required and not always
+Ya I googled how to make one...no one said anything
+They were like “screw it use this module instead!”
+And I want to send like 3 json objects or 5 at max
+For now atleast
+Ya I’m coding stuff
+No one by one
+This uses tcp or udp?
+But if the data is huge even tho it’s 4 objects then it’s kinda stupid...and I don’t like doing that it doesn’t seem nice
+For the app what ur using?
+Like which protocol?
+Array of 200 mb size then?(hypothetically)
+Oh I’m using python btw
+Wait one sec
+Hypothetical scenario
+It took a very long time to find this😂😂😂
+Ok I guess In udp u don’t use http
+Yup
+Our college rite?
+Any prerequisites?
+Cyber security methods or whatnot?
+Well, it is a workshop so maybe not
+Although why only 6 ppl?
+Dude what evaluation?
+That group
+Sec lab evaluation team
+Dude where did u do ur internship?
+Oh
+What’s the company abt?
+U finished the app?
+No not the college one
+Tho
+*this
+Lol then how I’ll search?
+Btw have u used arch on ur pi?
+I want to use it as an access point in my room...how do I do the access point stuff in arch?
+🤦🏻‍♂
+Any idea what package?
+Oh ya I remember that diary
+Thanks
+Btw there’s a good markdown note making app thing called boostnote for Linux...it’s pretty good
+U can also write code snippets but I haven’t tried that
+Ya I get what u mean
+My dad brought a new router and for some reason my laptops only getting ipv6 address in Manjaro, not ipv4
+In windows it works fine
+Ya😭😭😭😭😭😭
+If I disable ipv6 in the network setting on manjaro, it says cant get up
+*ip
+😭😭😭😭😭
+Whyyyyyy
+Ya ik but whyyyyy
+Why does the network related stuff on my PC always screwy😭😭😭😭😭
+*is
+What did u do for that company anyway?
+No like what exactly?
+Damn this sucks
+Remember unreal😂😂😂😂😂
+That much itself was hell
+Programming part is interesting that’s all
+Dude for the college app, the chat part, u used a recycler view rite?
+👍🏻
+I’m still learning
+Memory safe? Like if u hv 1000000000 items it’ll load the whole thing to memory?
+Either way, I’m doing ui stuff
+All this is using normal java? Or some android specific stuff
+And this stuff
+Oh ok
+Shawshank 😁😁😁
+Wow u actually did it😂😂😂
+He asked me
+Nope
+A 3 days trip  to Mangalore is being  organised by our seniors from 28-09-18 to 30-09-18 .The total expenditure will be around 4-6k. If u are interested, dm me or Sanobar. also ask anyone from our class whose not in the group. A head count on the number of ppl is required by tomo morn. Oh and getting attendance on 28 and 29 is not 100% sure for now, so be interested at ur own risk
+Wth😂😂😂
+Screenshots or no screenshots?
+No like of the code
+Ok
+What small?
+Both my labs have 3 functions, I’m carboning the whole function
+What’s discussion?
+Ok
+And in procedure should we tell what all we dragged and dropped and all?
+All my algos fit in one page😂
+What comes in conclusion?
+Recommendations as in? Like if they are doing the same thing how would U advice them?
+Did u use PropertyValueFactory or MapValueFactory for putting data in the table?
+Any idea which is better?
+U can specify where to render the graph in jupyter, like in an external window or somewhere else
+Live editor doesn’t work for me
+Dude for the search field thing, did u get it responsive? Like in mine, when i type something it displays properly, but it doesnt update when I delete the search text...it only updates when I type something...did u hv the same issue?
+Nm I got an easier way...whenever there’s a text change, set the predicate
+Dunno if it’s good way tho
+What did u think?
+No no
+That later
+Ya I saw that, u have a spinner rite?
+U add a spinner object in the observable list? That’s possible?
+And normally connecting the list to the table? Nothing different?
+Why dint u use onEditCommit()?
+🤦🏻‍♂😂😂😂
+I want to see that part of ur code after assignments r over so don’t delete
+Idiot only🤦🏻‍♂🤦🏻‍♂😂😂😂
+Dude how to u set like call this function when increase or decrease spinner? U use onAction?
+How did u link changes made to an item in the list to reflect on to the table?
+I’ll show in college
+U reached?
+How did u add itext?
+Maven?
+Too many files if u download from sourceforge
+If u do use maven, send me a pic of the .pom file, especially the dependencies for itext, I’m getting confused some kernel stuff is there
+What’s ur LD part b first q answer?
+Tutor can enter *only if* S is there
+But if S is there then anyone can go with him
+H can enter if S is there
+So CHT no
+Then why H can go only if S is there?
+If HC is possible then only H is also possible
+I did this in the truth table
+Ya
+What does that bank link say?
+theres no bank in this
+The third statement is the confusing one, since it’s says CH is possible but the seconds statement says H can only go with S
+How is there a don’t care in this?
+How?
+T is a valid input
+U do care about T
+T can’t go alone
+He’ll go to jail then
+If he goes alone
+This is confusing
+Because if u read the q, it says all other conditions r 0
+Not don’t care
+In the last q says u output is 0 or don’t care
+But this q says only 0 otherwise
+What’s ur truth table?
+I don’t have 7 11 13
+Oh ya 7 is HCT
+Oops
+Damn it but H has to go with S
+Wait a sec T can only go with S not H/C
+If u take organisational hierarchy, it makes sense that T can only go with S, he’s just a tutor
+Everything except CHT makes sense
+S has master key so whoever goes with S can enter
+That’s even more complicated
+Ya
+So combination of ppl
+So where S is 1 it’s good
+And HC
+Cuz of condition
+IKR
+So is HCT possible?
+HC is possible then HCT is also possible
+It’s like if H and C combine they become S
+So HCT=(HC)T=ST = 1
+Ik😂😂😂
+So answer is this except 7?
+Unless this is possible
+Or think of it another way, which ever combination satisfies the conditions (regardless whether there are extra ppl) then that combo is true
+That way CHT is true
+Or we’ll ask sir on Monday
+We’ll do this👍🏻
+Ya
+Because this is how u do the last q
+Somewhat
+Since >= credits is pass
+Not just == credits
+With this I’m getting H as don’t care
+Or cancelled whatever
+A=S, B=H, C=C, D=T
+How did u make the hashmap? U hashed they key?
+Ya u only found out sometime back in class...ctrl+Z noe?
+Background foreground
+?
+Context?
+Bash?
+😳
+Full form😛
+For tht gene q in DM, there’s an inbuilt function in python which gives me all the sunsets of a set😂😂😂😂😂
+2 lines of code
+But then q is asking to find time complexity...how do u find that for an inbuilt function?
+👍🏻👍🏻
+I should still start😭😭
+Ya but they won’t give the code only what the thing does
+😂😂😂😂
+Sahana Maam.vcf (file attached)
+Dude for the MIPS walla q in COA assignment
+Is it possible to get the MIPS rating as 4.somthing?
+Did u do that q?
+Any idea how to do it? I did it but I’m not too sure about the answer
+He also dint do
+My answer somewhat makes sense, but 4.something MIPS is kinda low
+I have APC, DSA and M3
+Pakka?
+Circuit is huge tho
+👍🏻
+God noes
+I don’t care
+He said maybe
+Maybe he mistook god noes
+Dude for APC, did u include screenshots of the entire program?
+Basically what all screen shots u included in the question
+And that appendix thing
+And did u get the eq for math first q?
+What answer u got for COA last q?
+So u added individual MIPS values and took the time given in the q as the time required to execute 20 instructions or whatever instead of time required to execute 1 instruction
+Why though?
+No that I got
+Why in the sense why add MIPS and why did u take it as time required for x instructions = value in the table?
+I took time required for one instruction = value in the table
+One instruction of that type
+U did this
+Ayioo see there are 20 load instructions out of 100 noe?
+And they gave execution time is 90 nanoseconds...did u execution time of 20 load instructions as 90 nanoseconds or execution time of 1 load instruction as 90 nanoseconds?
+Then shouldn’t u multiply by 20? Like 90*20 in denominator
+U just did 20/90
+Formula is like Instruction_count/total execution time of that type right?
+So 20/(20*90*10^-9*10^6)
+Here u did 20/blah blah
+I dunno...that’s why I took execution time of all types of instructions
+In denominator
+This
+Nope I got 4.9 something
+Close to urs
+That’s why there’s confusion here
+Ya that summation thingy I think
+Keep 100 it’ll be easier to understand
+So then which is rite?
+So which is right?
+Why did u take all the CPIs with same frequency?
+*calculate all CPIs
+Oh
+How did cancel CPU freq in MIPS calculation? MIPS formula doesn’t have CPU freq in it
+Some qs in the slide take execution time as CPU time
+So CPU time for one Load instruction is 90ns
+Wait a sec...they used CPI to calculate CPI?
+But my answer using 1/(x+y+z) thing is without the 10^12
+?
+Whoops
+Wait
+Ok it matches my answer
+Remove the 10^12 part
+4.950495
+I solved it using the method they used in that website
+👍🏻
+Ya
+Math 1st q?
+For the cipher walla dsa q, u used any data structure?
+What’s in the structure?
+U did it like cli args specify which file to encrypt/decrypt rite?
+How did u explain this for 4 marks?
+I’ll finish DSA and then see
+I hate DSA
+My programs r utter crap
+Cipher thing is fine, apart from a struct which does nothing...my plagiarism thingy is very stupid, although it’s less than 100 lines
+yup 🤮🤮🤮
+Ya this only, but final answer is weird
+Wow ya so according to q m/s = kg
+Wait it’s given numerically equal
+Chuck all that is this rite?
+What did u get?
+U stuck in math😱😱😱😱
+Dude what’s ur graph for math first q?
+Wth, whts ur solutions?
+Hmm...I dint think of using diff
+Solutions tho?
+No not graph actual solution
+I used combo of wolfram and some other math site
+Also in the quadrangle there is a poster with the link I think for details
+Can u send the link?
+Only the old innovation challenge is there in the normal thing
+Aey that’s last years one but the format won’t change noe?
+They do want the whole thing to be broken down into those categories
+No no categories in the sense the budget, further scope and stuff
+Along with the idea, we need to focus on that also
+That’s another mistake we did last time
+We focused too much on the program and neglected everything else
+The themes are there on that poster
+Dude this time we r playing to win
+So no slacking off
+Same
+Take note of this
+Oh if u find a nicer looking version of the pdf then send it to me also
+Which?
+Send noe
+Apparently recognising breast cancer is easy
+From medical point of view
+Not programming point of view
+God noes
+U said breast cancer has most
+Cuz there’s no human error
+Wait r u thinking of changing the topic?
+This exists u noe
+Hmm I’ll ask
+There r some ppl who r doctors and don’t know shit
+Example, for colonoscopy kind of operation, which idiot puts the instrument in the patients mouth and expects it to go to the intestine?
+This happened in my sis college
+Ya I’ll talk to my sis when she gets home
+Dude where did u get those pics?
+Scans walla
+Send a clear pic of one now
+Dude send a pic of an image
+The topic of finding out whether there is cancer or not is very broad
+That Wisconsin place got data from a procedure called fine needle aspiration (the images that come up in that process are in shades of pink) and the ones u showed were black and white
+Dude send one pic
+I want to show my sis
+Use the phone camera
+Cuz the Wisconsin stuff is used for waaaaay more specific things not just whether u hv cancer or no
+And these are used for simple classification
+Which is what we want
+One sec
+Ok talked to my sis
+She said these things are called mammography and can only tell u whether cancer is there or not
+The Wisconsin shit is used for telling what sort of cancer what type specifics which has a looooottttt of medical information
+And this is waaaaaay simpler than the Wisconsin thing
+She’ll go to the library tomo and get more info on how to read a mammography
+I’ll ask someone Ik how u would approach the feature extraction stuff from images
+👍🏻
+Found a paper that explains what we want
+Feature extraction from mammography
+And at the end they also end up classifying it😂
+No code, but good starting point
+ill send? or did u already come across it?
+Read the full thing then we’ll discuss what to do, what tools to use, etc
+There are stages to it, basically pre-processing, feature extraction and reduction, dumping in a classification algo
+This is needed so we both don’t end up doing the same thing and wasting time
+And don’t end up using different tools
+That 160 gb has benign images rite? Benign is non cancerous
+If it says that even benign thing is there the it’s fine
+Sis found out somewhat
+Ok now I want to torture and kill the creator of Realtek
+Windows is having problems now
+🤬🤬🤬😡😡🤬🤬🤬
+No signal in mine
+Even when I’m next to the router I get like 1 bar
+U read it?
+No no no cropped stuff
+What happened to this🤦🏻‍♂
+Ok so u do pre-processing I’ll start with the feature stuff and look into it
+Btw u forgot about histogram equalisation
+More in the sense not the 160 gb one? And this has the cropped stuff?
+Wait cropping won’t effect anything rite? It’ll still work even if we put a non-cropped one
+Despite feeding cropped images for training not effecting anything, we still need to make sure the program works with full fledged images also, cuz that’s our actual inpit
+*input
+We use tensorflow?
+If we r, then I have to use windows...I tried installing tensor flow in manjaro yesterday, manjaro broke
+Why nn? For image processing?
+Manjaro dint boot... I had to install proprietary drivers and cuda support, that broke it
+I was thinking we follow the steps in that paper
+First we’ll go with the paper thingy, cuz the steps are there, then we’ll dig deeper with nn
+Provided we have time
+Dude give me the link where u got the license keys for clion noe
+While installing tensor flow u used Vonda?
+*conda
+I’m installing in base
+My q is whether what conda installs and what the website says is the same or what
+Cuz I installed the stuff the website said
+How did u install it?
+I’m installing in windows only
+But u used conda rite? Website says to use pip
+What’s the code to add 2 numbers using gpu? I want to test and see if it works
+What’s the use of name parameter?
+Oh
+It’s taking a while to add
+Which version r u using?
+1.10
+Couldn’t install 1.11 using conda
+Installing using pip dint work
+Dude it’s still running
+Ok
+Ok it works in shell
+Fast
+But Jupyter no
+Why?
+Ok then installing cuda was not required at all
+I just ran conda install tensorflow and done
+Tensor flow is used only for neural networks??
+But can u do stuff like use numpy functions on gpu? Like that Gaussian blur thingy I told u about
+Can u execute it using tensorflow? Or should u code the whole thing urself?
+Can void pointers point to pointers?
+😑that day u said single pointer is fine
+Say I want a linked list that can hold arrays as well as integers
+But since void can point to anything, can’t it also point to a pointer?
+Ok another q say I have int**, while mallocing, I only have to do malloc(num*sizeof(**int)) rite?
+**int
+Both places
+Ok
+**<var_name> in malloc
+Wolfram also gives c=7 but also y=0 and gives the answer in terms of some lambert function
+Dude for the “verify the correctness of the derived solution” what should we do?
+And plotting ignore any complex parts which come?
+U won’t get nice graph, it’ll be too pointy
+Harvard guys says when m is prime and same in congruence relations, the problem can be solved using linear algebra
