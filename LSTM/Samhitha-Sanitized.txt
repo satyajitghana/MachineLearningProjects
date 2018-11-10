@@ -1,0 +1,3750 @@
+02/03/18, 11:40 pm - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+R u done with mech?
+no 😭😭😭😭
+I got caught up with something.
+Wow
+🤦🏻‍♀
+that was my performance curve, decreases with time.
+e^(-x)
+Ohooo
+Biggest joke
+😂
+😒😒
+😭 did you finish studying ?
+IM just glancing through all the slides
+Not learning anything actually
+hmm
+ya
+this sucks
+Mech sucks... totally
+Donno wt to learn also
+PV diagrams, four stroke engines, and that refrigeration system.
+at least these.
+Refrigeration system...wt will they ask?
+you don't have old papers ? 🤔
+No😳
+You deleted this message
+Have one...in that it isn't there
+This I had...only one
+this is where they asked the vapour compression refrigeration
+3.b it's there no ?
+Oh yeah🤦🏻‍♀
+😌
+ya
+read that
+I didn't learn that...I'll learn now
+or learn
+yeah
+Thanks!
+😊 you're welcome.
+Question 4?
+photovoltaic cells
+write about that
+Diagram?
+arre write photoelectric effect
+And explain
+Ohhh
+diagram that pn junction thing
+Haan...that's ik
+Easy
+yup
+I finished glancing once
+Now I'll learn
+😦🤐
+😭😭
+C'mon...u will also finish
+I don't know anything...just seen what's there
+I'll try to 👍
+U will
+I hope you are right.
+🤞🏻😂
+😑🙁 bye
+Sleeping?
+no 🤦‍♂, reading slides.
+Ok okk
+Enjoy😂
+when is AKAIRA ?
+March 16,17
+ohk
+Why?
+just asking
+we were planning to go out then.
+Who all?
+my 3 monkeys
+pet monkeys
+😂😂
+Pet monkeys eh?
+ya
+😂
+Great😂
+2 actually
+one of them is a lemur rather
+😂 sizzalsssss is a lemur
+Who's that's.. shubham?
+Ohooo🤦🏻‍♀😂
+😂 your battery percentage.
+🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀
+oooh he's fast. vayu, huh 😂, find that horse, i want one.
+It's ur bro...u go find him
+😂😂😂
+70km/hr from t=0s to t=3s
+😂😂😂
+but a average horse goes from 35-45 km/h
+Yeahhh
+Verryyy fasy
+fast
+😂 we need to find this horse.
+Sumanth sir has it
+😕 oh.
+kidnapped ?
+😦 how could he do that.
+Ur bro...u find out😛
+you did B1 ?
+IM seeing the questions now
+aaah ok.
+This is Newton forward difference na
+yup
+equally spaced.
+u started assignments?
+but they never said to specifically use newton-gregory forward difference
+so you can use anything
+not yet.
+they have asked
+see
+😑 B 3.1
+ya
+just saw
+in the net they have given it as the same ting..i mean its given as NFD
+net ?
+internet
+google
+what's given as the same thing ?
+gregory newton and NFD
+it's not NFD
+it should be Newton-Gregory only
+😑 sumanth sir never told that, he forgot gregory
+BUT the steps and all are same
+//pages.intnet.mu/cueboy/education/notes/numerical/newtongregory.pdf
+we'll ask in class then
+arre
+its the same thing
+he didnt write the full name of the interpolating technique
+ohhhhhh
+😂😂
+then we can do
+but terms are huge🤦🏻‍♀
+ya
+last question also
+terms are more
+MATLAB questions, you don't have to do anything
+directly we can write it off huh using matlab?
+no need of typing?
+copy paste the function from MATLAB
+okieee
+and then you'll get the function as output noe, type that here in word and answer the questions that follow.
+like the previous assns...we need not show stps is it?
+*steps
+they never said to write the algorithm
+so why to do so much work.
+fine then..i'll try
+```simplify(poly)```
+Wt?
+It's there in the program onlt
+oh ok
+it didn't give a t^5 so I thought you didn't simplify it.
+Whole multiplied by t is there
+ya
+but that doesn't look nice
+try ```pretty(poly)```
+Wht😂
+try no
+Niceee
+ya
+nice 👌
+Understandable format
+pretty format
+😁
+Yeahhh🙃
+Wt to do for the other sub questions
+whatever they've asked to do
+😂
+I mean how
+😌 I'll see later.
+still sleeping
+White board??????
+Woe
+ya
+for writing stuff
+I can see that I have solved something
+*u
+```x(end)```
+Yeah I did
+aah ok
+B1.
+And that sure looks like math B 1
+Yeahhh
+Done solving?
+kinda
+have to type and all.
+Ehmm
+and make things "pretty"
+😂 havn't started typing noe
+But u have the answers no
+😅 uhh
+Then😐
+oh wow 😂
+U also do na
+I have a feeling something's wrong
+will do later
+yeah got the same
+but the graph is weird.
+Yeah same..graph IS weird
+use less step size, it will be fine then.
+Ur still up?
+yeah
+Studying
+no, YouTube
+will be sleeping in some time
+Liar
+or not, not sure
+🤦‍♂ not lying.
+Liar liar liar
+🙁
+😂
+☹
+why do i have to be studying all the time
+Wt were u doing till now?
+till 1 am, maths assignment
+Coz that's what we think u do
+then just whiling away time
+How many done?
+and that's not true at all.
+Questions
+🤷🏻‍♀
+the debate is left, B2 is left, and that last one have to ask sir about the smoothness of the curve.
+Ok..tell me how to do B 3 other parts tmrw
+Now I'll sleep again
+😭 no it's not true.
+okay good night
+Chill yr😂
+😊
+Good night!
+Written ECE Manual?
+not yet. sleeping. 😅
+How many assignments done?
+none
+Math?
+debate
+Debate is left
+Huh
+yeah
+Can u send screenshot of the answers...IM not asking for the PDF or anything...take it from ur phone only and send...no problem
+Pls send
+?
+busy with physics.
+When can u send?
+not sure
+after that i'll be doing ME
+Take some 5 mins of ur time and pls send
+🙏🏻🙏🏻🙏🏻🙏🏻
+you did EC and Mech ?
+Mech  IM doing now
+ECE I got something on the net
+oh ok, same here.
+Send math noe
+🙏🏻
+you finish mech and ec
+don't depend on me
+Mech I will.. ECE I donno
+Math tho...🗡
+EC I could help
+after finishing mine
+Oh thanks
+But I seriously want math da
+Im not able to do
+what in maths ?
+B1 and B2 ?
+Yeahh
+here
+happy ?
+Yupp
+you can solve it noe ?
+Thanks🤗
+Yeah
+Did u do ED 2 nd one
+havn't started, but will do.
+Oh cool
+Tell me after ur done
+there are two DE's for this, one for t = 0hr to t = 120hr and other for t >= 120hr
+🤦🏻‍♀ok
+ECE
+Got anything?
+doing . . .
+Okay
+Done with ECE
+?
+doing . . .
+Ohkkk
+U got the output waveform?
+yup
+Cool
+does it work ?
+Oh shit...this is positive clamper..isn't it
+And answer is negative clamper na
+yup
+Haan got it
+Wt to write for specifications of components
+copy paste the data sheet of the component
+Im doing online
+It's not there🤦🏻‍♀
+Send what to write na
+Wtf
+the data sheet
+Exactly...show na
+search for 1N4007G data sheet
+or whatever diode you used
+I'll get on internet?
+yep
+Got it
+Thanks
+Done all assignments?
+Over?
+😑 ya noe, i finished A2 also.
+Dude. IM just asking casually... didn't have to get offended🤐
+🙁 still on mechanical
+and then there's maths A1
+after that ED manual draw
+ECE?
+that's probably it.
+done
+except last Question
+Send noe pls
+I have
+here are the working circuits
+just simulate them that's it.
+I don't have multisim
+whaaaaaaaaaaaaaaat ?
+IM doing online
+ohk
+not sure if the online Multisim can open Multisim files
+It can't
+We can only construct and save online itself
+In our account
+🤦‍♂ why why why online
+you have the circuits with you ?
+I mean the solutions
+I have the installation file..but lazy to install
+wtf 😑
+I thought you didn't have
+now go and install then
+I got only that clamper ka thing
+and then use these files.
+I have to do ED and math still
+like from beginning ?
+No..ED documentation...and math debate have to search
+ECE full I have to do
+mech ?
+Done
+fully done ?
+Haan
+aaah then you have time to install multisim
+go and install
+Ahhh...okay
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍
+🤦🏻‍♀🤞🏻
+It's easy for boys to tell to wear anything and come
+😒
+red is not ok ?
+Not about the colour
+It's about WHAT to wear
+😂 arre anything red.
+remember we have workshop
+Exactly
+Thats y we can't actually get ready and stuff ..
+you can change in break
+Someone convince sir not to take mech workshop..
+We'll get ready properly and come
+🤔 good idea
+but whose gonna convince sir ?
+BTW we havn't bunked any workshop
+so there's chance he might listen
+Yeah...
+CR's ?
+And he told we can bunk any one workshop...in the first class he tols
+Remember?
+ya
+They can
+We can try that tmrw...
+okay 👍
+so what do we do if we bunk ?
+Tell in the group
+go somewhere ?
+Again the same question will arise..."go where"?
+😂
+and the loop continues
+Forever and ever
+😂 home
+If we decide on something today itself...we can bunk the whole of tmrw and go somewhere
+Just saying😛
+now that this has been taken care of, anything else you'd like ?
+Everyone agreeing to it
+Maybe?
+arre they will.
+we won't attend.
+Sure?
+ya
+one day they'll agree
+or we can talk to sir.
+But we need to know now na...
+Coz we'll have to get ready in the morning and come
+Vote for this!!!
+🤨 you afraid to say that in class
+group
+IM on a call
+Can't type...so much
+😂 and I'm busy
+Uff done...
+Tell in group noe
+ufff done
+😌😂😂
+Math
+I saw
+saw what
+mech you saw
+😒
+My marks
+kitna aaya ?
+24😒
+😒
+Less than u😂
+why that stare
+Stare?
+😂 this
+Coz
+😒
+you got more in mech and ED
+where are you now ?
+How much did u get in ED?
+On my way home
+I didn't see
+I thought you were in college
+U got more than me im sure
+Nah...y?
+if I got less than you, i get treat ?
+you'd go and see my marks
+No noo
+Finally ull get more than me coz u did well in ECE...I didn't
+😒 kya be itna bhi nahin kar sakti
+that's not the deal
+ED is
+I meant...IM not in clg to see
+ya, but if you were, I'd have requested you to see.
+😅
+And I would have seen..🤞🏻
+😒 yes
+no crossing fingers
+Why not🤨
+If u get more than me... I  want treat
+why cross in the first place
+ED
+ok
+Yeah ED
+Ok...**✌🏻✌🏻
+how much you got in ED ?
+🤨
+22
+hmm ok
+So..I'll get a treat
+😂 good luck on that
+Hehe let's see
+Y r u doing MATLAB nowm
+*?
+I'm bored
+too bored actually
+🤦🏻‍♀
+MATLAB takes away ur boredom?
+yeah 😄
+I love MATLAB
+😂😂😂
+That's ur gf😂
+no no
+😛
+Linux is
+Half expected this
+😂😂
+2 years into linux.
+Nice relationship.. without any tension
+😂
+yeah, 😎
+just that coffee khud hee banana padta hai
+Ohooo😛😂
+the movie is dumb
+😂
+I told her to put Ferdinand
+Thor ? Ragnarok ?
+I have now
+I don't like superhero movies
+🤦🏻‍♀
+I like it now
+😇
+the story is nice
+8.4/10 in IMDb
+Oh ..
+I liked it...
+that musician is not his dad
+😂
+Why do wanna give spoukers
+*spoilers
+🤨
+😛
+that's the biggest spoiler
+👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻
+🤣
+this guy you seeing right now
+Shut and watch now
+he's his dad
+👊🏻
+😂😂
+If it's wrong I'll be happy
+IM going offline now
+👊🏻
+🤣
+I'm watched twice
+*I've
+👊🏻👊🏻👊🏻👊🏻👊🏻👊🏻
+Serio
+😑 your ED was match fixing
+At the end...I won
+😛
+cheater
+Not at all
+But give me treat
+😂 i'll bet on EC then
+Ull get more than me
+you knew my marks, Shubham told me.
+I knew😂😂😂😂😂😂
+if in EC, then yes, because I know you don't know my EC marks, nor do I.
+Yeah...so if u get more than me in ECE...u will give me a good treat
+I'll see what I can.
+Suree
+" *toppers selfie* "
+😛
+how was your day ?
+Yeah pretty well!
+U r the topper..😛
+🐤😛
+U have no right to tell not to call u a topper
+now when did I stop you from calling me
+Hahaha..ur status
+that's the situation before every exam
+how do I know before the exam who will top and all
+Specify then
+😂
+🤨 you like 🐕
+😂 Shubham ke saath khel lena phir
+Uff
+😂😂
+haww
+bezzti
+😐
+Yea
+//pollsgo.com/poll?p=UxxdWyL
+😂 you are my lab buddy. and classmate and friend.
+aur kuch ?
+Haha...do the poll first
+😂
+More questions are there
+Did?
+what no
+I just reached home
+Ohh...this late?
+ya
+we were eating ice cream as usual
+Ahaannn
+Okk
+done . . .
+Wait what
+🤨
+this thing
+Ik
+Wt did u mark?
+😂 all first options
+whatever it was
+Dumb
+lol wait
+Yeah?
+U marked 2 crushes
+Thanks lol
+i'm trying to do more
+🤣
+For what joy
+Mad fellow
+aise hee
+Jobless uh
+trying to ruin the stats
+😂 accha leave
+Better leave
+Dumb
+how's it now ?
+3 crushes
+Hahaaa
+🤣ya now go find those 3 crushes
+see 3 people have crush on you.
+U only 🤣🤣🤣
+how could i fill the pole more than once ?
+*poll
+U can do it how many ever times u want
+🤣 you too
+for creating the poll in the first place
+no you cant
+It took just 1 min
+How did u?
+proxy servers
+Ahhhh
+i can do it as many times i want actually
+Bad boy
+😁
+want more crushes ?
+No thanks
+Too much to handle already
+🤣 aah have fun
+tomorrow physics lab, viva or the experiment ?
+Experiment
+☹ viva is more funnnnn
+Since when is 1 and half hour if mind blast is funn
+since last viva . . .
+Oh my god
+Nooooooo
+It's too much...
+He should reduce the time
+U gave away the plot for me
+told you
+👊🏻
+did you write the physics manual diffraction grating ?
+Noooo
+Did u?
+yeah, wanted to check the values
+finish it then
+Show me the calculations
+IM getting confused...I sat to do it on Friday itself
+how did u get TR
+write for one value and send
+16.5 + (20/30)*0.5
+show me the wavelengths that u got
+since 0.5 degrees is divided to 30 division
+right most is wavelengths
+okayy i'll see
+all colors seem right for me except blue
+doesnt match with theoretical value?
+ohh..u got that for blue?
+ya
+do your calculations
+i'll do
+im taking g section friend ka value..mine was wrong na
+okay
+whats LC?
+tomorrow we should get it corrected
+1 minute na
+yep
+1 minute 0.5/30 degrees
+0.5?
+oh haan
+because i wanted everything in degrees
+okayy
+i can keep in minutes and do the calculations na
+umm you'll have problem later converting minutes to degrees
+basically when you do calculations you need in radians
+you want to convert minutes to degrees to radians ?
+you can though
+calculator has a degrees with minutes and seconds waala option
+like you put ' and ''
+yeah..i can do that
+you finished ?
+Yeah
+and also got it corrected ?
+send me the values 😅
+My first wavelength was not correct...I have to check everything again
+He told me to come tmrw
+You deleted this message
+You deleted this message
+You deleted this message
+We know the song
+😂😂😂😂😂😂😂😂
+Wt r u even doing since yday... putting all cat photos
+😛 I like cats 😍😍
+U have a cat at home?
+I used to havez but then mom won't let me keep one. cuz there would be noone at home, she goes to school me college, and cat would be alone.
+😛 i am gonna keep cats after college gets over in 3 years
+and I'll name one of them Shubham
+🤣
+Other 2?
+Shyamant and Sejal?
+😂
+yeah sure 🤣
+Hahaha
+✌🏻
+😄
+IK..I started it
+🤣🤣🤣🤣
+😐 yeah I can see
+😂😂😂✌🏻✌🏻
+Congrats😂
+"ye kya pada ra h " part is false for u
+no it's true
+😒
+😂✌
+Congrats
+😂😂😂
+Lol
+😂 baaki ke dekhne laayak nahin hai
+Beautiful😂
+Huh🤣
+😉Yu have to answer all these questions honestly!
+
+
+
+1. How much do u like me 🙂
+A)100%.         B)75%
+C)50%.           D)25%
+
+2.what u like most in my face
+A) eyes👁      B) nose👃🏻
+C)lips 👄.       D)smile😊
+
+3. In next life  I should be ur
+A) Brother       B)friend
+C)Husband      D)lover
+
+4.what impressed u from me
+A)smile😊.  B)way of talking  C) comedy 😂. D)Romance
+
+5.From me something u don't like😡
+A) not listening.  B) getting angry 😡. C) nothing.   D)talking like hurting😔
+
+6.which colour suits me
+A)white💟.  B) black🖤
+C)Red ❤.     D)blue💙
+
+7.Can I post this as my status;
+A)as yu wish😘.   B)no☹
+C)yes 😍.          D) Certainly not
+
+Send it to ur frnds and know what they think 'bout you😉😉😉😉
+Cuz bored
+1.B)75%
+2.D) smile ☺
+3.A) sister
+4.B) way of talking
+5.C) nothing
+6.C) Red ❤
+7.A
+Haha thanks😇
+Hey Send ur transistor experiment ka values and graph pls
+now ?
+you awake ?
+Yes I am
+I already did also yday
+okay
+You deleted this message
+Dumb..what's 4?
+Sunnnnnny
+Fuck
+No
+Then who ?
+No one
+Lol
+aisa ho hee nhi sakta
+sabka koi hota hai
+IM not like everyone
+😛
+You deleted this message
+currently he's with me
+U bunked and went ????
+yup
+Orion?
+Mantri
+don't change the topic
+For what joy?
+btao btao
+Nah nah nah nah
+BurgerKing
+kya nah nah nah
+BTW Shubham knows
+he's just not telling me
+He won't also
+then you say noe
+I won't tell it to anyone
+No thanks
+😂
+eventually I'll come to know
+he's from our class
+and it's easy to narrow down the suspects
+clues toh de de
+Hahahahahahahaha...
+😛
+I won't tell anyway
+playing with polar arrays huh ?
+Yesssss
+😂
+Is this a question?
+you wanna try ?
+I'm scared to try
+No thanks😂🙏🏻
+Tmrw 's portions is enough
+😂 sir anyways didn't teach to solve those type of DE's
+it's not linear moreover
+Exactly..so ..never mind😂
+Btw..send me the problems that will come for last question.. that decay question and a
+*all
+With solutions🤞🏻
+okay will do that in sometime
+Sure thanks
+I got it in Zill and wright
+Same na?
+Series circuit is there?
+nope
+okay
+He has done the exact same questions in class na
+which ?
+Application based problems.mixture ,decay and all that
+yes
+Tutorial 2 has i think those questions
+I don't have the questions
+Do u have?
+Send if u do
+Thanks🤝🏻
+Biasing methods is there?
+donno
+How much r u done with
+i slept
+now woke up
+Lol okayy..same here
+😅
+Huh
+😂😂😂
+Ooooooo😂😂😂😂😂
+Mine is at 67
+ooh close
+Yes yes😂
+Hey
+Any important questions in mech
+That u know
+havn't started yet so no idea
+Damn...okk
+Tell me if u get to know something
+Did u finish ur physics viva?
+nope
+tomorrow's the last date to do
+yeah..when will u go
+30 to ask sir when to come, we can bunk EC
+yeah..we can do that
+im ready to bunk ece
+yup 😂
+but don't say anything to Shubham
+About?
+His?
+ya
+he'll be mad.
+really mad
+Yeah yeah ..sure...is won't tell chill
+😌
+okay
+😂
+😂 and that laugh was about what ?
+Urs 😂
+accha then it's fine 😛
+Chill chill...
+Stuck in rain?
+got bus, but completely drenched in rain
+😂 but i like being drenched
+I still have to get a bus...
+IM half wet
+where are you ?
+But... waiting for half an hour🤦🏻‍♀
+Malleshwaram
+oh ok.
+there's more traffic now
+buses are stuck at places
+I want bus just for one stop 🤦🏻‍♀
+get an auto ?
+And it's not cmn since half an hour
+My mom doesn't want me to
+😒 what
+you'll reach faster
+My parents are also in Malleshwaram...but in another corner
+It's not safe in the rain
+oh ok.
+there are fallen trees everywhere near my street
+How much more time do u need to reach home?
+😂 I couldn't even recognise that this is where I live
+🤦🏻‍♀..ur already homw
+I went ahead and then came back to see that this is where I live
+😂😂😂😂😂😂😂
+yeah . . .
+15 minutes since I'm home
+Wow
+reach home soon ✌, your bhel puri 😂
+I got down at my stop... finally
+Have to walk home
+I told u that I haven't stayed out this late and his wanted me to stay out
+Damn
+😂 arre it's okay, it was bad luck that it had to rain today.
+but nice rain
+it was so hot for the past few days finally it's cooler now.
+It was thundering so badly
+It was nice though
+Home
+Sweet
+Yeah...
+Home
+😂
+😂
+Drying my hair🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀
+Became my dinner
+bhel puri, that's it ?
+nothing else ?
+Nope
+That's it
+😂 yeah what are your doing at 2AM
+Woke up now
+As usual
+jinx 😂😂
+i slept early
+🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀
+45
+now no more sleeping
+55
+I'll sleep again.. obviously
+U do math..go
+😬 yup
+Really.. wow
+Go sleep
+eh no, i dont feel like
+😅
+Great
+I'll sleep then...cya
+okay see ya 👋
+good night
+Good night
+Ehmmm...* Coughs *
+😮😮😮
+i made it public by mistake 😅
+yeah . . .  it was meant for her.
+😅 she might not reply to it, but it's fine
+Ohohohoho
+Show me ur ED second one CAD DRAWING
+Oye?
+Thanks😁
+Hey.. Studying for ECE mock test?
+sleeping first
+sleeping come first
+😂
+Sure
+as if our life is less f'ed up, and not talking is gonna fix everything ?
+That wasn't for any of the friends
+wth is tis😂
+chat bot ?
+whatsapp chat bot
+oh, you asking about that conversation ?
+😂
+that's confidential
+both
+planning to make like an AI bot, that learns from your conversations.
+nicee..
+How to use ode45?
+Also..'quad'?
+```Q = quad(@myfun,0,2);
+where the file myfun.m defines the function:
+%-------------------%
+function y = myfun(x)
+y = 1./(x.^3-2*x-5);
+%-------------------%
+
+or, use a parameter for the constant:
+Q = quad(@(x)myfun2(x,5),0,2);
+where the file myfun2.m defines the function:
+%----------------------%
+function y = myfun2(x,c)
+y = 1./(x.^3-2*x-c);
+%----------------------%```
+```[t,y]=ode45(@vdp1,[0 20],[2 0]);
+plot(t,y(:,1));
+solves the system y' = vdp1(t,y), using the default relative error
+tolerance 1e-3 and the default absolute tolerance of 1e-6 for each
+component, and plots the first component of the solution.```
+U urself..is the crush ehhh🤣
+😂 whose crush would I be.
+I'm the best friend part
+shubham be the funny guy
+And?
+and and smart guy is Shyamant
+And?
+sejal is the crush of Shyamant
+done
+🤣🤣🤣🤣🤣🤣
+😂
+Great
+😂
+ya ya ty ty 😛
+suraj ??
+Lol
+That's one of my fav songs... that's it
+ohhhhhhh ok
+favourite songs are always relatable
+they are favourate for a reason
+That's true😕
+seeeeee I knowwww
+Oh c'mon...stop trapping me
+newton's backward  difference is same as divided difference?
+has he done backward??
+*similar
+nope
+so..will it be there for the exam?
+it shouldn't be.
+u k how to do??
+cubic spline? is it done?/
+//github.com/satyajitghana/MATLAB-semester-02
+yeah, look at the link above. ```NBD.m```
+yeah no, I asked sir once about spline fits he said he might do if there was time, but he didn't do, anyways it's not there in exam.
+Ok...🙃
+Thankussss
+Wth
+Caesar's Box, Width=4
+Wts that?
+it's a simple cipher
+to encode a message or something
+ohh okayy
+```DAL
+OLO
+NLV
+TIE
+FN```
+😌 read it like col 1, top to bottom, then col 2 . . .
+wow..dont fall in love
+but u already have😂😂
+😄 yep
+😕 ya
+sad lyf
+😂
+😭 yeah
+very very sad
+be happy lol
+😕 how could one be happy without any reason
+be happy that ur in love
+😂 that's more of a reason to be sad right now.
+😕 because she doesn't
+ur not happy with her eh?
+she doesnt wt?
+love me. 😭 doesn't even talk to me.
+wthh..ur in a relationship noe
+umm no ?? when did I say that. maybe was before.
+before as in long ago
+ohhh..wait..u did tell me that ur in relationship
+u broke up or something?
+not exactly no.
+kind of i donno.
+wow..how can u not know..its ridiculous
+cmon
+she doesn't even say properly.
+she doesn't want to be in a relationship now. it's not that with me or something, just not now.
+ohkayyy...that's all too complicated..damn..i pity u
+and then one fine day she said that she has no feelings for me and then yeah it was over. but then later we used to talk and everything was fine. but now slowly that doesn't happen either.
+😭 yeah.
+this happened after assignments?
+the feelings thing was before that.
+the conversation getting shorter, yeah after assignments. well more like recently.
+but ur in love?
+with her?
+yeah 😰
+awwh..have u ever tried telling her how u feel
+umm yeah.
+after I told her, that's when she said she has no feelings thing.
+😅 but saying anything now is useless.
+*meaningless
+better to move on🤷🏻‍♀
+😓 yeah I guess so.
+no use holding on to something when  u know u cant get it
+der??
+yeah ?
+👆🏻
+umm yeah . . . i guess I'll try to move on.
+the only option
+yeah better
+and the first ranker is not allowed to get distracted by sadness
+😂 who said I was distracted
+me
+omggg😱
+😰 but I'm still sad
+😭😭😭
+power fit was done in class?
+no, but he did say how it was to be done
+ayeee..see..i told u..chill now
+all codes in here
+achaa..i'll learn then
+IM so friendly
+i couldn't agree more 😁
+🤗
+And u?
+cancer ♋
+Sure..I'll listen to u
+😅😛
+😂
+Finished?
+finished what ?
+😂
+Preparing for tmrw?
+umm not exactly.
+I was in college
+going home now.
+there's manual for curve fitting ?
+Wt were u doing?
+He has done in class...I learnt
+like as in partial derivatives and all ?
+and minimising that error function thing.
+No..
+Not that one
+asking people how their MATLAB was.
+then ?
+How was it?
+quite simple, only interpolation manual will come.
+Finding co -efficients of the linear equation and polynomial
+and how do you plan to find the inverse of a 4X4 matrix ?
+NBD is there?
+I don't wanna learn
+i mean 3X3
+yeah
+MATLAB
+🤦🏻‍♀
+it's _manual_
+gauss jordon ? 😂
+Im doing all that
+you are ?
+😮
+U told only interpolation manual na...why do need all that?
+*not
+🤦🏻‍♀😬
+yeah, today's all exams it was interpolations.
+ask someone in automotive, I don't know about them
+I know none
+Advice lol
+😂 okay tell what kind of advice you would like to hear ?
+Anything u wanna say
+advice for you hmmmmmmmm.
+lemme think
+Think think
+😂 lol this is difficult.
+you are perfect the way you are.
+i wouldn't want to see any change in you.
+😅
+Ohoo... enough
+No one's perfect
+I said the way you are now is perfect, see my definition of perfect is different. I'm defining it relatively.
+But.. something will be there...for sure
+Right now
+😅 right now
+😂 I'm in college
+can't think
+For what joy?
+tomorrow we have physics right ?
+got bored at home
+Yeah...so?
+i have to study noe
+U don't study at home?
+i dont wanna be that guy who thinks tomorrow is EC and comes prepared for that.
+i do i do, lately just not feeling like being at home.
+U wanna be there..where ur heart is
+umm maybe
+havn't seen her.
+Yeah..I know
+😅
+Y
+she might have external today ? I donno. havn't talked for a long while.
+Ahhh..she has exam today..
+Pritam has. So..
+oh ya, same batch.
+Workshop
+even if she doesn't. she won't probably see me.
+*doesn't have exam
+aaah ok.
+She doesn't hate u..does she..to not see u
+no she doesn't. but she won't specifically be like to meet me.
+Hm.. sad🤦🏻‍♀
+yeah 😕
+Go study now
+This is sooo cuteeeee
+yep yep yep
+😄 ikr.
+I've studied for lab
+should study theory now.
+Ohh.. awesome
+I'll start studying at 12 or something
+okay cool 😄
+😇
+you know what happened ? 😂
+i met her.
+coincidentally she came to canteen and I was already there.
+nice timing though
+😄
+And then what happened?
+Anything interesting?
+umm no
+😅
+that was about it
+Ahhhh...
+Atleast u saw
+Happy?
+yeeeee 😄
+😂
+Calm
+😁😁😁😁😍
+😃
+Enough blushing now
+👻👻
+done for tomorrow's exam ?
+Kinda
+Just saw all the experiments
+Been sleeping the whole day..down with fever
+True😊
+😦 get well soon
+Yeah.. taking antibiotics since 4 days☹😭
+tc
+😝
+Hmm
+_take care_
+🙄😂
+😂
+Sure..and I have to🤦🏻‍♀
+Wt all do we need to write in ECE practicals?
+same stuff
+aim
+apparatus
+formulas, circuit diagram, expected graph.
+No analysis, discussion nd all that stuff na
+nope
+Ty😁
+U did that thing for Rishika?
+what thing ?
+Her status?
+😂😂🤦‍♂🤦‍♂ I'm excluded
+Sadly😂
+🤦‍♂ yeah
+sad.
+Done with ECE.?
+not started
+😂 makinf a music visualiser now.
+Wowww
+Uk everything na
+😒😒😒😒
+nothing like that
+Lol
+Im scared about ECE here...and ur doing some other work
+will study
+after doing this
+and then sleeping for 3 hours
+What's the mark distribution?
+then study
+Btw write up and conduction and viva?
+🤷‍♂
+🙄🤦🏻‍♀
+🤷‍♂🤷‍♂🤷‍♂
+You wrote mock right?
+yeah
+but I don't recall
+Then?
+He didn't tell?
+Approx?
+same as physics I guess
+14 is viva
+exp1+exp2
+that's all I recall
+Thik hai..✌🏻
+😁 k
+If it's a single experiment?
+then 14M in that only.
+What 2 experiments are they gonna combine?
+Any idea?
+zener and logic gate
+i had got that
+Characteristics or Voltage regulation?
+and one was CE config.
+voltage regulation one is not there I think
+Really???thank God
+Single experiment?
+i didn't see anyone do that
+yeah
+Multisim is there?
+yeah
+simulation for 741 Op-Amp
+For which experiments?
+CE, CB
+and logic gates I think
+Huhhhh...we have to learn all that?
+Gone only
+yeah
+Pritam told it isn't there
+i had got that in mock
+U did simulation for logic gates?
+🤷‍♂ maybe.
+nope
+Clipper clamper..single experiments?
+no
+clipper might be paired with transformer
+Rectifiers?
+yeah that
+And simulation for that also?
+could be
+what's the big deal in simulation anyways 😒
+Damn..im gonna do bad tmrw
+If there is no practice...then it is a big deal
+still you can do
+make the circuit and sumulate that's all
+I hope I get reallllllly easy ones
+😂 yeah
+everyone hopes the same
+Diode characteristics is with what?
+🤷‍♂
+😑 you will be damn lucky if you get pn characteristics though
+one of the easiest exp
+Ikr..but what will he with that?
+First 4 and logic gates is peaceful
+yeah
+hope for the best
+no idea.
+Yess🤞🏻
+I have to learn all others now
+Woahhhhh... awesome
+😁 will have to improve it by quite a lot.
+Do it after tmrw plssss
+Seeing u so relaxed about tmrw...im getting scared
+☹
+Serio
+I'm gonna sleep
+we'll pass
+Ufff🤦🏻‍♀
+chill
+There's no simulation for OP amp
+Confirm
+ohkay
+Transistor also ...it's not there
+what simulation is there then ?
+Clipper clamper rectifiers
+If they r combined with any other expt.. simulation won't be there
+aah ohk
+then I want clipper/clamper with simulation
+that shit is easy
+😂🙌🏻
+Op-amp is the best
+😂 whatever you want
+wish for it.
+😂 I had wished for LCR and I got that
+soo ...
+Yessss🤩
+I wished for same thing as mock...and I got teh same thing
+yeah 😂 it works, confirmed
+Yesss😍
+I hope the same charm works tmrw as well
+yep 😄😄😄
+let's hope so.
+Op-amp my friend in g section got.. simulation was there it seems
+oh ok
+Yessss
+😂
+Oh damn🤦🏻‍♀
+😂😂😂😂😂
+now you get it
+Yeah....
+Now Ik..
+IM spoilt ..bcoz of shoban
+😂 yeah that guy.
+he damn smart
+In these matters
+If u stress enough on something...I can know ..I can't see anything in one view...I mean .. understand those grosss stuff
+😂😂😂 ohkay
+Yeah😂😂
+You deleted this message
+Ohoooo
+🙄 why
+but why
+Who knows what's running in her mind
+Just like that she sent?
+yeah
+Or was there any conversations bfr?
+wasn't anything related nope
+we didn't talk much the day before
+Ahhhh...r u friendzoned?
+😂 yep
+Achooo
+🤦🏻‍♀
+Welcome to the world of being friendzoned (maybe) by our crushes😂
+😂 oh
+*maybe
+Not sure
+My case is opposite I guess...the below part
+First period is true...true love wala
+😂 both end up being _friends_ eventually.
+Hopefully not🤞🏻
+if we are just friends then why send me that
+🤔
+There was ntg with that photo?
+I mean ..a question or something
+How is it ?
+nope
+Wow
+it's a gif file
+the heart pops out and shrinks
+and pops out again
+Then that's not at all a friendly thing ..
+It's a girlfriendy thing
+a beating heart
+in short
+yeah ? 🤔 this is so confusing
+She's just avoiding relationship
+But she definitely likes u
+😊 I hope the liking part is true.
+😄
+Im almost sure it is
+When she talks to u..do u look into the eyes or something?
+yeah and then I forget what to say
+🤣
+Wow
+So romantic😂
+She also looks into ur eyes?
+yep
+and then we both smile
+and it gets awkward
+That's a good sign
+😂
+Really good
+😂
+Once while giving sociology presentation..I looked at him...and then gone..
+I stood like that for 10 seconds without saying anything
+ohooo
+what are the chances of our section changing ?
+I don't want it to changeeeee
+😭
+😂 you don't
+i do
+Whyyyy
+Just whyy
+we'll go to H section it would be so niceee
+even Pritam is there noe
+😄 your best friend
+did I tell you we met again yesterday, _accidentally_.
+she was going out for some work and me and Sejal were there in canteen. and she came
+😌
+I want 183 in my class....more than him...
+Obviously
+Cool
+Which song?😂
+The way i am - Charlie Puth
+Ahhh... yeah😂
+🙌🏻😒
+😁
+I do
+to burn your eyes ?
+it bright and white and not pretty at all. no colour, big ball of fire.
+😋
+damn you are right 😂😂😂
+it's pretty at all times
+Yup😏
+😂 and it's pretty even at night. when our sun goes out, you still have yours.
+Not with me though😂
+it's still there you know it.
+😂
+Sure enough
+😋
+17
+Put the same story as I did and Keep the game going on!😄💝
+1 - brother/sister😇
+2 - Everything💗
+3 - Lifeline💕
+4 - My laughing buddy 😍😂
+5 - crush😂
+6 - BFF💘
+7 -love ❤
+8 - My husband/ My Wife😻
+9 -Bestie💝
+10 - Business partner😜
+11 - enemy🙈😂
+12 - Bhai 😊
+13 - My pet 😍
+14 - x😂💔
+15 - best buddy's👬
+16 - My Love❤
+17 - wife😃
+18 - cousin😇
+19 - just friend👍
+20 - lovers 💏
+21- secret partner😅
+22 - Best frnd💕
+23 - bf/gf😍
+24 - crime partner ❌
+25 - bunking partner😂😘
+😂
+🤦‍♂ what no
+17 was my birthdate
+😂🤣
+so i chose
+😂
+Yeah.. as though this is gonna be real😂
+😂😂😂😂😂
+Mad fella
+😂
+19 theek hai na ?
+wtf is a secret partner ?
+Probably😂
+That's my birthday
+😂 yeah no i'm not putting this for status
+you studied everything and you're chilling now
+we have to study
+the rest of us
+poor people
+Ur wish..
+I was jobless ..Anusha sent I put
+Oh yeah . Look who's talking🙄😐
+okay include anusha in the _chilling people_ group
+😂😂😂😂
+🤦🏻‍♀😂
+U r the one who's chilling
+Fireworks and all
+you saw firework ?  😍 it looks sooooo coooool
+spent the whole time making that
+until evening
+Yah see...who's chilling
+It was cool
+😆 its not chilling, it's called _trying to divert your mind when there's a lot to study but you don't want to_
+Haan Haan..bas
+Ur investing time in other stuff too...that's cool
+Im wasting time watching all TV series
+//satyajitghana.github.io/ProcessingJS/PerlinPaint/
+look at this, look at this
+like ? 13 reasons why ?
+This is awesomeness to the next level😍😍😍🔥🔥🔥🔥🔥
+I finished season 1
+😁😁😁😁 ikr. worth investing time.
+Yeah ..it gives u satisfaction
+U showed it to her?
+oh cool, 😂 and i don't even know what that series is, just saw that it is quite popular.
+yeah, as soon as i had finished making it.
+It's emotionally draining dude...💔
+What was her reaction
+😊 she liked it.
+//satyajitghana.github.io/ProcessingJS/RainDrops/
+and this.
+She obviously know that ur into her...like too much
+🤦‍♂ yeah, she knows, its 6 months since we met.
+Yeah..
+Awesome
+😁😁
+😂 watch something else then
+I stopped watching after season 2 episode 2 today
+Won't watch anymore
+season 2 has released completely ?
+Yeah
+They release all the episodes together
+Netflix🤦🏻‍♀
+aaaah cool, thats better than one episode a week.
+Definitely
+or one episode each day waala thing
+Web series tho I have to wait one week for an episode
+That would be good
+yeah, 🤣🤣🤣 dil buffering, that was a web series or something
+Yeah...have u watched it?
+only in YouTube ads
+That's my favourite❤
+😂 yeah we know.
+That hero ...damn...he's my main celeb crush
+yeah that also we know
+😂 you put a status for that
+you and anusha
+Yeah..😂😂❤😍❤😍
+Fighting over him😂
+yep 😂😂😂😂
+Just look at him...😍😍😍😍😍
+Who can't love him😍
+yeah right
+theek hee lagta hai
+😂 merese koi tareef ki umeed na rakkho, mujhe tareef karna nhi aata waise
+He's too good😍😍😍😍😍😍😍
+Ur girl will have a tough time😂
+😂 yep, i know that, will learn stuff before that.
+Better😂
+Go see my status😍😂
+🤣🤣🤣🤣🤣🤣🤣 lol
+you are obsessed over him
+😂😂😂😂 i bet you have a separate gallery folder for him
+Not really😂😂😂
+But yeah... screenshot of his insta posts...is full on my gallery
+100 %
+aaah so he owns the gallery itself
+😂 even better
+Uk who owns my gallery
+I suppose
+😏 oh haan
+🙈😂
+😂 mera bhi koi gallery own karo
+More than that... screenshot of chats..
+😂😂😂
+I used to have
+saved it in Google Photos
+and deleted from gallery
+😐 can't see those again
+Ahaan...I've to do that
+🤣
+Serio
+I never get bored...
+🤦🏻‍♀
+😂😂😂
+ridiculous right 😂🤣😂🤣😂
+U can change the gender ..it applies to me too
+😂 yeah sure
+🤐
+Done preparing for math?
+umm no
+I slept whole day
+and yesterday whole evening and night
+Y don't u say that u woke up now
+yeah
+that's a better way to say
+😂
+I woke up now.
+🤦🏻‍♀
+🤦🏻‍♀
+Btw.. reduction to first order DE is there for the exam?
+nope
+reduction of order is not there.
+that's the only thing that's not there.
+And transformation..that y= vx thing?
+that's homo
+geneous
+so it's there.
+That's just one of the methods to solve na...he didn't do in class though
+anyways you know how to solve it noe ?
+Yeah
+😂 why you worrying then.
+Other ppl r eating my head
+😂 like ?
+U know who
+accha
+Apart from him..g section ppl🤦🏻‍♀
+oh
+g section
+ya
+cool cool
+let them eat
+😂
+🤦🏻‍♀🤦🏻‍♀🤦🏻‍♀
+I literally have the whole math notes on my phone
+Sending it to who ever asks
+and I'm doing this.
+Woah..ur so cool
+what does this look like ?
+a shrub ? tree ? weed ?
+A tree with twigs growing?
+Tree
+Bonsai
+hey how was physics ?
+That's a digital pic?
+Physics was fine
+yep, computer generated, using an algorithm.
+fine ? not great ?
+I might lose marks in numericals...so...
+I  atttended all the questions though
+👌🏻👌🏻👌🏻👌🏻
+aah that's ok, mistakes happen.
+Yeah...🤦🏻‍♀
+How cute are they😍😍😍😍
+Awhhhh
+I can't stop looking at them
+yeahhhh 😁😊
+look at those eyes
+and that beak
+I wish I could have them
+Cute little creatures
+That ice in its head
+On
+and the snow on their head
+yeah
+😂
+I didn't know that owl can make me go awwhhhh
+😂 all owls look cute.
+I don't think so
+yeah I looked at some now
+they are scary
+😂😂😂😂
+Owlets are cuteeeee
+yeah 😂
+😂😂😂😂
+Yeah
+😍 wowww
+Omgggg...I just can't...they are cuter than someone😍😍😍😍
+Woah
+😁😁😁
+Hey
+U know any important topics for the exam
+By studying which I can atleast pass
+i have no idea about that
+i'm studying everything
+Ohkay
+How much did u finish then
+just started
+😂
+😳😐
+😮 wowww
+Bio❤
+what's that though ?
+Amino acids
+UGCT waala ?
+nhi
+GUAC
+😮 yaad aaya 😂
+Yup
+Adenine guanine urocil cytosine
+Uracil
+guess who
+who's asking what it means
+U asked me😂
+Wt r u talking about
+i mean someone saw your status and then asking me what that means
+Shubham?
+In animals it's T instead of U..T is thymine
+no, that guy, why ? 😂😂😂😂
+He's the only person who's common btw us to see my status yet
+🤨
+Whom r u talking about
+I don't have ur girl's number in any case😂
+whaaaaaa , then how did she ? what's going on
+😂😂😂
+Whaatttt
+She asked u?
+How even?
+yeah
+yeah, 😂 how
+Some magic😂
+Shubham talks to her?
+she sent me a screenshot
+sometimes, yep
+It must be him then
+Wait ..show the screenshot
+Rishika has turned off blue ticks or what?
+it was rishika 🤦‍♂ who sent it to heer
+*her
+She might have sent
+Yeah..I knew bfr u
+😂😂😂
+😂😂
+Im smart lol
+😂😂 you are
+😆
+U explained it to her?
+just the abbreviations, yep
+Lol okk..
+If I had been there..I would have taken a lecture
+but why ? tomorrow's mech, 😂
+Idgaf about mech..just pass is fine😂
+not me no, i don't like bio
+though i like algorithmic botany
+those pattern thingies
+in flowers
+Hm...I'll find time in class next semester..and ull hear it from me
+Mendel's experiment for dominant and recessive gene
+noooooooooo 😂
+That ratio
+yeah, whatever that was
+Yesssssssssss
+no please no
+Mendel was a genius
+now don't start that mendel experiment
+and his botanical garden thing
+U should help me with coding
+Deal?
+you studied JAVA
+Or...... should I?
+I have learnt none of the languages
+but but I remember you saying you learnt java
+you didn't learn ?
+😂 no you shouldn't
+Nooo...I was never a cs student
+C++ in high school🤦🏻‍♀
+yeah so
+so you know
+Don't really remember
+in summer  ?
+Sure..
+theek hai. 😇
+i'll be learning C
+and Haskell
+and Java
+Ahaan
+From where?
+Online?
+books books ! books are way better. i am worried i will catch bad programming practices if i start learning onlie
+*online
+Woahh..I don't even know what's good 🤦🏻‍♀
+Ur dp😂😂😂
+aaaah you noticed 😂
+Looks like I did
+😂
+Not u...but u know whom I'll ask...and u know what
+😌 mujhko bhi kuch puch lo.
+Sochna padega
+socho socho
+what's the syllabus for EC ?
+just confirming
+Umm...
+Till slide 46
+Probably
+from beginning to 46 ?
+😭😭😭
+oh lord why
+Yeah
+Lol
+Chill..u will do it
+😭😭 havn't started anything
+Neither have I
+wasted whole day doing that visualizer and then movies
+Hahaha... good
+I finished 13 reasons why season 2 also
+Have to wait for one year for season 3
+🤦🏻‍♀😑
+yeah, I came to know 😂
+Yup😏
+Watched guardian of the galaxy with bro
+aah cool
+😂 I watch weird movies
+Yeah
+I have to start studying tmrw
+Like?
+Bad Genius is a Thai movie 😌
+The only thing I have watched in that list is diary of a Wimpy kid
+I finished all the movies from that last month during assignment 2
+😁 I watched all parts of that. and even read the books.
+I haven't read the books..I don't even have them
+😌 I could get long haul book so I printed it like a proper diary with spiral and hard front and back cardboard cover
+Woahh
+that was me in class 10th I think
+😅
+When I was a kid..I thought it was a silly book to read
+it is 🤣
+Movie was good
+It still is...yeah😂
+okay, see ya, I have to finish this movie and then sleep 😌.
+Sure...
+Cya
+not me, he started it.
+Wtvr🤦🏻‍♀
+but he did
+. . .
+U continued na😂
+😂 haan toh, shuru woh kare aur mai favour bhi na return karun.
+Uff... seeing all that.. we'll go mad
+😂😂😂😂
+Have*
+God
+U 2🤦🏻‍♀
+Ehhhh?
+Wt do u mean
+whenever I used to say - hum bacche hain yaar
+bacche paida karne layak ho haya hai tu aur bol rha hai  baccha hai
+Wth😂😂😂😂😂
+yup 😂😂😂😂
+IM bachi
+accha ? 😅 you sure
+Yup😂
+IM innocent
+haan haan
+maan liya
+😂😇
+kuch bhi matlab
+kye re😂
+ye waala joke accha tha, aur sunao
+aye...since when is truth funny😂
+😂 after joining this college everything seems like a joke
+not my  innocence😏😂
+ayeee non of them are cute
+except the first top onr
+that's also a little scary
+😂😂😂😂
+I just got them as wallpaper for my phone
+😂 are these blue people from Twilight ?
+or was it Avatar
+a lion and a lamb can never be friends
+Yeah..so they are gf-bf😂
+😂😂 well
+well well well
+😂😂😂😂
+Yeah
+or maybeeee the lion is not a lion
+its a 😸
+those little cute creature
+*creatures
+🐈🐈🐈
+these
+Big cats😂
+They are tigers
+nah they don't exist,
+big cat's yeah theyyyy do.
+they look pretty much "human"
+😂 what was the topic of discussion again
+She is a human only
+He is a vampire
+I don't remember😂
+😂 blood sucking creatures
+They are cute too
+This one looks like ur girl😂
+Eyes and the pose
+😂😂😂 but the fawn is more cute.
+Of course😂
+C++ works on netbeans ide na
+haan
+NetBeans works with Java, C++, C, JavaScript, CSS, HTML(not a programming language)
+looks fine to me
+Idk..IM not getting the output🤷🏻‍♀
+you sure you are using the right compiler ?
+C++ needs g++ and not gcc
+For C I thing I downloaded gcc
+Think*
+I guess you are using cygwin ?
+Yeah
+//netbeans.org/community/releases/80/cpp-setup-instructions.html
+maybe read this
+you just have to point the g++ location to cygwin g++
+i dont have NetBeans right now so can't exactly say how to do that.
+hey you have codeblocks too
+use that, simple
+Yeah..it didn't work on that either
+you downloaded code blocks with minGW right ?
+there are different version of codeblocks
+Bro did it...I'll ask him
+why does it say Untitled.c and not Untitled.cpp
+Oh yeah🤦🏻‍♀
+//sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download
+download this one
+it has minGW preconfigures
+*pre-configured
+or use VSCode like me
+What's that?
+😋😋
+a code editor
+yeah but you have to configure the g++ manually
+aah cool
+this was the problem ?
+Umm..I just want to learn basic C++ right now🤷🏻‍♀
+Yess🤦🏻‍♀🤦🏻‍♀
+weird
+it still should have worked
+😂like me and my life
+anyways g++ is strict
+so that might be the reason
+stop everything, throw errors ! abort ! abort !
+🤷🏻‍♀
+I don't even know wt u r talking about
+Maybe I'll learn in the days to come
+meh do whatever you want, i'll punish you later when you run me
+Like some life-threatening situation😂
+😂 yeah, you'll soon find out, why i said c++ and c are very strict.
+start using pointers, and function pointers
+If I don't..I'll ask u anyway
+yeah sure
+Yeah..I'll do it gradually
+I'll start with basic basics😌
+I'll want u teach me how to use the command prompt and all🙄
+*to
+command prompt ? or unix shell ?
+i don't think there's anything to learn in command prompt
+but the unix shell, there's a lot to learn
+Idk..using command prompt we can do some stuff na
+Yeah..I've seen I teach Shikhar I guess in class?
+hmm yeah, but i dont really use it much. expect for compiling and running programs
+Maybe u can teach me that?
+its just doing what your IDE does automatically for you.
+```g++ hello.cpp``` and to run it ```./hello.exe``` or whatever the output was.
+not that important though
+i would say unix shell is more important
+Okayy
+Umm...what's that again.?
+Im poor in these things uk
+the command prompt in linux is called the _shell_
+Whats Ubuntu?
+Type of Linux?
+*flavour of linux
+linux is like the inside of chocolate, and ubuntu, manjaro, fedora, centos, redhat, etc. are the wrappers
+Meaning?
+at the core of it, they all do the same thing, just a little differently
+Nice way to explain something
+Which one do u have?
+😁
+antergos
+i mean right now, i am on windows
+the other laptop, antergos
+Okayyy
+We need to learn to use those OS on our own right?
+yeah
+you can do c++ programming in linux too
+I've seen u do C
+yep, and c++ isn't much different
+i'll be doing C after i finish this JavaScript thing and this Android thing
+That's really great
+I have to first learn basics of coding...and then all this complicated stuff
+DP😂
+😂 yeah I liked it.
+so
+Fine fine😂
+and now this 😂
+lion and lamb can't be friends, a dog and bull can't be brother's.
+😂 no idea what's happening.
+Ferdinand😍
+Sure they can😂
+That will never happen I believe😂
+😂😂😂😂
+For sure😂
+😂😂😂 I know , even after 10 years when I see 3.1415926535897932384626433832795028841971 *69* 399. 😂😂😂😂 I'll still smile.
+😂 woooooo how about I make a programs that counts the number of times 69 occurs in Pi
+btw how's C++ going ?
+Omfg😱
+Yeah yeah..ofc do that😂
+Im doing an online thing
+😂😂😂😂
+//youtu.be/LFU381e_nys
+😱😱😱😱😱😱😱😱
+😅
+trying to make some matlab tutorial videos
+That's really cool
+Happy birthday Mr Coder❤️🎉🎉
+ooo coder, 😊😊😊 Thank You
+Yess
+Welcome🤗
+What's this
+_basins of attractions_
+Meaning?
+like in Newton Raphson when applied on a complex function, it will never be able to find the root, and rather oscillate, based on the initial guess, and if you plot those oscillations, or so called "chaotic" behaviour this graphs pops up.
+😝 I'm making videos of linear systems and Newton Raphson today
+Wow
+Looks like someone's not gonna take a break these holidays
+and then tomorrow it will be second semester MATLAB
+Niceee
+yeah no 😂😂, I'm counting my days, with daily targets.
+yesterday was a break
+😝 cuz birthday
+Thank God🤦🏻‍♀
+Give ur brain some rest man
+Ur nerve cells will get frayed
+hmmmmmmmmmmm
+but but I sleep
+normally
+Idk all that..stop giving so much work to ur brain
+Eh
+What
+Why
+Where
+it just popped out from nowhere
+😂😂😂
+😱😱😱 The internet  knows me
+Surely😂😂
+Apt for u
+Eh?
+q!``` most people get stuck after they open vim.
+nice dp 😊
+The only vim I know Is the vim bar to wash vessels😂
+Ayeee thanks😇🤗
+vim is ancient, but a really nice editor, 😄
+😂😂
+he's a spy
+Okay peace
+He's hiding his food from the dog😂
+the way he's looking
+It was sleeping when I took the pic😂.
+It woke up
+😂 and I was sleeping to, I just woke up
+Woahh
+I woke up at 6
+I woke up and then slept again
+now I woke up
+because I'm feeling hungry
+😂😂😂😂
+Im in granny's home .
+Sun rises early here..I woke up
+you get to see the sun ? the red waala ?
+Yeah
+Behind the mountains also
+never been there 😅
+Ferris wheel ?
+Yeah yeah..wtvr
+🤔🤔🤔 that's quite possible, but where will you get a colour changing fabric ?
+😂 or we can attach a RGB strip and change the colour according to a light sensor.
+Oh god
+U are thinking of a possibility to make it true?
+it's is possible to change color based on something.
+but not the pattern thing
+well maybe u can think about it🤷🏻‍♀
+Wt r u trying to do?
+a chat application in android, that would work with our registration numbers
+Oho
+How does it work?
+ok so for now, i'm working on the login and registration, i'll make the chat later, you just enter your registration number, name, email and pass and then register, then you can login and chat with other people of our university.
+are you asking the technical details ?
+Looks like something cool is happening
+I'll ask when I have some knowledge about it
+😁
+//drive.google.com/file/d/1cugEhjLh_6EF0sANB68xNbj__ax92omY/view?usp=sharing
+🤦‍♂ it's hard to deal with so many stuff going on at the same time
+How the hell u do such stuff😱
+U really are very intelligent
+🤔 the way a normal person does. nothing fancy.
+😂 but definitely not a single monitor thing. i have to use a external monitor
+Duhhh
+I don't even know what you are talking t
+p
+Oh🤦🏻‍♀
+😂
+My phone is charging
+It's at 63 now😂
+woah
+😂 me too at 63 now
+🙌🙌
+😂 cool
+😂😂😂😂
+Oh yeah?😑
+😂😂 just kidding
+kya reg, tum log toh seriously le liye
+you'll have a bright future, don't worry.
+😂 mera kya hai, mera toh chalta rehta hai.
+🤨
+Aage chalta hai tum logo ka
+but still that's true
+this
+😂 the being stupid on a daily basis
+😌
+Give me an example wr ur being a stupid?
+aaah wait wait
+Yeah?
+😌 20 days and still didn't finish this project
+if you could read this code, you would have been shouting at me for being that dumb
+😌😌😌
+U give instructions like that to urself?😂😂😂
+Clearly I can't..and im the dumber one here
+yup 😂 there's more
+Wowww😂😂😂
+Nice😂😂
+Actually it's a good way
+Reminder kinda thing
+What the hell😱😂
+😂 not sure if I'll ever fix those. but in case someone else sees my project he/she will know that something has to be fixed
+😂 still not fixed, because if it works, don't touch it if you don't know why it works
+Im sure u will complete it in any case
+Huh?
+i am not sure why it works
+deprecated APIs usually fail.
+i havn't looked up its newer API yet, because it still works
+Idk what API is
+oh, it's like a middle man, you can ask him to do a task he'll do it for you, you don't need to know how he'll do it, but he'll do it for you and give you the results.
+Oh that's nice
+Now ik
+😂 just don't write that in exams saying it was told by me.
+😂😂
+Btw..wt will we learn in the next year
+Data Structures, Logic Design, Discrete Maths, OOP, Advanced Programming Concepts, Distributed Systems
+Haskell, Java & C would be used
+Ohh.. should we learn it before hand?
+it would be helpful if you did.
+learn Java 👍, Haskell is different, Java is Object Oriented, haskell is Functional Programming, everything is done using only functions, so you might find that weird at first
+Ok..I'll see to that
+Thanks🤗
+😊 You're Welcome
+😇
+😂 now i feel little less stupid
+Bcoz im more stupid😂
+because I was of some use
+🤣
+Nice...
+Shyamant jobless😂
+Can u chat now on this?
+not yet, today I'll try to finish the chat DM part.
+Good good
+See..ur no more stupid
+Who's me and who's Satyajit😂
+😂 all of them are me
+I changed my name latet
+Achaaa
+Can shyamant respond now?
+yeah sure.
+but then current problem is the new message is not updated on the screen, you have to go back and open the chat
+)
+🤦‍♂ I need to learn socket programming now.
+😭 so muchhh workkke
+🤷🏻‍♀🤦🏻‍♀
+Ur doing it to learn...so work😂
+Better than me.sitting idle not doing anything
+it's like two people talking to each other directly, what I'm doing right now is like using one sided communication, either the server talks or the client. so if I send something to the server then I need to ask the sever everytime , hey did you get my new message, but the sever can't say the user, hey you've got a new message when there's a new message.
+idle ? 😒 you can't live being idle, too boring.
+😂 and you, being idle
+😂😂 that can't happen
+Shyamant reads ur msg now?..but he can't see it directly?
+Is that what u telling?
+Ik..that's y im bored
+Looks likes it's happening😂
+he can see the messages, but he'll have to ask the server every time, if there's a new message for him.
+hey is there a new message ? hey is there a new message ?
+very annoying
+Ohh..so that's what y were typing there..
+Got it
+Congrats topper
+😂 i'm second
+again
+Harshit of H section got 645
+ya
+U Seriously did this?
+Damn
+😂 yeah, because i was feeling bad that i was second . . . . twice . . . . now i feel better.
+Ur the overall topper
+Mine is 1116🤦🏻‍♀
+So damn less
+not exactly.
+🤷🏻‍♀
+it's not that less
+😂 people failed in sociology
+😂 what
+Serio?🤦🏻‍♀😂
+Sejal 🤣
+Yeah..I improved a bit from 1st semester though
+Oh god🤦🏻‍♀
+U were in the same group na
+yeah, so we don't know what happened there 😂
+😁 keep improving, and be consistent, that's they key
+Yup
+🤗😇
+Re-evaluation?
+😂 how bad could someone's luck be, that they failed only her, and not us
+that exists ?
+Ikr😂😂
+That can't even happen
+Yeah
+😱 1500 per subject
+that's another form of torture
+It's 5000 in other clgs
+woahhhhh
+that's far too much
+imagine how many burgers you could buy with that
+😋
+Exactly🤦🏻‍♀
+Their intention is that no one should apply for reval
+Enough to last a day or two😂
+lazy people . . .
+😂 well, yeah, and pizzas, damn, 5000 is a lot
+Lazy clg.."University"
+😂😂😂😂
+Huh
+😂 oh right the sun is shining and so are you
+it suits you
+totally
+It's actually gloomy here
+So am I
+😂
+Ooooo
+Ok
+The song on its left is my fav😍❤
+ya you are a maroon 5 fan I know
+Yup
+Louis 😂
+He's one direction
+you like him too right ?
+I love Louis❤❤❤❤
+😂 yeah right
+Not like..love lol
+He's mine forever
+😂👍 cool
+I'm his and he's mine
+in the end it's him and i
+Yes yes yes
+He's the best!!!
+uhhh
+😂 I don't
+U should like him
+Hes so adorable
+The cat's mouth look creepy
+😂😂😂
+😍😍😍
+*love
+😂
+Who's she?
+Awwhhh
+an actress, long long back when I used to watch TV serials is when I had started liking her. now I don't watch any TV series. consumes too much time
+Yeah...u won't get time to do awesome stuff if u watch TV
+let this be a secret, I haven't told this to anyone.
+😝
+Does it matter?😂
+It's just a celebrity
+😂 ohkay
+😂😂😂😂
+Yeah
+Wt u upto these days?
+right now, im solving this book of C, authored by the creator of C himself, Dennis M Ritchie
+Wowww
+Cool!
+it's a nice book to learn programming for even beginners.
+Ohhh
+U have the book?
+Or online?
+nah nah, I bought the book.
+it's nice to give credits to the person who wrote the book.
+Good!
+i mean how would I feel if I wrote the book and people just download it.
+*a book
+I hate online stuff
+I like holding a book and reading
+yeah same 😊
+Yeah
+U don't do any other stuff other than programming huh
+and watch movies
+yeah probably that's it.
+😋
+and estt
+eat
+and sleep
+and sometimes go out
+No Interest other stuff huh
+to see if it's day or night
+😂
+like ? whatelse is there ?
+that I would like ?
+U should say
+Oh God🤦🏻‍♀
+hmm, I would like to go travelling, once in a while, but right now I am very very poor.
+_once in a while_
+oh yeah I'll definitely work on getting out of my comfort zone after engineering.
+During the course also u should take ur mind off sometimes
+oh about that, did I tell you before ? I'm not in Bangalore
+I'm at my grandparents house.
+in Odisha
+Ohhhhh
+That's good then
+But u still took ur books with u
+yep 😋
+only this C book
+and another Java
+that's it though
+😛
+That's it?
+Im sure u will finish it by the time u go back home
+And u will buy more books
+that's the plan for now
+Seeeee
+Don't be so studious
+🧐 this is studying ?
+😂 I was doing what I love to do.
+doesn't feel like I'm studying
+Yeah...great
+It's so effortless for u
+Totally u
+Oye..do u know to hack Insta accounts?
+umm not exactly
+lookup social engineering
+i can do that
+What's that?
+Hack?
+🙄
+umm no
+social engineering is different
+but you do get control of that account.
+Do u know to do that?
+yeah, though it takes time and patience and I'm not in that mood.
+Achaaaa...and I won't ask also..chuck
+Go do ur C book ka work
+😁 ohkay
+though search about Social Engineering
+it's a very easy thing to learn
+just need time and patience
+and Kali Linux if you want to get into penetration testing.
+Wow
+Idk all that
+I just wanted to snoop into someone's account
+Yeah..I'll see
+phone or pc ?
+Insta account da
+if android, then look for Android RAT, then you can literally see their phone screen and also control it.
+Wt do we need to do that?
+Google it, you'll know. you need a software that makes an Android app when installed on victims phone gives you total control
+Yeah..saw that
+But I can't do that now..
+Installing an app in their phonw
+school friend, 😂 because I used to do this shit in school.
+Heheheheheeeee
+See
+Popular kid
+see I can tell you what you can do, but I'm not doing it.
+😂 yeah even so much that the principal had a talk with me.
+😑 for something that I didn't even do.
+but I found out who did it so it was fine later.
+Woah woah woah
+That's better 😂
+Yaaassssssssss
+Urs?
+nah
+though she is our pet.
+grandparents take care of them.
+😅 I've come here after 3 years I guess
+they were kittens back then
+now they've grown up
+Ohhh that's nice
+Enjoy with ur favourite things 😂
+😂😂😄😄
+Cute one😂
+😁😁 she's so cute.
+choooo cutee
+😂
+And u don't kill it
+Ik😂
+Yeah yeah😂
+How did u get this?
+//kea.kar.nic.in/cet2017/daily_verify_20jun.pdf
+Ooooo yeah..cool
+there was this curoff analyzer thing, not sure where i found it, then i got this list
+and this is the list of CET numbers and the corresponding name list
+Yeah.. our computer was filled with this shit
+Great
+same
+😂 and a list of colleges
+and its cutoff
+i didn't even expect to get this college, because its cut off was like exactly 6k, and that was also the reason i thought it was a good college, later now i see that the cut off went upto 10K
+U can basically find out anyone from our clg
+who came from CET, yep
+Yeah..that was a shock to me too..I wish I had got nitte or something
+This clg was bfr nitte
+I didn't have expectations on this clg coz I wouldn't have qualified looking at the cut off
+wow, same, actually in the last minute i changed the order of NITTE to below RUAS, since some people said that NITTE is not so nice
+But atleast the cultural activities is better
+and also because the working professionals i met say that during interviews they dont really like people coming from a VTU background.
+i'm fine without them 😂
+Like.. we'll get placed from our clg now😒
+the students here arn't that active in organizing events properly i think. not many attended our technical bootcamps.
+😂 that depends on us now.
+It's not fun
+C'mon..If there were more fun activities..ppl will participate in these events too
+but who here is to blame ? the college usually doesn't do the work, the students organize by themselves
+It's an overload of only technical stuff
+That's the whole point😂🤷🏻‍♀
+🧐 we have got some pretty lazy students then
+Yeah...we should be doing more fun stuff in the future
+See Anusha S P 's rank😂
+TH148
+AA555, she's 8199
+that's a different Anusha
+How couldn't I find🤦🏻‍♀
+because her name is S P Anusha
+Oh damn
+Yeah🤦🏻‍♀
+Peace
+Wow
+U gotta chill rn😂🤦🏻‍♀
+🤣🤣🤣
+😂 kitty is so busy with his friend
+Awwh leave those 2 alone😂
+🤣 I love playing with them.
+oh and the cow loves getting neck rubs
+*calf
+still a kid
+Yeah I could see that
+We have a farm too
+Who doesn't?
+I mean everyone except who don't get allergies
+Hey..wanted help
+Is learning python important now?
+yeah ?
+no
+I mean not for college
+Me and my friends wanted to join a course...it's 13k
+2 months
+yeah sure
+python is nice
+Is that fine?
+yeah
+Okayyy
+Where is python useful?
+ML/AI, Data Sciences, Web Apps, Linux programs
+pretty much everywhere
+even android apps
+Ok cool!
+So.. learning python bfr java is fine?
+yeah totally fine
+How did learn python.?
+At home?
+yeah
+like i am using TensorFlow which is a ML API, so the more I use that, the more I learn python also.
+basically I've been learning languages because I had to
+like just making small little programs makes you understand the syntax and all
+that's all you need to catch up a new language
+Yeah..
+Should do that
+and moreover Python is just using C in its inside
+I'll join the classes then
+pure C
+and C++
+Ohh then probably I'll understand something atleast
+Which is the software for that?
+yeah but Python won't give you control over any of its memory.
+C++ was developed from C na
+for ?
+yeah
+Python
+there's an official Python website, you can download there.
+Google python
+you'll know what to do
+Achaaaa
+Thik hai
+Thanks yaar
+yeah np
+🤗
+sure
+yayyyyyy I love seeing happy faces 😊😊😊
+Ayee🙈🙈🤗🤗
+Self-appreciation be like👏🏻
+😂
+more like self motivation
+😛
+Motivation it seems😂🤦🏻‍♀
+It's plain appreciation😂
+oh ooops 😂
+Ya😂
+what happened to your eyes ? 🤔🤔🤔
+😂 don't look at the sun directly for so long
+Ayeee😂😂
+It's Louis Tomlinson's smiley🙈❤
+oh ohk
+😅
+Yeah🤪🤪
+I use light theme
+M not a zombie👻
+😂 howwww
+Like that only😂
+Yeah right
+😌 hmm yeah
+Ik
+Same experience here
+Hey
+Will they teach c++ next semester in clg?
+hmm maybe
+Not sure?
+yeah not sure
+from the slides that I saw, there wasn't any C++
+U have slides of next sem also?
+3rd and 4th sems
+you want ? 😂
+Yesssssssssss I do want
+oh wow 😂 sure
+Send then😁
+//drive.google.com/open?id=1IaW9pO4G4RilQvUO206WvnJPjgvI1XYR
+//drive.google.com/open?id=1DzsQfEAJxqgD8NbpwZ9-FDradAxS5if6
+We have java in the next sem ?
+yeah
+its there somewhere
+Yeah..saw
+oh ok
+and haskell too
+Ohh..
+we have discrete math next sem?
+yeppp
+wowww okay
+It will never happen to me 😂
+😂 me neither, but if that happens, that's would be my exact reaction
+Mine too😂🙌🏻
+yeah, a one that has a cat on it 😂
+no a kitty
+kitty kitty kitty
+Oh God🤦🏻‍♀
+😛
+Soft Kitty warm kitty little ball of fur
+kitttttttttttyyyyyy
+yeahhh
+Happy kitty sleepy kitty purr purr purr
+What's a mutex lock?
+it's very hard to make examples of mutex locks,
+like it's:
+person 1 : if you explain the meaning of mutex lock I'll be happy.
+person 2 : if you'll be happy I'll explain you the meaning of mutex lock.
+that's a Mutex Lock
+😅 it's stuff related to programming
+Ohooo
+Nice concept
+Even if I ask u where it's used..I won't understand
+🤦🏻‍♀
+ohhh it's used in Threads
+oh ya
+you need to know threading
+😅
+you started learning Python ?
+Heard about it😂
+Eyebrow threading😂😂
+😂😂🤣🤣
+My bro told me to learn OOPS first.  So c++
+ohh cool
+Python also has OOPs though 😛
+But C++ is basic na
+yeah true . . .
+Yeah..I'll make my basixs strong first and then higher level
+so you're learning C++ 17 ?
+17?
+yeah
+there are different standards for C++
+C++ 98, C++ 11, C++ 17
+No clue🤷🏻‍♀
+so are they teaching STL's ? Namespaces and stuff ?
+Namespace yeah
+Expand STL
+ohkay so it's C++11 and later
+ohkay that's great then
+Standard Template Library
+Yeah probably that only
+Sheldon😂
+Oh yeah u are Sheldon 99
+9%
+99.9
+😅😅😅
+Sheldon seems like a nice character then
+I've never watched the series
+Ohhh
+U should
+What's that on the left?
+I donno some post-it by someone
+not my desk
+I thought it's urs
+stoned santa apparently
+Is that ur laptop?
+Where are you???
+yeah
+😅 I'm doing an internship
+IIM Bangalore
+Woah nice
+Internship in what
+Android Developer
+Ooh nice
+Deep
+😅 yeah
+😇
+Btw what's the situation btw u and her?
+same as before, maybe even further away now.
+way further away.
+Whyyy?
+Don't u guys talk more now?
+not much nope
+maybe once in a week or something
+We both are in the same boat🙌🏻😒
+😕
+Urs is better then
+yeah and I feel bad that she's the one who starts the conversation cuz I can't.
+Woah..that's good then
+I actually gave up hope and not even talking since holidays started
+😥
+probably things will get better for you once college starts
+just 11 more days <winky emoji>
+About that..I don't want to talk to him unless he comes and talks to me first
+😅 but but either one of you should start taking right, if not him then you.
+Btw I actually saw him 2 weeks back in clg when I went to pay fees with friends..I managed to royally ignore him even though we met face to face
+oh damn
+Donno🤷🏻‍♀
+these holidays increased our distances even further.
+even with my friends
+Very much
+Only ppl from our class with whom I spoke to in these holidays are u,Anusha, Rohit, shoban
+That's all
+btw how'd you pay ? cheque/cash/<something else> ? I haven't payed yet, and because of office I couldn't go. I'll tell mom.
+I haven't paid too
+I just went with Anusha and shoban that day
+U can pay either online or by giving a DD
+yeah similar story here, I've only talked with Sejal and Rishika and probably that's about it. now I just talk with my office colleagues mostly all the time
+ohkay cool.
+Office
+Damn..u sound like a responsible adult
+it's actually a lot of fun
+not much work there
+and I get to work with all sorts of technology.
+Yeah that's what u love
+So it's obviously fun
+that and also the joy when what you made actually works.
+😂 and then finishing bugs in it.
+Yeah...sounds like good work
+Btw u get paid na?
+What's the stipend?
+3K/month
+wasn't after the stipend
+the name IIM was enough for me to join.
+Of course yeah
+Anyway when is it gonna end?
+I'll go to college normally when college starts, and probably Saturday and Sunday go there for discussions. until Sep 30th, so a total of 2 months internship.
+Ooh niceeee
+😂😂 yayyy mine is more
+Woahhhhhhhh
+Btw I was playing on YouTube😂
+So I wasn't using Gaana much
+😂😂 we've come so far with technology, still YouTube doesn't give the feature to play only audio in background.
+Ikr
+We can use split screen though
+But it's not that comfortable
+yeah true.
+fluffy cats everywhere
+Sure
+I'll have puppies also
+Along with cats
+😂😂 yayyy
+😂🙌🏻🙌🏻🙌🏻😂
+Ur lucky number🤣🤣
+Awwhh😍😭❤
+I want a cat now
+😊😊
+billi
+Wohi
+Mujhe billi chahiye
+kitties are the best.
+Puppies too
+so a puppy and a kitty it is.
+😂 me in 5 years from now.
+Me too
+Completely done hug
+*huh
+yeah
+made everything from scratch again
+so now anyone can install the app and start messaging it works
+What's the name of the app?
+havn't uploaded to play store
+just need to fix some small bugs
+then I'll upload
+here pre-alpha
+my name on the app is Satyajit Ghana
+How do I login?
+I didn't register..wait I'll do
+you can type whatever you want in email
+I mean I am not doing email verification yet
+Oh okay
+The messages repeat
+yeah it happened when I was talking with shubham also
+initially
+then it fixed itself
+Yeah
+Great job dude👏🏻👏🏻
+😂 the problem is I don't know why it fixed itself
+Maybe it was just a glitch
+it happens initally when talking with someone. only the first few messages.
+Yeah...saw that
+So..who's Satyajit Ghana 2,3 and all
+😅 there was noone in the beginning, so to test it I was talking with my own accounts
+Yeah😂
+U used sanobar's UMS number😂😂
+yeah, will change the name 😂😌
+Yes yes😂
+Ahh it became clear now
+Chuck
+🤣🤣🤣
+"arabiansea"
+😂😂😂
+nice one
+Seriously???
+That's good?
+😂 i find it funny
+Damn🤦🏻‍♀
+Too true
+Hey
+Do u have DSA lab manual?
+yeah maybe
+I'll have to see when I reach home
+Okay
+But why aren't u still home?
+just reached home, will see it later though.
+stayed back helping her install NetBeans.
+Ohoo😉
+Yes yes
+do we have to submit printout or submit soft copy for DS&A lab ?
+for LD lab toh it's soft copy only.
+We need to give a printout..when we asked her,she told that we should do exactly what we did  last year
+oh okay
+☹
+Why?😂
+soft copy is easier.
+take printout is another headache.
+no printer at home.
+Actually yeah
+But we don't know about what to do to that Logic design lab..let's see
+Neither do i🤷🏻‍♀
+Thanks!
+This isn't the one that ma'am showed us in the lab actually
+hmm then we'll have to ask for the new one tomorrow
+this is the one she copied onto the desktop
+Oh okayy
+See the question..it's different
+it's kind of correct, it says random number generator
+possibly the one she showed was someone's lab report ?
+Yeah..but thats only one question..that too it's not the one we did in lab
+any update on what we should do for DSA lab ?
+i forgot to ask ma'am
+😂 anyways she was scolding us, so i forgot
+Oh I donno
+The cr should be knowing..but yeah ..it happens that he doesn't too
+So I'll do it in the same lab document that we already have
+What works?
+some questions like that works
+I'm working on making it learn from WhatsApp conversations
+that's kinda difficult, cuz sometimes I chat in hindi, sometimes in English
+Wow
+U don't need to be in this clg
+Serio ..u deserve more
+😅 don't want to leave it anymore
+already am so used to this
+😅 but cet says this is what i deserved.
+Oooh nice nice
+No way
+Can u think of any limits for random generation program?
+*limitations
+yeah many actually
+it's not really random, it's pseudo random
+Yeah?
+Please tell
+if I were to use the program in two different systems at the same time, I would get the same numbers.
+so it's not really random
+Yeah..I saw that
+In my laptop
+And more pls!!
+read on linear congruent generators
+as far as I saw the source code for rand() it uses that algorithm
+any limitations for that generator is a limitation of rand()
+simple
+_wikipedia_
+I actually saw a paper on that,when I searched for limitations
+Thanks😇
+Hey,are those programs that shyamant sent in the group?
+you just had to practice then
+there's a readme inside
+Okayy
+😂 what did shubham say
+He said he'll see and tell by 9
+Why?
+just wondering why he told you to wait till 9
+🤦🏻‍♀😂
+Idk
+Hey
+What program are we supposed to do for second lab?
+DSA
+Give me all assignments
+😂 ask Shyamant
+No
+U give😂
+😂 and who told you I was going to let you steal ?
+😏
+U😂😂😂
+Urself
+I said you to steal, not that I'll let you.
+Yeah right😂
+you started doing assignments ?
+Not yet,I have to
+hmm yeah, there are 6 ☹
+I'm not at home since last week...like I have 0 time🤦🏻‍♀
+Yeahh
+huh what ?
+where are you then ?
+No
+Like... family commitments...so many functions
+I come home at 10 everyday
+Today also I need to go out
+oh like that
+😂 I thought you shifted to some hostel.
+Nahiiiiii
+My home is an hour away
+I wouldn't😂
+Is it gonna have babies?
+yeahhhhhh
+Awwwwhhh so nice!!
+Oh my god😳
+😅😅😅
+What else have I finished
+U*
+that's it.
+Great🤦🏻‍♀
+U have math assignment?
+nope
+COA?
+sooo you finished others ?
+I haven't started dude🤦🏻‍♀
+COA
+Thanks
+Do u have any textbook for COA
+Thanks🤗
+Hey
+Any textbook for DSA?
+CLRS
+U have soft copy?
+I think you'll find it if you google it
+i have hard copy
+Oh okayy
+a.k.a the Bible for CSE ugrads
+Woahh
+Hum Hindu hai
+😂 phir bhi padh lena
+usme kya hai
+Thik hai😂😂
+Which edition?
+third
+Okiee
+tomorrow no need to submit LD lab manual right ?
+Nah
+We don't even have the manual
+and B section ? did they get the manual ?
+I'm done with the manual part though
+Nope
+yeppp
+🤗
+look at the number of pages 😪
+IK
+Must be a very fat book na
+yeah
+and it's called "introduction" to algorithms
+And it's 1000+ pages
+Irony
+yeah
+Wyd now?
+sleeping
+Very good😂
+I've been sleeping a lot lately
+😂
+Argh me too
+I sleep almost 8 hours now
+everything feels boring
+Ikr
+yeah same
+life is boring
+😪
+Very very boring
+all because of the stupid college
+I watch TV series also
+So... boredom reduced by some 1/4th
+and it's stupid timings
+and stupid attendance
+30 by the time I go home..and I'm too tired to do anything
+sleep right after I reach home, next day don't sleep
+What???
+Don't sleep the next day??
+but yeah feels very tiring
+yep, pretty much works, then on Sunday, sleep like 12 hours
+it gets balanced
+Oh my God
+Ur not a human
+How can u function without sleeping for a day
+😂 you can if you practice enough
+human body can adapt to changes
+Yeah... but it's a long process
+I can't function of I don't sleep for min 5 hours
+If*
+TT's are also nearing now 🙁
+Yeah🤦🏻‍♀🤦🏻‍♀
+What can they ask in APC?
+sometimes I feel like I should just quit engg. do something else
+I'm reading slides
+That's everyday for me
+nowadays even mom is like do Mtech and become a teacher don't join a company
+Yeahh
+I'll do that too then
+U would become a good teacher
+Don't go for a job unless u become an entrepreneur...u have an amazing intellect
+😊😊 I'd be glad to be one
+Teacher?
+yup
+Me too
+But not  for adults
+A school would be good for me..I love to teach kids new things
+job satisfaction is nice for teachers
+In my school in primary ...I was a tutor  to my fellow schoolmates..like my class teacher made me teach those failures
+Yeah ..we can do what we love
+They all passed😛
+and also not much work pressure
+Yeah🤷🏻‍♀
+My mom's sister is an headmistress
+😄😄 they much be really happy. who were once a failures, passed !
+Yeah
+Very much
+My class teacher gave me gifts also
+😅 my mom herself is a teacher.
+she has done PhD but still prefers to teach 10th std kids
+Wow that's great!
+My dad was the principal in ITI
+He left that for a government job
+😂 ofcourse government job is always better.
+Yeah😂
+Yeahh
+Who's that ur talking to?
+Shubham?
+😂 who else could it be. yeah.
+Why me?😂
+It's 19th btw
+😂 we discussing about how everyone is older than us.
+And I'm not committed
+😒😒 but but but you said yeah
+I said yeah for my DOB
+oh
+ohhhh
+I'm not committed
+That's all
+😅 okay
+Tell stupid Shubham also
+yeah yeah stupid shubham
+What
+Very stupid
+code reusability through inheritance is a bad practice, i didn't know that, and messed up.
+Ugh
+Oye
+What did u tell Shubham
+nothing
+he just called me
+now
+Ahaan?
+yeah
+He was talking about some dating stuff
+What?
+nope
+He did
+he didn't say anything to me.
+About that screenshot u sent to me that time
+oh yeah
+yeah yeah yeah
+What happened herr
+😂 not dating stuff.
+He told me something
+Send that screenshot properly now
+Why did committed come there btw?
+🤷‍♂🤷‍♂🤷‍♂ he just said it.
+He told
+"Satyajit asked me to date!!"
+And he deleted the msg
+And told me to ask u about it
+i never delete messages
+Shubham deleted this msg
+This one
+ohhhh
+Yeah
+no he was like everyone in our class is older than us, so i asked him your dob to tell him that not everyone is older than you
+it all started because neha is a year old than him
+and even shyamant is a year older than him
+Wow🤦🏻‍♀
+I still didn't understand why committed came
+Was it Neha is committed?
+What did u reply at the end?😂
+i told him to look for juniors
+Very nice🤦🏻‍♀😂
+Instead of doing this..do one more whole new program and give me
+😂😂 you do
+it's simple actually
+Yeah ik🤦🏻‍♀
+But I won't do in Java
+then ?
+C++ ?
+Qt ?
+C++
+GUI or CUI
+CUI
+Tell me where to find the answer to that logic design question
+you Google it
+Didn't find it
+Tell me the expression that u got  initially before simplification
+?
+umm you tried ?
+Yeahh
+I wrote only the expression yday..idk
+okay
+if you write the truth table it should verify
+that's one way to check if you got the correct answer
+It's a tautology?
+uhh no
+Oh yeah..it can't be also
+I haven't tried yet
+Tell me where it is na
+I'll see and solve this question🤦🏻‍♀
+😆 ask shubham
+its pretty simple actually
+Stop Playing this game of telling me to ask each other🤦🏻‍♀
+Then show🤦🏻‍♀
+😏 aise kaise
+The original question
+Not urs🤦🏻‍♀
+you google the right terms you'll find the right answers
+It's there in mathexchange something
+Solution isn't there
+I already checked🤦🏻‍♀
+you are talking about B1 right ?
+B1 is ther
+Yeah
+B2 not sure
+B1 only
+Didn't find
+arre hai yaar, theek se dhundo mil jayega
+😌
+I put it in that plagiarism check wala thing also
+It showed only question
+Solution isn't there
+🤷‍♂ i got it still, didn't use any plagiarim check ,just a simple 4-5 word google search
+I'm not getting🤷🏻‍♀
+I found .. but it's showing..the question is on hold
+okay okay, but but it's there somewhere out there.
+I'm searching since half an hour
+😭 i have to do DSA
+U have finished APC😑
+Send the link noe
+Plssss
+I'll finish atleast one question in one subject
+🙏🏻
+🤦‍♂
+🙏🏻😒
+yeah yeah
+Pakka na?
+//www.learnabout-electronics.org/Digital/dig23.php
+Oh damn thanks!!
+not exactly
+read that link
+I got that part .. manager cashier wala
+I got different
+are you considering that CH can enter ?
+and can CHT enter ?
+yaa i did
+HC is possible then HCT is also possible
+It’s like if H and C combine they become S
+if you think in that sense then _they_ can enter
+T can enter only if S is there, so no, and also H can enter if S is there, so only C can enter if all three come at once
+So HCT=(HC)T=ST = 1
+😂could we do that ? logically seems right, but it breaks the constraints
+two of the constraints
+Ik😂😂😂
+Unless this is possible
+logically possinle
+CH = 1 = S
+but contradicts the conditions
+this is the discussion me and shyamant had
+then that truth table seems wrong
+Total 6 terms na
+See this
+A is superintendent,B is HOD,C is course leader,D is tutor
+10
+What🙄
+How???
+A can enter noe ?
+with whomever he wants to
+Yeah..
+So..yeah..I need to consider him entering with everyone?
+why is 1101 as 0 ?
+yeah
+It's not
+It's 1110
+your third last is 1 1 1 0 and outputs 0
+* 1101
+Like AB ,AC,AD,.. THAT'S ALREADY THERE
+SO..ABC,ABD
+I need to take that also now?
+Yeah ..so that's ABD
+yeah
+you minimized your expression ?
+K-Map ?
+Nope
+okay do that
+the answer will have only 2 terma
+But it gives the minimised expression in logisim na
+after minimized
+Oh okay
+I'll see
+yeah if you click on K Map it minimzes it
+Haan
+So 7 terms with A huh?
+10
+total 10
+No wait..8
+Yeah..got it
+With A in the expression?
+All 10 terms have A?
+no
+some terms are there noe like CH, CHT
+where S is not there
+your A is my S
+Yeah yeah...
+yeah
+Okay🤗
+Wth is it just BC +A
+?
+yeahhhhh
+Oh my God
+I was scared I did it wrong again
+Thanks Satyajit!
+😅
+U did B2 ?
+LD?
+nope
+we just got the values
+Yeah..I thought I'll finish it off
+I started...I had doubt now
+Chuck
+you did debate ?
+Yeahh
+Conclusion I haven't written
+ohkay
+✌🏻
+Hey.. coming to clg tmrw?
+you ?
+I don't think I'll comr
+I'm thinking not to come
+But lab
+And math..idk inverse Laplace thing
+is it coming ?
+Yup
+hmm will have to read it
+On ur own?
+umm yeah
+Cool
+So decided u won't come?
+yeah . . .
+Ok✌🏻
+Sequence and summations aren't there na?
+nope
+Cool
+u donno?
+😂 I don't even know that guy
+subah ke 4 baje
+billi aati hai
+pta hai kitna darr lagta hai
+imagine sleeping in your blanket
+a cat comes on top
+you don't realise its a cat
+it's dark
+and scary
+because that car starts scratching
+*cat
+u dont know how hard im laughing right now😂😂😂😂😂😂
+the blanket
+hota hai yaar, sacchi
+mujhe pata nahi..but imagining it is tooo funny😂😂😂😂😂😂
+yeah
+and that cat has its kids too
+one of the kid is like half orangish and half black
+imagine that coming in night
+poora family😆
+looking at you with those scary eyes
+and you look back at him
+their eyes look so scary at night ik
+yeah
+they shineeeeeee
+i had a cat for 2 months
+i knoww..dogs' eyes shine too
+😌 it's difficult to maintain a cat
+almost lemon yellow
+😁 and some human eyes too
+_some_
+ahh it ran away..it's grown up now.i see it in my compound sometimes
+really?😳
+😂 yeah
+depends on the other human actually
+who perceives it
+seriously?never heard abt it actually
+🤦‍♂ arre
+kya ?
+yeh chaand sa roshan chehra,
+zulfon ka rang sunehara,
+yeh jheel si neeli aankhein,
+koi raaz hai inme gehra
+😂😂😂 I donno
+taareef karo haa uski
+this song was playing in my mind
+jisne tumhe banaya
+haaaaan
+😂😂
+my fav song
+kashmir ki kali
+yeah
+😅
+hehe i love old hindi songs
+I didn't know you listened to hindi songs that often
+😂 it's mostly Louis or Kannada, is what I thought
+i listen to old hindi songs all the time and they are so much better than new ones
+ahhhh louis😌
+agreed 😁🙌
+🙌🏻😺
+Going to clg tmrw?
+not at all
+Pakka na
+haan
+I'm here at home
+Very good
+What if we have human rights
+Attendance shortage hoga kya?
+haan hoga toh
+assignment important hai lekin
+so
+baadh mai jaye human rights
+Woh bhi hain
+But it will be summer sem if he gave attendance below 80% na
+Have*
+hmm human rights summer
+chalega
+😂 sab ek saath attend karenge
+Thik hai
+Wohi karenge😂
+Main bhi nahi Jaa rahi
+😋
+good
+so
+kitna hua assignment ?
+Math .. doing
+LD I finished long back
+Coa B1 restoring division done
+DSA B1
+APC..half done
+btw for LD I did B1 using both methods Don't care and without don't care
+today morning I added don't care waala
+That's not needed anyway
+I won't do
+hmm
+How many are u done with?
+M3 and COA pura baaki hai
+and APC thoda documentation
+Math is okayish
+DM also documentation is left.
+Oh yeah..I need to do DM full
+Rest all done na?
+kinda kinda
+Good
+did coa B2?
+yeah
+How to do?
+Please reach
+Teach*
+teach
+0.2/time*10^6
+and then summation like that
+What's 0.2?
+20%
+is 0.2
+Oh Haan...so it's 0.10 and 0.5
+yeah yeah
+Can u please send a photo of atleast one subpart
+🙏🏻
+Satyajitttt
+Ummm ok..what to do for the next sub parts
+reduce the execution time
+by X% and Y%
+so new execution time is (100-X)/100 * execution timr
+and so on for Y%
+if 90% is reduced
+then 10% is remaining
+that's why subtract from 100
+got it ?
+My X is 50
+yeah same
+So? It's half that's all na
+so LOAD execution time is reduced by half
+yeah
+yeah
+Same formula we need to apply with the changed execution times
+yep
+same thing with new execution times
+that's tit
+*it
+Show B2.4
+I won't ask anymore questions🙊
+Thank you so much♥❤
+Oye ...u have committed a mistake here
+what ?
+420/3
+oh yeah
+140
+I fixed it before
+Shubham noticed
+Haan okay
+I was doing now..and saw
+Arre😂😂😂😂
+Woh mera dinu hai
+Usse Shubham mat bulao
+😂 accha theek hai
+It's a shame to my dinu😂
+Shubham ko Dinu bula sakte hai na phir ?
+kaisa hai dinu ?
+No no no
+My dinu is adorable
+Not this one
+ye bhi adorable hee hai
+Haan Haan sure😂😂😂
+cute sa hai
+dog food dekar dekho
+phir uska asli janwar bahar niklega
+What😂😂
+haab
+Let's see
+Tmrw I'll get dog food🐶
+Shubham ko dekha ?
+abhi tak nhi aaya hai
+I saw him go
+He's submitting I guess
+//www.reddit.com/r/aww/comments/9ig1we/cat_finds_ears/?utm_source=reddit-android
+😂😂😂😂😂😂
+wt r u doin
+time pass 😕
+kuch karne ko nhi hai
+Usse baat karlo
+kar rha hun
+😅
+woh bhi yahi puch rhi thi
+😂
+Good for you
+Looking very happy eh?😂😂
+🤦‍♂🤦‍♂
+roz saree pehentin hai ab toh
+Yea😂
+😂🤣😂🤣🤣😂🤣😂🤣😂🤣😂🤣🤣😂🤣😂🤣😂 ikr
+Yes😂😂😂😂😂
+He's scared of u😂
+me ?
+how ?
+Yah...he is😂
+😂 what did I do
+U should know😂
+aeee I didn't do anything
+he sent the ss of ur chat
+😂
+which part ?
+😂 there was a lot of stuff
+now..my status thing
+Shubham has a lot of free time . . . .
+and he's jobless
+so what else do you expect
+😂😂😂
+he'll be thinking abt her only i guess
+😂 wait you should see something
+don't tell him that I sent it you, or show it to him.
+Ohoooooooo
+😌
+i want to see him talk to her
+😂 me too
+arrange a date for him
+or
+sure..when
+convince him for the trip
+even she is going noe
+that would be best
+there you can hook him up
+he cant register now anyway
+oh 😕
+yeah ..i wish
+he could have asked me bfr if she was cmn
+he knew
+he had asked her
+wayyyy before
+😂 arre he knows everything
+about her
+*neha
+oh yeah obviously
+he's like me only😂
+🤦‍♂ you both jobless huh
+i'm not..and i've stopped that actually😂
+aaah
+good
+😂 Shubham ko bhi samjha do phir
+i know..it's difficult..but need to get used to that
+nah..let him get spoilt
+okay that works too
+since the summer break was over he only thinks about her
+and talk about her
+that's me since an year
+yaar iska section change karwa do
+anusha is fed up about me
+to B?
+yessss
+sure..what shall we change his name to?
+N<something>
+nihal
+haan chalega
+bus nikalo isko jaldi se
+let's decide this in class tmrw😂😂
+okay sure 🤣
+😆😆
+whatever you are doing with Shubham
+keep doing
+👍👍👍👍
+Irritating him?
+Or giving him advice?
+😂 this 👍👍
+Okay done😂🙌🏻
+he's telling me ki tu uska dimag khaa rhi hai
+😂 accha hai
+100%
+I'm happy teasing him😂
+even Prachi is saying to irritate him
+so . . .
+😂🤣🤣😂 keep it up
+Now I know😂
+Thanks thanks😛
+😭 mujhe kyu pareshaan kar rha hai woh
+What's wrong with him😂
+I'm straight
+Tell him pls😂
+😂😂😂
+you tell him
+I already did😂
+But ur an expert in computer😏
+😂😂😂🤣🤣🤣
+😂
+😂 BTW I found out he saves her number in the name of "S neha" so we won't find out her chat in WhatsApp
+does he even TALK to her???
+yeahhhhhhhh
+oh damn i didnt know this
+he said he doesnt
+anyway...tmrw he wont be spared
+😂😂😂😂
+wait
+wait?
+this 😂😂
+this i know
+but did he text????
+he would have I'm guessing
+he will
+he won't stay quiet
+ohhoooo....tmrw's task ik..TEASE HIM
+🤣👍👍
+😏
+awwwwh groot
+😁😁 haina cute
+very much
+my A section group icon is baby groot sittin on starlord's shoulder
+your A section ?
+😂 kya ?
+a section gang ka group😂
+oh
+😂
+Neha's Ex
+waaal group
+*waala
+oh shut up
+😂 he's really missing her
+Guess who took that back wala pic
+And also...she's right here
+😂 ohhh
+qhkd is Neha
+it's Caesar's cipher encoded, with k=3
+he's gone mad
+he's lost his memory
+_woh kahin gayi hee nhi hai_ is seems
+😂 pagal ho gaya hai, sacchi
+Neha should come back soon, else I'm sending him to mental hospital
+I'm laughing like a mental here😂😂😂
+😂😂 apparently they gonna have kitties
+What the fuck😂😂😂😂
+You you you you you
+What?
+galti se bhej diya tha kuch
+Achaa
+no, but sir explained it in the class
+Yeahhhh
+But can u write and show the objects?
+Only identify objects..that's enough
+I'm not sure
+Ask someone ?
+And tell me also
+Objects will be created by us na..it won't be given
+How can we identify here ?
+yeah
+That's why ask someone
+Yeah..ok
+U ask shyamant noe🤦🏻‍♀
+Bulbasaur, Squirtle
+😂
+done
+Pikachuuuu
+😂
+thats electric type
+😛
+Yeah
+U know the meaning of Pikachu?
+grass, water
+no
+What ?
+It's electric kiss😂
+Chu means kiss in Japanese
+😱😱
+Mud type?
+😂😂
+umm Google ?
+My friend told me..she knows japanese
+Okiee
+So.. types of Pokemon's are the objects
+These are all classes
+When you start specifying the fields, it becomes an object
+Yeah...mud type,grass type and water type
+Yep
+And also Pokemon type
+That's also a class
+Methods are move,eat and that stuff na
+Yepp
+Parent class
+Yep
+Name , colour and all are fields?
+Partner class fields
+What's partner class fields?
+They are inherited from parent class na
+Yeah
+So the parent class has those fields
+Percentage of water and all are fields in the sub classes
+Yep
+Water type
+Okiee
+When we write the inheritance hierarchy ka diagram,we need to mention fields and methods also na?
+Yes
+Like a UML diagram
+Ohkayy
+I hope he gives something like that...I'll be very happy😂
+What's UML?
+Something like this
+Okk..
+I'll do it the way it's given in one of the slides
+And direction also should be shown na
+Yeah
+ughhh those were bad examples
+I didn't even see😂
+This one's proper
+Ya
+Finished teaching ur girl?
+😂 she's not "my" girl
+She is...
+Atleast for me to tease u
+can we not talk about her
+Yeah sure
+hmm 😅
+Anyway
+Prepared?
+yeah mostly
+COA?
+COA, nothing
+Same here🤦🏻‍♀
+3 hours idk what I'll study
+There's a lot in COA
+Those algorithms
+Diagrams
+Ughhh
+Only data path wala na
+We don't have pipeline
+Arithmetic
+Thingy ?
+Booths algorithm
+That one...that's easy
+And then that repeated division
+I was absent
+Assignment waala
+I don't think they'll ask that
+It was asked in assignments already
+They might ask multipliers
+Then they'll ask those diagrams in data path
+Diagrams ?
+And also algorithm
+No.. booth's algorithm
+Yeah🤦🏻‍♀
+I need to learn in clg
+There's array multipliers also
+You made notes in class ?
+send pleaseeeeeeeeeeeeee
+Array multiplier?
+I don't think she did it
+Whatever she did
+I have sequential multiplier thing
+Okay
+.
+After adders
+And before pipelining
+5×-6
+4×3
+7×6
+seq mul ?
+Yeah..this only
+ohkay
+oh
+And ?
+That's all
+These problems
+😮 oh cool
+✋🏻
+🤚🏻
+😂🙌🏻
+✋🤚
+😂
+Bas bas
+Go study
+Hey..send codes for stack and queue implementation using lists
+That word document
+With explanation
+And also circular and doubly linked list if u have
+I don't . . .
+Okay
+That's it, 36 is the answer
+Ohhh okayy
+Hey
+which performance is btr..7 or 5 stage n y
+COA
+satyajittttttttttttttttttttttttt
+who ?
+you you you
+7
+I'm still doing COA
+will tell you after finishing
+shubham told u finished all
+and that he made a deal with u for COA with a silk
+wait what
+silk
+yeah DIARY MILK SILK
+in his definition, silk is "someone"
+not "something"
+that doesnt sound good at all
+no
+no it doesnt
+So it's actual silk silk ?
+yeah
+will u do it for me 😁
+no
+is there silk involved ?
+with your deal ?
+might be
+would u do?
+lemme finish mine COA then
+Just have to do last part
+ahaaaan
+and then I have to do APC debate
+and also LD debate
+ahhhhhhhhhhhhh
+And human rights
+😭
+ohho
+so much u have
+he solved COA way before
+waaaah
+so..he's a liar
+yeah . . .
+wow
+Bachha
+tu bacchi
+Tu bachha
+nhi tuuuuuuu
+Tuuuuuuuuuu
+You deleted this message
+You deleted this message
+Cute cat
+You deleted this message
+You deleted this message
+Why are u deleting🤦🏻‍♀
+Mad😂😂
+Enough stickers😂
+Stopppppp
+Mad
+Mad
+Shyamant
+Oh god🤦🏻‍♀😂
+Shall we do mass bunk in Monday?
+On*
+umm i donno, I'm fine with it if everyone is doing it.
+Why though ?
+Yeah..many are leaving for their home tmrw
+So..
+Oh ok
+So like no going to college at all on Monday ?
+or going, but not attending
+That's what...if everyone agrees...we don't even have to go
+The only person who goes to class in spite of a bunk Is Shilajit
+And he's leaving tmrw
+Okay
+lemme know how it goes, like if everyone agrees on it
+I should first ask in class group
+Reply in group
+Go go go
